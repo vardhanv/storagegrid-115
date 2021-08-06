@@ -36,6 +36,6 @@ audit.log
  .. Enter the password listed in the `Passwords.txt` file.
 . Go to the directory containing the audit log files:
 ----
-`cd /var/local/audit/export`
+cd /var/local/audit/export
 ----
 . View the current or a saved audit log file, as required.

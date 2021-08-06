@@ -104,7 +104,7 @@ This operation returns the replication configuration attached to the bucket.
 a|
 GET Bucket tagging
 a|
-This operation uses the _tagging_ subresource to return all tags for a bucket.
+This operation uses the `tagging` subresource to return all tags for a bucket.
 a|
 GET Bucket versioning
 a|
@@ -376,7 +376,7 @@ You can determine if an expiration rule in the lifecycle configuration applies t
 
 NOTE: Because bucket lifecycle overrides ILM, the `expiry-date` shown is the actual date the object will be deleted. For details, see "`How object retention is determined`" in the instructions for performing StorageGRID administration.
 
-For example, this PUT Object request was issued on 22 Jun 2020 and places an object in the testbucket bucket.
+For example, this PUT Object request was issued on 22 Jun 2020 and places an object in the `testbucket` bucket.
 
 ----
 aws s3api --endpoint-url <StorageGRID endpoint> put-object
