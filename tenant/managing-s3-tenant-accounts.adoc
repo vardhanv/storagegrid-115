@@ -1,0 +1,15 @@
+---
+permalink: tenant/managing-s3-tenant-accounts.html
+sidebar: sidebar
+keywords:
+summary: 'You can use the Tenant Manager to manage S3 access keys and to create and manage S3 buckets.'
+---
+= Managing S3 tenant accounts
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can use the Tenant Manager to manage S3 access keys and to create and manage S3 buckets.
+
+* xref:managing-s3-access-keys.adoc[Managing S3 access keys]
+* xref:managing-s3-buckets.adoc[Managing S3 buckets]
