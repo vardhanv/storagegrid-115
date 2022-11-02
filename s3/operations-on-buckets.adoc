@@ -262,8 +262,6 @@ xref:../ilm/index.adoc[Manage objects with ILM]
 xref:../tenant/index.adoc[Use a tenant account]
 
 == Creating an S3 lifecycle configuration
-
-[.lead]
 You can create an S3 lifecycle configuration to control when specific objects are deleted from the StorageGRID system.
 
 The simple example in this section illustrates how an S3 lifecycle configuration can control when certain objects are deleted (expired) from specific S3 buckets. The example in this section is for illustration purposes only. For complete details on creating S3 lifecycle configurations, see the section on object lifecycle management in the _Amazon Simple Storage Service Developer Guide_. Note that StorageGRID only supports Expiration actions; it does not support Transition actions.

@@ -22,8 +22,6 @@ xref:viewing-specific-alert.adoc[Viewing a specific alert]
 xref:alerts-reference.adoc[Alerts reference]
 
 == What alerts are
-
-[.lead]
 The alert system provides an easy-to-use interface for detecting, evaluating, and resolving the issues that can occur during StorageGRID operation.
 
 * The alert system focuses on actionable problems in the system. Unlike some alarms in the legacy system, alerts are triggered for events that require your immediate attention, not for events that can safely be ignored.
@@ -37,13 +35,9 @@ The alert system provides an easy-to-use interface for detecting, evaluating, an
 * You can create custom alert rules to target the specific conditions that are relevant to your situation and to provide your own recommended actions. To define the conditions for a custom alert, you create expressions using the Prometheus metrics available from the Metrics section of the Grid Management API.
 
 == Managing alert rules
-
-[.lead]
 Alert rules define the conditions that trigger specific alerts. StorageGRID includes a set of default alert rules, which you can use as is or modify, or you can create custom alert rules.
 
 === Viewing alert rules
-
-[.lead]
 You can view the list of all default and custom alert rules to learn which conditions will trigger each alert and to see whether any alerts are disabled.
 
 .What you'll need
@@ -95,8 +89,6 @@ Whether this alert rule is currently enabled or disabled. The conditions for dis
 xref:alerts-reference.adoc[Alerts reference]
 
 === Creating custom alert rules
-
-[.lead]
 You can create custom alert rules to define your own conditions for triggering alerts.
 
 .What you'll need
@@ -188,8 +180,6 @@ xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
 https://prometheus.io/docs/querying/basics/[Prometheus: Query basics]
 
 === Editing an alert rule
-
-[.lead]
 You can edit an alert rule to change the trigger conditions, For a custom alert rule, you can also update the rule name, description, and recommended actions.
 
 .What you'll need
@@ -287,8 +277,6 @@ xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
 https://prometheus.io/docs/querying/basics/[Prometheus: Query basics]
 
 === Disabling an alert rule
-
-[.lead]
 You can change the enabled/disabled state for a default or custom alert rule.
 
 .What you'll need
@@ -321,8 +309,6 @@ NOTE: If you disable the alert rule for a current alert, you must wait a few min
 *Disabled* appears in the *Status* column.
 
 === Removing a custom alert rule
-
-[.lead]
 You can remove a custom alert rule if you no longer want to use it.
 
 .What you'll need
@@ -347,13 +333,9 @@ A confirmation dialog box appears.
 Any active instances of the alert will be resolved within 10 minutes.
 
 == Managing alert notifications
-
-[.lead]
 When an alert is triggered, StorageGRID can send email notifications and Simple Network Management Protocol (SNMP) notifications (traps).
 
 === Setting up SNMP notifications for alerts
-
-[.lead]
 If you want StorageGRID to send SNMP notifications when alerts occur, you must enable the StorageGRID SNMP agent and configure one or more trap destinations.
 
 .About this task
@@ -381,8 +363,6 @@ xref:../admin/index.adoc[Administer StorageGRID]
 xref:alarms-that-generate-snmp-notifications.adoc[Alarms that generate SNMP notifications (legacy system)]
 
 === Setting up email notifications for alerts
-
-[.lead]
 If you want email notifications to be sent when alerts occur, you must provide information about your SMTP server. You must also enter email addresses for the recipients of alert notifications.
 
 .What you'll need
@@ -506,8 +486,6 @@ xref:managing-alerts.adoc[Troubleshooting alert email notifications]
 xref:../maintain/index.adoc[Maintain & recover]
 
 === Information included in alert email notifications
-
-[.lead]
 After you configure the SMTP email server, email notifications are sent to the designated recipients when an alert is triggered, unless the alert rule is suppressed by a silence.
 
 Email notifications include the following information:
@@ -543,8 +521,6 @@ The hostname of the Admin Node that sent the notification.
 xref:managing-alerts.adoc[Silencing alert notifications]
 
 === How StorageGRID groups alerts in email notifications
-
-[.lead]
 To prevent an excessive number of email notifications from being sent when alerts are triggered, StorageGRID attempts to group multiple alerts in the same notification.
 
 Refer to the following table for examples of how StorageGRID groups multiple alerts in email notifications.
@@ -599,8 +575,6 @@ a|
 |===
 
 === Troubleshooting alert email notifications
-
-[.lead]
 If the *Email notification failure* alert is triggered or you are unable to receive the test alert email notification, follow these steps to resolve the issue.
 
 .What you'll need
@@ -623,8 +597,6 @@ Technical support can use the information in the logs to help determine what wen
 xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
 
 == Silencing alert notifications
-
-[.lead]
 Optionally, you can configure silences to temporarily suppress alert notifications.
 
 .What you'll need

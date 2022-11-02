@@ -12,8 +12,6 @@ summary: ''
 You can create, edit, and remove load balancer endpoints.
 
 == Creating load balancer endpoints
-
-[.lead]
 Each load balancer endpoint specifies a port, a network protocol (HTTP or HTTPS), and a service type (S3 or Swift). If you create an HTTPS endpoint, you must upload or generate a server certificate.
 
 .What you'll need

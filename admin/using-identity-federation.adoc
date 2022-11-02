@@ -12,8 +12,6 @@ summary: ''
 Using identity federation makes setting up groups and users faster, and it allows users to sign in to StorageGRID using familiar credentials.
 
 == Configuring identity federation
-
-[.lead]
 You can configure identity federation if you want admin groups and users to be managed in another system such as Active Directory, OpenLDAP, or Oracle Directory Server.
 
 .What you'll need

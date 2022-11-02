@@ -12,8 +12,6 @@ summary: ''
 If single sign-on (SSO) has been enabled for your StorageGRID system, you cannot use the standard Authenticate API requests to sign in to and sign out of the Grid Management API or the Tenant Management API.
 
 == Signing in to the API if single sign-on is enabled
-
-[.lead]
 If single sign-on (SSO) has been enabled, you must issue a series of API requests to obtain an authentication token from AD FS that is valid for the Grid Management API or the Tenant Management API.
 
 .What you'll need
@@ -205,8 +203,6 @@ export MYTOKEN="56eb07bf-21f6-40b7-af0b-5c6cacfb25e7"
 You can now use `MYTOKEN` for other requests, similar to how you would use the API if SSO was not being used.
 
 == Signing out of the API if single sign-on is enabled
-
-[.lead]
 If single sign-on (SSO) has been enabled, you must issue a series of API requests to sign out of the Grid Management API or the Tenant Management API.
 
 .About this task
