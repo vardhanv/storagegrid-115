@@ -1,0 +1,24 @@
+---
+permalink: tenant/managing-s3-platform-services.html
+sidebar: sidebar
+keywords:
+summary: 'If the use of platform services is allowed for your S3 tenant account, you can use platform services to leverage external services and configure CloudMirror replication, notifications, and search integration for S3 buckets.'
+---
+= Managing S3 platform services
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+If the use of platform services is allowed for your S3 tenant account, you can use platform services to leverage external services and configure CloudMirror replication, notifications, and search integration for S3 buckets.
+
+* xref:what-platform-services-are.adoc[What platform services are]
+
+* xref:considerations-for-using-platform-services.adoc[Considerations for using platform services]
+
+* xref:configuring-platform-services-endpoints.adoc[Configuring platform services endpoints]
+
+* xref:configuring-cloudmirror-replication.adoc[Configuring CloudMirror replication]
+
+* xref:configuring-event-notifications.adoc[Configuring event notifications]
+
+* xref:using-search-integration-service.adoc[Using the search integration service]

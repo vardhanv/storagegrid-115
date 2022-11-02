@@ -1,10 +1,14 @@
----
 settings:
-  name: StorageGRID
+  name: "StorageGRID 11.5"
   internal:
     pdf_enabled: true
   prod:
-    pdf_enabled: true
+  # Keep PDF and localization off for initial publishing - bmegan
+    pdf_enabled: false
+    harmony_enabled: false
+    
+
+    
 sidebar:
   entries:
     - title: StorageGRID 11.5 Docs
@@ -44,7 +48,7 @@ homepage:
       - title: Release notes
         url: /release-notes/index.html
       - title: What's new
-        url: /upgrade/whats_new.html
+        url: /upgrade/whats-new.html
       - title: Grid primer
         url: /primer/index.html
       - title: Network guidelines
