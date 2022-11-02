@@ -8,8 +8,7 @@ summary: 'Example 2 assumes you are familiar with bonding network interfaces and
 :icons: font
 :imagesdir: ../media/
 
-.About this task
-
+[.lead]
 Example 2 assumes you are familiar with bonding network interfaces and with creating VLAN interfaces on the Linux distribution you are using.
 
 Example 2 describes a generic, flexible, VLAN-based scheme that facilitates the sharing of all available network bandwidth across all nodes on a single host. This example is particularly applicable to bare metal hosts.
