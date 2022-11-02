@@ -1,14 +1,12 @@
 settings:
   name: "StorageGRID 11.5"
-  # rss_page: "/whats-new.html"
-  # downlevel: true
   internal:
     pdf_enabled: false
   prod:
+  # Keep PDF and localization off for initial publishing - bmegan
     pdf_enabled: false
-    # Do not touch the next two settings at this time - bmegan
-    # harmony_enabled: true
-    # langs: us-en,ja-jp
+    harmony_enabled: false
+    
 
     
 sidebar:
