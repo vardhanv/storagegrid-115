@@ -1,7 +1,7 @@
 settings:
   name: "StorageGRID 11.5"
   internal:
-    pdf_enabled: false
+    pdf_enabled: true
   prod:
   # Keep PDF and localization off for initial publishing - bmegan
     pdf_enabled: false
