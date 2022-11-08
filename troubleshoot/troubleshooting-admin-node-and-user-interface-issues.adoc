@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-admin-node-and-user-interface-issues.html
+permalink: troubleshoot/troubleshooting-admin-node-and-user-interface-issues.html
 sidebar: sidebar
 keywords:
 summary: 'There are several tasks you can perform to help determine the source of issues related to Admin Nodes and the StorageGRID user interface.'

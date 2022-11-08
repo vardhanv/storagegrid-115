@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-object-and-storage-issues.html
+permalink: troubleshoot/troubleshooting-object-and-storage-issues.html
 sidebar: sidebar
 keywords:
 summary: 'There are several tasks you can perform to help determine the source of object and storage issues.'

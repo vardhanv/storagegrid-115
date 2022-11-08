@@ -1,5 +1,5 @@
 ---
-permalink: monitor/searching-for-and-restoring-potentially-lost-objects.html
+permalink: troubleshoot/searching-for-and-restoring-potentially-lost-objects.html
 sidebar: sidebar
 keywords:
 summary: 'It might be possible to find and restore objects that have triggered a Lost Objects (LOST) alarm and a *Object lost* alert and that you have identified as potentially lost.'

@@ -1,5 +1,5 @@
 section: monitor
-title: Monitor & troubleshoot
+title: Monitoring a StorageGRID system
 url: "/monitor/index.html"
 entries:
   - title: Using the Grid Manager for monitoring
@@ -148,37 +148,6 @@ entries:
       url: "/monitor/running-diagnostics.html"
     - title: Creating custom monitoring applications
       url: "/monitor/creating-custom-monitoring-applications.html"
-  - title: Troubleshooting a StorageGRID system
-    url: "/monitor/troubleshooting-storagegrid-system.html"
-    entries:
-    - title: Troubleshooting object and storage issues
-      url: "/monitor/troubleshooting-object-and-storage-issues.html"
-      entries:
-      - title: Verifying object integrity
-        url: "/monitor/verifying-object-integrity.html"
-      - title: Troubleshooting lost and missing object data
-        url: "/monitor/troubleshooting-lost-and-missing-object-data.html"
-        entries:
-        - title: Investigating lost objects
-          url: "/monitor/investigating-lost-objects.html"
-        - title: Searching for and restoring potentially lost objects
-          url: "/monitor/searching-for-and-restoring-potentially-lost-objects.html"
-        - title: Resetting lost and missing object counts
-          url: "/monitor/resetting-lost-and-missing-object-counts.html"
-      - title: Troubleshooting the Low object data storage alert
-        url: "/monitor/troubleshooting-low-object-data-storage-alert.html"
-      - title: Troubleshooting the Storage Status (SSTS) alarm
-        url: "/monitor/troubleshooting-storage-status-alarm.html"
-      - title: Troubleshooting delivery of platform services messages (SMTT alarm)
-        url: "/monitor/troubleshooting-delivery-platform-services-messages.html"
-    - title: Troubleshooting metadata issues
-      url: "/monitor/troubleshooting-metadata-issues.html"
-    - title: Troubleshooting certificate errors
-      url: "/monitor/troubleshooting-certificate-errors.html"
-    - title: Troubleshooting Admin Node and user interface issues
-      url: "/monitor/troubleshooting-admin-node-and-user-interface-issues.html"
-    - title: Troubleshooting network, hardware, and platform issues
-      url: "/monitor/troubleshooting-network-hardware-and-platform-issues.html"
   - title: Alerts reference
     url: "/monitor/alerts-reference.html"
     entries:

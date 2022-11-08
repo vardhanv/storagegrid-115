@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-low-object-data-storage-alert.html
+permalink: troubleshoot/troubleshooting-low-object-data-storage-alert.html
 sidebar: sidebar
 keywords:
 summary: 'The *Low object data storage* alert monitors how much space is available for storing object data on each Storage Node.'

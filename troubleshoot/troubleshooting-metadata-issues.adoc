@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-metadata-issues.html
+permalink: troubleshoot/troubleshooting-metadata-issues.html
 sidebar: sidebar
 keywords:
 summary: 'There are several tasks you can perform to help determine the source of metadata problems.'

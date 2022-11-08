@@ -9,7 +9,7 @@ summary: ''
 :imagesdir: ../media/
 
 [.lead]
-Learn how to monitor a StorageGRID system and how to assess and resolve issues that might occur. Lists all system alerts.
+Learn how to monitor a StorageGRID system and how to assess issues that might occur. Lists all system alerts.
 
 * xref:using-grid-manager-for-monitoring.adoc[Using the Grid Manager for monitoring]
 * xref:information-you-should-monitor-regularly.adoc[Information you should monitor regularly]

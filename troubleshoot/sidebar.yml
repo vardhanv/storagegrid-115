@@ -1,0 +1,32 @@
+section: troubleshoot
+title: Troubleshooting a StorageGRID system
+url: "/troubleshoot/troubleshooting-storagegrid-system.html"
+entries:
+  - title: Troubleshooting object and storage issues
+    url: "/troubleshoot/troubleshooting-object-and-storage-issues.html"
+    entries:
+    - title: Verifying object integrity
+      url: "/troubleshoot/verifying-object-integrity.html"
+    - title: Troubleshooting lost and missing object data
+      url: "/troubleshoot/troubleshooting-lost-and-missing-object-data.html"
+      entries:
+       - title: Investigating lost objects
+         url: "/troubleshoot/investigating-lost-objects.html"
+       - title: Searching for and restoring potentially lost objects
+         url: "/troubleshoot/searching-for-and-restoring-potentially-lost-objects.html"
+       - title: Resetting lost and missing object counts
+         url: "/troubleshoot/resetting-lost-and-missing-object-counts.html"
+    - title: Troubleshooting the Low object data storage alert
+      url: "/troubleshoot/troubleshooting-low-object-data-storage-alert.html"
+    - title: Troubleshooting the Storage Status (SSTS) alarm
+      url: "/troubleshoot/troubleshooting-storage-status-alarm.html"
+    - title: Troubleshooting delivery of platform services messages (SMTT alarm)
+      url: "/troubleshoot/troubleshooting-delivery-platform-services-messages.html"
+  - title: Troubleshooting metadata issues
+    url: "/troubleshoot/troubleshooting-metadata-issues.html"
+  - title: Troubleshooting certificate errors
+    url: "/troubleshoot/troubleshooting-certificate-errors.html"
+  - title: Troubleshooting Admin Node and user interface issues
+    url: "/troubleshoot/troubleshooting-admin-node-and-user-interface-issues.html"
+  - title: Troubleshooting network, hardware, and platform issues
+    url: "/troubleshoot/troubleshooting-network-hardware-and-platform-issues.html"

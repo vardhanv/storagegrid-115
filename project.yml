@@ -107,7 +107,7 @@ homepage:
       - title: Monitor
         url: /monitor/index.html
       - title: Troubleshoot
-        url: /troubleshoot/index.html
+        url: /troubleshoot/troubleshooting-storagegrid-system.html
       - title: Review audit logs
         url: /audit/index.html
       - title: Expand your grid

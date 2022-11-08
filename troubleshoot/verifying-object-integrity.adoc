@@ -1,5 +1,5 @@
 ---
-permalink: monitor/verifying-object-integrity.html
+permalink: troubleshoot/verifying-object-integrity.html
 sidebar: sidebar
 keywords:
 summary: 'The StorageGRID system verifies the integrity of object data on Storage Nodes, checking for both corrupt and missing objects.'

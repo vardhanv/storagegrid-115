@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-network-hardware-and-platform-issues.html
+permalink: troubleshoot/troubleshooting-network-hardware-and-platform-issues.html
 sidebar: sidebar
 keywords:
 summary: 'There are several tasks you can perform to help determine the source of issues related to StorageGRID network, hardware, and platform issues.'

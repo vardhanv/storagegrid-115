@@ -1,5 +1,5 @@
 ---
-permalink: monitor/troubleshooting-storagegrid-system.html
+permalink: troubleshoot/troubleshooting-storagegrid-system.html
 sidebar: sidebar
 keywords:
 summary: 'If you encounter a problem when using a StorageGRID system, refer to the tips and guidelines in this section for help in determining and resolving the issue.'
