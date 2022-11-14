@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords:
 summary: ''
 ---
-= Monitor & troubleshoot
+= Monitor a StorageGRID system
 :icons: font
 :imagesdir: ../media/
 
