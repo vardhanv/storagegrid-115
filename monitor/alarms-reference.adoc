@@ -1242,8 +1242,6 @@ This alarm might also indicate that the metadata store (Cassandra database) for 
 
 If the problem persists, contact technical support.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
-
 a|
 TMEM
 a|
