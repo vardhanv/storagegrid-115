@@ -100,7 +100,7 @@ Learn about deactivating an Erasure Coding profile in the instructions for manag
 |===
 | If your grid includes...| Go to...
 |Any disconnected grid nodes
-|link:decommissioning_disconnected_grid_nodes.html[Decommissioning disconnected grid nodes]
+|link:decommissioning-disconnected-grid-nodes.html[Decommissioning disconnected grid nodes]
 
 |Only connected grid nodes
 |link:decommissioning-connected-grid-nodes.html[Decommissioning connected grid nodes]
