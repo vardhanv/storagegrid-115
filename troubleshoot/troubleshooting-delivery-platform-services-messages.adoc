@@ -38,6 +38,6 @@ xref:../admin/index.adoc[Administer StorageGRID]
 
 xref:../tenant/index.adoc[Use a tenant account]
 
-xref:logs-files-reference.adoc[Log files reference]
+xref:../monitor/logs-files-reference.adoc[Log files reference]
 
 xref:../monitor/resetting-event-counts.adoc[Resetting event counts]
