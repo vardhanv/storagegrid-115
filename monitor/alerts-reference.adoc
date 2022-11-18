@@ -544,7 +544,7 @@ Grid Network MTU mismatch
 a|
 The maximum transmission unit (MTU) setting for the Grid Network interface (eth0) differs significantly across nodes in the grid.The differences in MTU settings could indicate that some, but not all, eth0 networks are configured for jumbo frames. An MTU size mismatch of greater than 1000 might cause network performance problems.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Grid Network MTU mismatch alert]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Grid Network MTU mismatch alert]
 
 a|
 High Java heap use
@@ -775,7 +775,7 @@ Immediately add Storage Nodes in an expansion procedure.
 
 Once new Storage Nodes are added, the system automatically rebalances object metadata across all Storage Nodes, and the alarm clears.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
 
 xref:../expand/index.adoc[Expand your grid]
 
@@ -792,7 +792,7 @@ Low object data storage
 a|
 The space available for storing object data is low.Perform an expansion procedure. You can add storage volumes (LUNs) to existing Storage Nodes, or you can add new Storage Nodes.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Low object data storage alert]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low object data storage alert]
 
 xref:../expand/index.adoc[Expand your grid]
 
@@ -817,7 +817,7 @@ Node network connectivity error
 a|
 Errors have occurred while transferring data between nodes.Network connectivity errors might clear without manual intervention. Contact technical support if the errors do not clear.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Network Receive Error (NRER) alarm]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Network Receive Error (NRER) alarm]
 
 a|
 Node network reception frame error
@@ -859,7 +859,7 @@ One or more objects have been lost from the grid.This alert might indicate that 
 
 . Investigate this alert immediately. You might need to take action to prevent further data loss. You also might be able to restore a lost object if you take prompt action.
 +
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
 
 . When the underlying problem is resolved, reset the counter:
  .. Select *Support* > *Tools* > *Grid Topology*.
@@ -1047,7 +1047,7 @@ A file was found in replicated object storage that could not be identified as a 
 . Monitor this alert. The alert will clear after 24 hours, but will be triggered again if the issue has not been fixed.
 . If you cannot resolve the alert, contact technical support.
 
-xref:troubleshooting-storagegrid-system.adoc[Running foreground verification]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Running foreground verification]
 
 |===
 *Related information*

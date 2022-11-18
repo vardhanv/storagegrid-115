@@ -60,4 +60,4 @@ Optionally, you can click *Delete* to remove the log file archive package and fr
 
 .Related information
 
-xref:logs-files-reference.adoc[Log files reference]
+xref:../monitor/logs-files-reference.adoc[Log files reference]

@@ -106,7 +106,7 @@ Review alerts and alarms triggered in the past for additional insights.
 |Identify trends, using chart and text reports
 |Trends can provide valuable clues about when issues first appeared, and can help you understand how quickly things are changing.
 |
-* xref:using-charts-and-reports.adoc[Using charts and reports]
+* xref:../monitor/using-charts-and-reports.adoc[Using charts and reports]
 
 |Establish baselines
 |Collect information about the normal levels of various operational values. These baseline values, and deviations from these baselines, can provide valuable clues.
@@ -130,9 +130,9 @@ Review alerts and alarms triggered in the past for additional insights.
 |Collect data for technical support
 |Technical support might ask you to collect data or review specific information to help troubleshoot issues.
 |
-* xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
-* xref:manually-triggering-autosupport-message.adoc[Manually triggering an AutoSupport message]
-* xref:reviewing-support-metrics.adoc[Reviewing support metrics]
+* xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+* xref:../monitor/manually-triggering-autosupport-message.adoc[Manually triggering an AutoSupport message]
+* xref:../monitor/reviewing-support-metrics.adoc[Reviewing support metrics]
 |===
 
 ==== Creating a timeline of recent changes
@@ -310,7 +310,7 @@ You can collect logs for the entire grid, or for selected nodes.
 
 If you are collecting logs only for selected nodes, be sure to include at least one Storage Node that has the ADC service. (The first three Storage Nodes at a site include the ADC service.)
 
-xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
 
 |
 |Baseline information

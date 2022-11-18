@@ -40,4 +40,4 @@ xref:../tenant/index.adoc[Use a tenant account]
 
 xref:logs-files-reference.adoc[Log files reference]
 
-xref:resetting-event-counts.adoc[Resetting event counts]
+xref:../monitor/resetting-event-counts.adoc[Resetting event counts]

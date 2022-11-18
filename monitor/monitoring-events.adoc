@@ -39,4 +39,4 @@ The Grid Topology page also lists the system events for each grid node.
 
 xref:resetting-event-counts.adoc[Resetting event counts]
 
-xref:logs-files-reference.adoc[Log files reference]
+xref:../monitor/logs-files-reference.adoc[Log files reference]

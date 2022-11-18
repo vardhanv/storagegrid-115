@@ -186,7 +186,7 @@ The ring buffer can be overrun when the StorageGRID system is overloaded and una
 
 xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Grid Network MTU mismatch alert]
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+xref:../monitor/alarms-reference.adoc[Alarms reference (legacy system)]
 
 xref:../sg6000/index.adoc[SG6000 storage appliances]
 
