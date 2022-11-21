@@ -6,6 +6,7 @@ summary: 'After investigating the StorageGRID system and verifying that all reco
 ---
 
 = Resetting lost and missing object counts
+:experimental:
 :icons: font
 :imagesdir: ../media/
 

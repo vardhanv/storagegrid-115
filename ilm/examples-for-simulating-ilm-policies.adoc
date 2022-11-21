@@ -5,6 +5,7 @@ keywords:
 summary: ''
 ---
 = Examples for simulating ILM policies
+:experimental:
 :icons: font
 :imagesdir: ../media/
 

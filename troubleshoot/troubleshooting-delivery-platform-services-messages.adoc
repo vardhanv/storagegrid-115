@@ -6,6 +6,7 @@ summary: 'The Total Events (SMTT) alarm is triggered in the Grid Manager if a pl
 ---
 
 = Troubleshooting delivery of platform services messages (SMTT alarm)
+:experimental:
 :icons: font
 :imagesdir: ../media/
 
