@@ -6,7 +6,6 @@ summary: 'If you see a security or certificate issue when you try to connect to 
 ---
 
 = Troubleshooting certificate errors
-:experimental:
 :icons: font
 :imagesdir: ../media/
 
