@@ -6,7 +6,6 @@ summary: 'When the *Objects lost* alert and the legacy LOST (Lost Objects) alarm
 ---
 
 = Investigating lost objects
-:experimental:
 :icons: font
 :imagesdir: ../media/
 

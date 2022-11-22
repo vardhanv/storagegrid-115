@@ -6,7 +6,6 @@ summary: 'The *Low object data storage* alert monitors how much space is availab
 ---
 
 = Troubleshooting the Low object data storage alert
-:experimental:
 :icons: font
 :imagesdir: ../media/
 
