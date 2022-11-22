@@ -1,12 +1,11 @@
 ---
-permalink: monitor/troubleshooting-delivery-platform-services-messages.html
+permalink: troubleshoot/troubleshooting-delivery-platform-services-messages.html
 sidebar: sidebar
 keywords:
 summary: 'The Total Events (SMTT) alarm is triggered in the Grid Manager if a platform service message is delivered to an destination that cannot accept the data.'
 ---
 
 = Troubleshooting delivery of platform services messages (SMTT alarm)
-:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -38,6 +37,6 @@ xref:../admin/index.adoc[Administer StorageGRID]
 
 xref:../tenant/index.adoc[Use a tenant account]
 
-xref:logs-files-reference.adoc[Log files reference]
+xref:../monitor/logs-files-reference.adoc[Log files reference]
 
-xref:resetting-event-counts.adoc[Resetting event counts]
+xref:../monitor/resetting-event-counts.adoc[Resetting event counts]

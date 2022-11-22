@@ -65,7 +65,7 @@ When you add the new nodes, the system automatically rebalances object metadata 
 
 .Related information
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
 
 xref:../admin/index.adoc[Administer StorageGRID]
 

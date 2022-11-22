@@ -1,5 +1,5 @@
 section: swift
-title: Use Swift
+title: Use Swift REST API
 url: "/swift/index.html"
 entries:
   - title: OpenStack Swift API support in StorageGRID

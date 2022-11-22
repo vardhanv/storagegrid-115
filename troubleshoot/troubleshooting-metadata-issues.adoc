@@ -1,12 +1,11 @@
 ---
-permalink: monitor/troubleshooting-metadata-issues.html
+permalink: troubleshoot/troubleshooting-metadata-issues.html
 sidebar: sidebar
 keywords:
 summary: 'There are several tasks you can perform to help determine the source of metadata problems.'
 ---
 
 = Troubleshooting metadata issues
-:experimental:
 :icons: font
 :imagesdir: ../media/
 
@@ -61,7 +60,7 @@ After you perform the expansion, StorageGRID redistributes the existing object m
 
 .Related information
 
-xref:monitoring-object-metadata-capacity-for-each-storage-node.adoc[Monitoring object metadata capacity for each Storage Node]
+xref:../monitor/monitoring-object-metadata-capacity-for-each-storage-node.adoc[Monitoring object metadata capacity for each Storage Node]
 
 xref:../expand/index.adoc[Expand your grid]
 
@@ -79,7 +78,7 @@ If Cassandra is stopped for more than 15 days (for example, the Storage Node is 
 
 You can use the Diagnostics page to obtain additional information on the current state of your grid.
 
-xref:running-diagnostics.adoc[Running diagnostics]
+xref:../monitor/running-diagnostics.adoc[Running diagnostics]
 
 IMPORTANT: If two or more of the Cassandra database services are down for more than 15 days, contact technical support, and do not proceed with the steps below.
 
@@ -169,7 +168,7 @@ If an out-of-memory error occurs for the Cassandra database, a heap dump is crea
 +
 You can use the Diagnostics page to obtain additional information on the current state of your grid.
 +
-xref:running-diagnostics.adoc[Running diagnostics]
+xref:../monitor/running-diagnostics.adoc[Running diagnostics]
 
 . Go to `/var/local/core/`, compress the `Cassandra.hprof` file, and send it to technical support.
 . Make a backup of the `Cassandra.hprof` file, and delete it from the `/var/local/core/ directory`.
@@ -182,4 +181,4 @@ NOTE: To reset event counts, you must have the Grid Topology Page Configuration 
 
 .Related information
 
-xref:resetting-event-counts.adoc[Resetting event counts]
+xref:../monitor/resetting-event-counts.adoc[Resetting event counts]

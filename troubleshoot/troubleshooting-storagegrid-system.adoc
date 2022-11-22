@@ -1,10 +1,10 @@
 ---
-permalink: monitor/troubleshooting-storagegrid-system.html
+permalink: troubleshoot/troubleshooting-storagegrid-system.html
 sidebar: sidebar
 keywords:
 summary: 'If you encounter a problem when using a StorageGRID system, refer to the tips and guidelines in this section for help in determining and resolving the issue.'
 ---
-= Troubleshooting a StorageGRID system
+= Troubleshoot a StorageGRID system
 :icons: font
 :imagesdir: ../media/
 
@@ -77,92 +77,62 @@ After you have defined the problem and have assessed its risk and impact, collec
 
 [cols="1a,2a,1a" options="header"]
 |===
-| Type of data to collect| Why collect this dat| Instructions
-|
-Create timeline of recent changes
-|
-Changes to your StorageGRID system, its configuration, or its environment can cause new behavior.
-|
+| Type of data to collect| Why collect this data| Instructions
 
+|Create timeline of recent changes
+|Changes to your StorageGRID system, its configuration, or its environment can cause new behavior.
+|
 * xref:troubleshooting-storagegrid-system.adoc[Creating a timeline of recent changes]
 
-|
-Review alerts and alarms
-|
-Alerts and alarms can help you quickly determine the root cause of a problem by providing important clues as to the underlying issues that might be causing it.
+|Review alerts and alarms
+|Alerts and alarms can help you quickly determine the root cause of a problem by providing important clues as to the underlying issues that might be causing it.
 
 Review the list of current alerts and alarms to see if StorageGRID has identified the root cause of a problem for you.
 
 Review alerts and alarms triggered in the past for additional insights.
 
 |
+* xref:../monitor/viewing-current-alerts.adoc[Viewing current alerts]
+* xref:../monitor/viewing-legacy-alarms.adoc[Viewing legacy alarms]
+* xref:../monitor/viewing-resolved-alerts.adoc[Viewing resolved alerts]
+* xref:../monitor/managing-alarms.adoc[Reviewing historical alarms and alarm frequency (legacy system)]
 
-* xref:viewing-current-alerts.adoc[Viewing current alerts]
-* xref:viewing-legacy-alarms.adoc[Viewing legacy alarms]
-* xref:viewing-resolved-alerts.adoc[Viewing resolved alerts]
-* xref:managing-alarms.adoc[Reviewing historical alarms and alarm frequency (legacy system)]
+|Monitor events
+|Events include any system error or fault events for a node, including errors such as network errors. Monitor events to learn more about issues or to help with troubleshooting.
+|
+* xref:../monitor/viewing-events-tab.adoc[Viewing the Events tab]
+* xref:../monitor/monitoring-events.adoc[Monitoring events]
 
+|Identify trends, using chart and text reports
+|Trends can provide valuable clues about when issues first appeared, and can help you understand how quickly things are changing.
 |
-Monitor events
-|
-Events include any system error or fault events for a node, including errors such as network errors. Monitor events to learn more about issues or to help with troubleshooting.
-|
+* xref:../monitor/using-charts-and-reports.adoc[Using charts and reports]
 
-* xref:viewing-events-tab.adoc[Viewing the Events tab]
-* xref:monitoring-events.adoc[Monitoring events]
-
+|Establish baselines
+|Collect information about the normal levels of various operational values. These baseline values, and deviations from these baselines, can provide valuable clues.
 |
-Identify trends, using chart and text reports
-|
-Trends can provide valuable clues about when issues first appeared, and can help you understand how quickly things are changing.
-|
-
-* xref:using-charts-and-reports.adoc[Using charts and reports]
-
-|
-Establish baselines
-|
-Collect information about the normal levels of various operational values. These baseline values, and deviations from these baselines, can provide valuable clues.
-|
-
 * xref:troubleshooting-storagegrid-system.adoc[Establishing baselines]
 
+|Perform ingest and retrieval tests
+|To troubleshoot performance issues with ingest and retrieval, use a workstation to store and retrieve objects. Compare results against those seen when using the client application.
 |
-Perform ingest and retrieval tests
-|
-To troubleshoot performance issues with ingest and retrieval, use a workstation to store and retrieve objects. Compare results against those seen when using the client application.
-|
+* xref:../monitor/monitoring-put-and-get-performance.adoc[Monitoring PUT and GET performance]
 
-* xref:monitoring-put-and-get-performance.adoc[Monitoring PUT and GET performance]
+|Review audit messages
+|Review audit messages to follow StorageGRID operations in detail. The details in audit messages can be useful for troubleshooting many types of issues, including performance issues.
+|
+* xref:../monitor/reviewing-audit-messages.adoc[Reviewing audit messages]
 
-|
-Review audit messages
-|
-Review audit messages to follow StorageGRID operations in detail. The details in audit messages can be useful for troubleshooting many types of issues, including performance issues.
-|
+|Check object locations and storage integrity
+|If you are having storage problems, verify that objects are being placed where you expect. Check the integrity of object data on a Storage Node.
+|xref:../monitor/monitoring-object-verification-operations.adoc[Monitoring object verification operations].
 
-* xref:reviewing-audit-messages.adoc[Reviewing audit messages]
-
+|Collect data for technical support
+|Technical support might ask you to collect data or review specific information to help troubleshoot issues.
 |
-Check object locations and storage integrity
-|
-If you are having storage problems, verify that objects are being placed where you expect. Check the integrity of object data on a Storage Node.
-|
-
-* xref:monitoring-object-verification-operations.adoc[Monitoring object verification operations]
-* xref:troubleshooting-storagegrid-system.adoc[Confirming object data locations]
-* xref:troubleshooting-storagegrid-system.adoc[Verifying object integrity]
-
-|
-Collect data for technical support
-|
-Technical support might ask you to collect data or review specific information to help troubleshoot issues.
-|
-
-* xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
-* xref:manually-triggering-autosupport-message.adoc[Manually triggering an AutoSupport message]
-* xref:reviewing-support-metrics.adoc[Reviewing support metrics]
-
+* xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+* xref:../monitor/manually-triggering-autosupport-message.adoc[Manually triggering an AutoSupport message]
+* xref:../monitor/reviewing-support-metrics.adoc[Reviewing support metrics]
 |===
 
 ==== Creating a timeline of recent changes
@@ -174,30 +144,25 @@ When a problem occurs, you should consider what has changed recently and when th
 
 Create a table of recent changes to your system that includes information about when each change occurred and any relevant details about the change, such information about what else was happening while the change was in progress:
 
-[cols="1a,1a,1a" options="header"]
+[cols="1a,1a,3a" options="header"]
 |===
 | Time of change| Type of change| Details
-|
-For example:
+
+|For example:
 
 * When did you start the node recovery?
 * When did the software upgrade complete?
 * Did you interrupt the process?
 
-|
-What happened? What did you do?
+|What happened? What did you do?
 
-|
-Document any relevant details about the change. For example:
+|Document any relevant details about the change. For example:
 
 * Details of the network changes.
 * Which hotfix was installed.
 * How client workloads changed.
 
 Make sure to note if more than one change was happening at the same time. For example, was this change made while an upgrade was in progress?
-
-xref:troubleshooting-storagegrid-system.adoc[RECENT_CHANGES]
-
 |===
 
 ===== Examples of significant recent changes
@@ -230,9 +195,10 @@ Here are some examples of potentially significant changes:
 
 You can establish baselines for your system by recording the normal levels of various operational values. In the future, you can compare current values to these baselines to help detect and resolve abnormal values.
 
-[cols="1a,1a,1a" options="header"]
+[cols="1a,1a,3a" options="header"]
 |===
 | Property| Value| How to obtain
+
 |Average storage consumption
 |GB consumed/day
 
@@ -288,7 +254,6 @@ On the ILM Queue chart, find a period where the line is fairly stable. Hover you
 |Average query latency
 |Milliseconds
 |Select *Nodes* > *_Storage Node_* > *Objects*. In the Queries table, view the value for Average Latency.
-
 |===
 
 === Analyzing data
@@ -305,11 +270,9 @@ The analysis is problem‐dependent, but in general:
 
 If you cannot resolve the problem on your own, contact technical support. Before contacting technical support, gather the information listed in the following table to facilitate problem resolution.
 
-[cols="2,2,4a" options="header"]
+[cols="1a,2a,4a" options="header"]
 |===
-| image:../media/feature_checkmark.gif[checkmark]
-| Item
-| Notes
+| image:../media/feature_checkmark.gif[checkmark]| Item| Notes
 
 |
 |Problem statement
@@ -347,7 +310,7 @@ You can collect logs for the entire grid, or for selected nodes.
 
 If you are collecting logs only for selected nodes, be sure to include at least one Storage Node that has the ADC service. (The first three Storage Nodes at a site include the ADC service.)
 
-xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
 
 |
 |Baseline information
@@ -367,13 +330,5 @@ xref:troubleshooting-storagegrid-system.adoc[Creating a timeline of recent chang
 |===
 
 .Related information
-
-xref:troubleshooting-storagegrid-system.adoc[Defining the problem]
-
-xref:troubleshooting-storagegrid-system.adoc[Assessing the risk and impact on the system]
-
-xref:troubleshooting-storagegrid-system.adoc[Collecting data]
-
-xref:troubleshooting-storagegrid-system.adoc[Analyzing data]
 
 xref:../admin/index.adoc[Administer StorageGRID]

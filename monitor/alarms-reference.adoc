@@ -419,7 +419,7 @@ Check the status of Cassandra:
 
 This alarm might also indicate that the metadata store (Cassandra database) for a Storage Node requires rebuilding.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
 
 If the problem persists, contact technical support.
 
@@ -464,7 +464,7 @@ If this alarm reaches the 100% threshold, you must stop ingesting objects and ad
 
 Once new Storage Nodes are added, the system automatically rebalances object metadata across all Storage Nodes, and the alarm clears.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
 
 xref:../expand/index.adoc[Expand your grid]
 
@@ -675,7 +675,7 @@ Lost objects represent a loss of data. The Lost Objects attribute is incremented
 
 Investigate LOST (LOST Object) alarms immediately. If the problem persists, contact technical support.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
 
 a|
 MCEP
@@ -773,7 +773,7 @@ The following can be causes of NRER alarms:
 * High link error rates
 * NIC ring buffer overrun
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Network Receive Error (NRER) alarm]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Network Receive Error (NRER) alarm]
 
 a|
 NRLY
@@ -1218,7 +1218,7 @@ If the value of Storage Status is Volume(s) Unavailable, a part of the storage i
 
 If the value of Storage Status is Error, contact technical support.
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Storage Status (SSTS) alarm]
+xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Storage Status (SSTS) alarm]
 
 a|
 SVST
@@ -1241,8 +1241,6 @@ If a service is listed as Not Running, restart the service (`/etc/init.d/<servic
 This alarm might also indicate that the metadata store (Cassandra database) for a Storage Node requires rebuilding.
 
 If the problem persists, contact technical support.
-
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
 
 a|
 TMEM

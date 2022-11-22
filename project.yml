@@ -3,43 +3,54 @@ settings:
   internal:
     pdf_enabled: true
   prod:
-  # Keep PDF and localization off for initial publishing - bmegan
-    pdf_enabled: false
+    pdf_enabled: true
     harmony_enabled: false
-    
-
-    
+    lipi_enabled: false
 sidebar:
   entries:
     - title: StorageGRID 11.5 Docs
       url: /index.html
     - section: release-notes
-    - section: primer
-    - section: network
-    - section: sg100-1000
-    - section: sg6000
-    - section: sg5700
-    - section: sg5600
-    - section: rhel
-    - section: ubuntu
-    - section: vmware
-    - section: upgrade
-    - section: admin
-    - section: ilm
-    - section: harden
-    - section: fabricpool
-    - section: tenant
-    - section: s3
-    - section: swift
-    - section: monitor
-    - section: expand
-    - section: maintain
-    - section: audit
+    - title: Get started
+      entries:
+      - section: primer
+      - section: network
+    - title: Install and upgrade software
+      entries:
+      - section: rhel
+      - section: ubuntu
+      - section: vmware
+      - section: upgrade
+    - title: Install and maintain hardware
+      entries:
+      - section: sg6000
+      - section: sg5700
+      - section: sg5600
+      - section: sg100-1000
+    - title: Configure and manage
+      entries:  
+      - section: admin
+      - section: ilm
+      - section: harden
+      - section: fabricpool
+    - title: Use StorageGRID
+      entries: 
+      - section: tenant
+      - section: s3
+      - section: swift
+    - title: Monitor and troubleshoot
+      entries:  
+      - section: monitor  
+      - section: troubleshoot
+      - section: audit
+    - title: Maintain
+      entries:
+      - section: expand
+      - section: maintain
     - title: Earlier versions
       url: /earlier-versions.html
     - title: Legal notices
-      url: /legal-notices.html
-
+      url: /legal-notices.html 
 
 homepage:
   tiles:
@@ -49,20 +60,20 @@ homepage:
         url: /release-notes/index.html
       - title: What's new
         url: /upgrade/whats-new.html
-      - title: Grid primer
+      - title: Learn about StorageGRID
         url: /primer/index.html
-      - title: Network guidelines
+      - title: Networking guidelines
         url: /network/index.html
     - title: Install & maintain hardware
       links:
-      - title: SG100 & SG1000 services appliances
-        url: /sg100-1000/index.html
-      - title: SG6000 storage appliances
+      - title: SG6000 storage appliance
         url: /sg6000/index.html
-      - title: SG5700 storage appliances
+      - title: SG5700 storage appliance
         url: /sg5700/index.html
-      - title: SG5600 storage appliances
+      - title: SG5600 storage appliance
         url: /sg5600/index.html
+      - title: SG100 and SG1000 services appliances
+        url: /sg100-1000/index.html
     - title: Install & upgrade software
       links:
       - title: Install Red Hat Enterprise Linux or CentOS
@@ -87,22 +98,26 @@ homepage:
       links:
       - title: Use a tenant account
         url: /tenant/index.html
-      - title: Use S3
+      - title: Use S3 REST API
         url: /s3/index.html
-      - title: Use Swift
+      - title: Use Swift REST API
         url: /swift/index.html
-    - title: Monitor & maintain
+    - title: Monitor and maintain
       links:
-      - title: Monitor & troubleshoot
+      - title: Monitor
         url: /monitor/index.html
-      - title: Expand your grid
-        url: /expand/index.html
-      - title: Maintain & recover
-        url: /maintain/index.html
+      - title: Troubleshoot
+        url: /troubleshoot/troubleshooting-storagegrid-system.html
       - title: Review audit logs
         url: /audit/index.html
+      - title: Expand your grid
+        url: /expand/index.html
+      - title: Recover and maintain
+        url: /maintain/index.html
     - title: Demos & tutorials
       links:
+      - title: Learn how to enable StorageGRID
+        url: https://docs.netapp.com/us-en/storagegrid-enable/index.html      
       - title: StorageGRID video library
         url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7nh2wGRA65iulXhtXwLiqrY
       - title: NetApp learning services
@@ -112,7 +127,7 @@ homepage:
       - title: StorageGRID support page
         url: https://mysupport.netapp.com/site/products/all/details/5d9f1107e01d9c0001ee50f6/downloads-tab
       - title: NetApp Interoperability Matrix Tool (IMT)
-        url: https://mysupport.netapp.com/matrix
+        url: https://imt.netapp.com/matrix/#welcome
       - title: StorageGRID knowledge base
         url: https://kb.netapp.com/Advice_and_Troubleshooting/Hybrid_Cloud_Infrastructure/StorageGRID
       - title: NetApp blog
@@ -125,5 +140,3 @@ homepage:
         url: https://docs.netapp.com/sgws-114/index.jsp
       - title: StorageGRID 11.3 documentation
         url: https://docs.netapp.com/sgws-113/index.jsp
-      - title: StorageGRID 11.2 documentation
-        url: https://docs.netapp.com/sgws-112/index.jsp
