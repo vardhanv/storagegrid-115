@@ -108,12 +108,12 @@ Learn about deactivating an Erasure Coding profile in the instructions for manag
 
 .Related information
 
-xref:checking-data-repair-jobs.adoc[Checking data repair jobs]
+link:checking-data-repair-jobs.html[Checking data repair jobs]
 
-xref:understanding-adc-service-quorum.adoc[Understanding the ADC quorum]
+link:understanding-adc-service-quorum.html[Understanding the ADC quorum]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

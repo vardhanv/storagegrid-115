@@ -22,7 +22,7 @@ To verify or change the protocol used to send AutoSupport messages, see the inst
 
 NOTE: You cannot use the SMTP protocol to send AutoSupport messages to an additional destination.
 
-xref:specifying-protocol-for-autosupport-messages.adoc[Specifying the protocol for AutoSupport messages]
+link:specifying-protocol-for-autosupport-messages.html[Specifying the protocol for AutoSupport messages]
 
 .Steps
 

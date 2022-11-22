@@ -49,4 +49,4 @@ IMPORTANT: Due to the overhead of managing the number of fragments associated wi
 
 .Related information
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

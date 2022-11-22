@@ -78,4 +78,4 @@ restore copies of data.
 
 .Related information
 
-xref:reviewing-warnings-about-storage-volume-recovery.adoc[Reviewing warnings about storage volume recovery]
+link:reviewing-warnings-about-storage-volume-recovery.html[Reviewing warnings about storage volume recovery]

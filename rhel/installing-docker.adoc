@@ -59,4 +59,4 @@ Server:
 
 .Related information
 
-xref:configuring-host-storage.adoc[Configuring host storage]
+link:configuring-host-storage.html[Configuring host storage]

@@ -27,11 +27,11 @@ After you have decided to add storage volumes and have determined which Storage 
 
 * To add expansion shelves to an SG6060 storage appliance, see the instructions for SG6000 appliance installation and maintenance.
 +
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
 * For a software-based node, follow the instructions for adding storage volumes to Storage Nodes.
 +
-xref:adding-storage-volumes-to-storage-nodes.adoc[Adding storage volumes to Storage Nodes]
+link:adding-storage-volumes-to-storage-nodes.html[Adding storage volumes to Storage Nodes]
 
 == Guidelines for adding Storage Nodes
 
@@ -60,12 +60,12 @@ NOTE: Learn about the ADC quorum in the recovery and maintenance instructions.
 
 *Related information*
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:adding-storage-volumes-to-storage-nodes.adoc[Adding storage volumes to Storage Nodes]
+link:adding-storage-volumes-to-storage-nodes.html[Adding storage volumes to Storage Nodes]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:performing-expansion.adoc[Performing the expansion]
+link:performing-expansion.html[Performing the expansion]

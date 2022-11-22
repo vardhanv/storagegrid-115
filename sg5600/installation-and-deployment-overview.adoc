@@ -39,7 +39,7 @@ Adding a StorageGRID storage appliance to a StorageGRID system includes four pri
 a|
 Deploying an appliance Storage Node in a new StorageGRID system
 a|
-xref:deploying-appliance-storage-node.adoc[Deploying an appliance Storage Node]
+link:deploying-appliance-storage-node.html[Deploying an appliance Storage Node]
 a|
 Adding an appliance Storage Node to an existing StorageGRID system
 a|
@@ -51,14 +51,14 @@ Instructions for recovery and maintenance
 |===
 .Related information
 
-xref:preparing-for-installation.adoc[Preparing for installation]
+link:preparing-for-installation.html[Preparing for installation]
 
-xref:installing-hardware.adoc[Installing the hardware]
+link:installing-hardware.html[Installing the hardware]
 
-xref:configuring-hardware.adoc[Configuring the hardware]
+link:configuring-hardware.html[Configuring the hardware]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

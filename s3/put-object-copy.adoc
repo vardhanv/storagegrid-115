@@ -53,7 +53,7 @@ You can specify `REPLACE` to overwrite the existing tags when copying the object
  ** `x-amz-object-lock-retain-until-date`
  ** `x-amz-object-lock-legal-hold`
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using S3 Object Lock]
+link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
 * SSE request headers:
  ** `x-amz-copy-source​-server-side​-encryption​-customer-algorithm`
  ** `x-amz-copy-source​-server-side-encryption-customer-key`
@@ -63,7 +63,7 @@ xref:s3-rest-api-supported-operations-and-limitations.adoc[Using S3 Object Lock]
  ** `x-amz-server-side-encryption-customer-key`
  ** `x-amz-server-side-encryption-customer-algorithm`
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Request headers for server-side encryption]
+link:s3-rest-api-supported-operations-and-limitations.html[Request headers for server-side encryption]
 
 == Unsupported request headers
 
@@ -127,10 +127,10 @@ If the source bucket is versioned, you can use the `x-amz-copy-source` header to
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using server-side encryption]
+link:s3-rest-api-supported-operations-and-limitations.html[Using server-side encryption]
 
-xref:s3-operations-tracked-in-audit-logs.adoc[S3 operations tracked in the audit logs]
+link:s3-operations-tracked-in-audit-logs.html[S3 operations tracked in the audit logs]
 
-xref:put-object.adoc[PUT Object]
+link:put-object.html[PUT Object]

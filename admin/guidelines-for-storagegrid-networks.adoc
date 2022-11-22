@@ -56,6 +56,6 @@ eth2
 
 .Related information
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]

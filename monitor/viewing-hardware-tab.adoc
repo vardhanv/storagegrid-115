@@ -25,6 +25,6 @@ If the node is an appliance node, this tab also includes a section with more inf
 
 .Related information
 
-xref:viewing-information-about-appliance-storage-nodes.adoc[Viewing information about appliance Storage Nodes]
+link:viewing-information-about-appliance-storage-nodes.html[Viewing information about appliance Storage Nodes]
 
-xref:viewing-information-about-appliance-admin-nodes-and-gateway-nodes.adoc[Viewing information about appliance Admin Nodes and Gateway Nodes]
+link:viewing-information-about-appliance-admin-nodes-and-gateway-nodes.html[Viewing information about appliance Admin Nodes and Gateway Nodes]

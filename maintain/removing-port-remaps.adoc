@@ -42,8 +42,8 @@ Follow the instructions for rebooting a grid node.
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:rebooting-grid-node.adoc[Rebooting a grid node]
+link:rebooting-grid-node.html[Rebooting a grid node]
 
-xref:removing-port-remaps-on-bare-metal-hosts.adoc[Removing port remaps on bare metal hosts]
+link:removing-port-remaps-on-bare-metal-hosts.html[Removing port remaps on bare metal hosts]

@@ -33,6 +33,6 @@ If the StorageGRID Appliance Installer pages do not indicate that expansion shel
 
 .Related information
 
-xref:sg6060-cabling-optional-expansion-shelves.adoc[SG6060: Cabling the optional expansion shelves]
+link:sg6060-cabling-optional-expansion-shelves.html[SG6060: Cabling the optional expansion shelves]
 
-xref:connecting-power-cords-and-applying-power-sg6000.adoc[Connecting power cords and applying power (SG6000)]
+link:connecting-power-cords-and-applying-power-sg6000.html[Connecting power cords and applying power (SG6000)]

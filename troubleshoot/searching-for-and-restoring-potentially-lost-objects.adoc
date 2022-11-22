@@ -226,10 +226,10 @@ If present, the value of CLDI in LOCS is the node ID and the volume ID where an 
 
 .Related information
 
-xref:troubleshooting-storagegrid-system.adoc[Investigating lost objects]
+link:troubleshooting-storagegrid-system.html[Investigating lost objects]
 
-xref:troubleshooting-storagegrid-system.adoc[Confirming object data locations]
+link:troubleshooting-storagegrid-system.html[Confirming object data locations]
 
-xref:troubleshooting-storagegrid-system.adoc[Resetting lost and missing object counts]
+link:troubleshooting-storagegrid-system.html[Resetting lost and missing object counts]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]

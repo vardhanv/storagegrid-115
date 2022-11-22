@@ -40,6 +40,6 @@ You are signed out of all Admin Nodes you were accessing.     The StorageGRID si
 
 .Related information
 
-xref:configuring-sso.adoc[Configuring single sign-on]
+link:configuring-sso.html[Configuring single sign-on]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

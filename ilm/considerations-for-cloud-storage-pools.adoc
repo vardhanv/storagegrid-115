@@ -110,12 +110,12 @@ Do not use Azure Blob Storage lifecycle management for the container used with a
 
 .Related information
 
-xref:creating-cloud-storage-pool.adoc[Creating a Cloud Storage Pool]
+link:creating-cloud-storage-pool.html[Creating a Cloud Storage Pool]
 
-xref:s3-authentication-details-for-cloud-storage-pool.adoc[S3: Specifying authentication details for a Cloud Storage Pool]
+link:s3-authentication-details-for-cloud-storage-pool.html[S3: Specifying authentication details for a Cloud Storage Pool]
 
-xref:c2s-s3-authentication-details-for-cloud-storage-pool.adoc[C2S S3: Specifying authentication details for a Cloud Storage Pool]
+link:c2s-s3-authentication-details-for-cloud-storage-pool.html[C2S S3: Specifying authentication details for a Cloud Storage Pool]
 
-xref:azure-authentication-details-for-cloud-storage-pool.adoc[Azure: Specifying authentication details for a Cloud Storage Pool]
+link:azure-authentication-details-for-cloud-storage-pool.html[Azure: Specifying authentication details for a Cloud Storage Pool]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

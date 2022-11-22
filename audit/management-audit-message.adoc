@@ -19,5 +19,5 @@ MGAU
 a|
 Management API audit message: A log of user requests.
 a|
-xref:mgau-management-audit-message.adoc[MGAU: Management audit message]
+link:mgau-management-audit-message.html[MGAU: Management audit message]
 |===

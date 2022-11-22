@@ -11,7 +11,7 @@ summary: 'If you enable platform services for S3 tenant accounts, you must confi
 [.lead]
 If you enable platform services for S3 tenant accounts, you must configure your grid so that tenants can access the external resources necessary to use these services.
 
-* xref:what-platform-services-are.adoc[What platform services are]
-* xref:networking-and-ports-for-platform-services.adoc[Networking and ports for platform services]
-* xref:per-site-delivery-of-platform-services-messages.adoc[Per-site delivery of platform services messages]
-* xref:troubleshooting-platform-services.adoc[Troubleshooting platform services]
+* link:what-platform-services-are.html[What platform services are]
+* link:networking-and-ports-for-platform-services.html[Networking and ports for platform services]
+* link:per-site-delivery-of-platform-services-messages.html[Per-site delivery of platform services messages]
+* link:troubleshooting-platform-services.html[Troubleshooting platform services]

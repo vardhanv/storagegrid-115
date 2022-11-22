@@ -36,6 +36,6 @@ image::../media/ping_test_passed.png[Screen shot of ping test results in Storage
 
 .Related information
 
-xref:configuring-network-links-sg100-and-sg1000.adoc[Configuring network links (SG100 and SG1000)]
+link:configuring-network-links-sg100-and-sg1000.html[Configuring network links (SG100 and SG1000)]
 
-xref:changing-mtu-setting.adoc[Changing the MTU setting]
+link:changing-mtu-setting.html[Changing the MTU setting]

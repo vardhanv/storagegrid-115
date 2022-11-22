@@ -38,6 +38,6 @@ You can access an Admin Node's server certificate by logging in to the command s
 
 .Related information
 
-xref:controlling-access-through-firewalls.adoc[Controlling access through firewalls]
+link:controlling-access-through-firewalls.html[Controlling access through firewalls]
 
-xref:configuring-custom-server-certificate-for-grid-manager-tenant-manager.adoc[Configuring a custom server certificate for the Grid Manager and the Tenant Manager]
+link:configuring-custom-server-certificate-for-grid-manager-tenant-manager.html[Configuring a custom server certificate for the Grid Manager and the Tenant Manager]

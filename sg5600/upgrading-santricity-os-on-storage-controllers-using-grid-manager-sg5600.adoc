@@ -141,4 +141,4 @@ NOTE: For any nodes with a status of Needs Attention, use maintenance mode to pe
 
 .Related information
 
-xref:upgrading-santricity-os-on-e2700-controller-using-maintenance-mode.adoc[Upgrading SANtricity OS on the E2700 controller using maintenance mode]
+link:upgrading-santricity-os-on-e2700-controller-using-maintenance-mode.html[Upgrading SANtricity OS on the E2700 controller using maintenance mode]

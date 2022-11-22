@@ -19,4 +19,4 @@ image::../media/s3_object_lock_workflow_tenant.png[S3 Object Lock Workflow Tenan
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

@@ -55,7 +55,7 @@ The new group is created. If this is a local group, you can now add one or more 
 
 .Related information
 
-xref:managing-local-users.adoc[Managing local users]
+link:managing-local-users.html[Managing local users]
 
 == Admin group permissions
 
@@ -236,7 +236,7 @@ NOTE: The previous example causes _all_ deactivated features to be reactivated. 
 
 .Related information
 
-xref:using-grid-management-api.adoc[Using the Grid Management API]
+link:using-grid-management-api.html[Using the Grid Management API]
 
 == Modifying an admin group
 

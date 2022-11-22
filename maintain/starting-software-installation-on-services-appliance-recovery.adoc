@@ -101,4 +101,4 @@ NOTE: If you need to access the Monitor Installation page manually, click *Monit
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]

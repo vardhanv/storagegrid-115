@@ -16,12 +16,12 @@ The services appliance has eight cooling fans. If one of the fans fails, you mus
 * You have unpacked the replacement fan.
 * You have physically located the appliance where you are replacing the fan in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * You have confirmed that the other fans are installed and running.
 * The appliance has been placed maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 

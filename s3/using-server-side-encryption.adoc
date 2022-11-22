@@ -83,18 +83,18 @@ IMPORTANT: The encryption keys you provide are never stored. If you lose an encr
 
 .Related information
 
-xref:get-object.adoc[GET Object]
+link:get-object.html[GET Object]
 
-xref:head-object.adoc[HEAD Object]
+link:head-object.html[HEAD Object]
 
-xref:put-object.adoc[PUT Object]
+link:put-object.html[PUT Object]
 
-xref:put-object-copy.adoc[PUT Object - Copy]
+link:put-object-copy.html[PUT Object - Copy]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Initiate Multipart Upload]
+link:s3-rest-api-supported-operations-and-limitations.html[Initiate Multipart Upload]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Upload Part]
+link:s3-rest-api-supported-operations-and-limitations.html[Upload Part]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Upload Part - Copy]
+link:s3-rest-api-supported-operations-and-limitations.html[Upload Part - Copy]
 
 https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerSideEncryptionCustomerKeys.html[Amazon S3 Developer Guide: Protecting Data Using Server-Side Encryption with Customer-Provided Encryption Keys (SSE-C)]

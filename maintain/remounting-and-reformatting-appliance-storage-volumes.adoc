@@ -184,6 +184,6 @@ After the `sn-recovery-postinstall.sh` script has started services on the node, 
 
 .Related information
 
-xref:reviewing-warnings-for-system-drive-recovery.adoc[Reviewing warnings for Storage Node system drive recovery]
+link:reviewing-warnings-for-system-drive-recovery.html[Reviewing warnings for Storage Node system drive recovery]
 
-xref:restoring-object-data-to-storage-volume-for-appliance.adoc[Restoring object data to a storage volume for an appliance]
+link:restoring-object-data-to-storage-volume-for-appliance.html[Restoring object data to a storage volume for an appliance]

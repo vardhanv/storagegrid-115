@@ -49,16 +49,16 @@ NOTE: If your grid includes only one site, you are prevented from using the All 
 
 .Related information
 
-xref:what-replication-is.adoc[What replication is]
+link:what-replication-is.html[What replication is]
 
-xref:what-erasure-coding-is.adoc[What erasure coding is]
+link:what-erasure-coding-is.html[What erasure coding is]
 
-xref:what-erasure-coding-schemes-are.adoc[What erasure-coding schemes are]
+link:what-erasure-coding-schemes-are.html[What erasure-coding schemes are]
 
-xref:using-multiple-storage-pools-for-cross-site-replication.adoc[Using multiple storage pools for cross-site replication]
+link:using-multiple-storage-pools-for-cross-site-replication.html[Using multiple storage pools for cross-site replication]
 
-xref:using-storage-pool-as-temporary-location-deprecated.adoc[Using a storage pool as a temporary location (deprecated)]
+link:using-storage-pool-as-temporary-location-deprecated.html[Using a storage pool as a temporary location (deprecated)]
 
-xref:managing-objects-with-s3-object-lock.adoc[Managing objects with S3 Object Lock]
+link:managing-objects-with-s3-object-lock.html[Managing objects with S3 Object Lock]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

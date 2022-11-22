@@ -48,6 +48,6 @@ NOTE: To configure a relying party trust, see the instructions for administering
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:preparing-appliance-for-reinstallation-platform-replacement-only.adoc[Preparing an appliance for reinstallation (platform replacement only)]
+link:preparing-appliance-for-reinstallation-platform-replacement-only.html[Preparing an appliance for reinstallation (platform replacement only)]

@@ -178,6 +178,6 @@ A successful execution returns the following headers with an "HTTP/1.1 201 Creat
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:monitoring-and-auditing-operations.adoc[Swift operations tracked in the audit logs]
+link:monitoring-and-auditing-operations.html[Swift operations tracked in the audit logs]

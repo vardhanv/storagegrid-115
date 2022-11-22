@@ -29,6 +29,6 @@ image::../media/ec_three_sites_4_plus_2.png[Erasure Coded Three Sites 4 Plus 2]
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:using-information-lifecycle-management.adoc[Using information lifecycle management]
+link:using-information-lifecycle-management.html[Using information lifecycle management]

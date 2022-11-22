@@ -17,6 +17,6 @@ If any block storage volumes were preserved from the previous host, you might ha
 
 .Steps
 
-* xref:restoring-and-validating-grid-nodes.adoc[Restoring and validating grid nodes]
-* xref:starting-storagegrid-host-service.adoc[Starting the StorageGRID host service]
-* xref:recovering-nodes-that-fail-to-start-normally.adoc[Recovering nodes that fail to start normally]
+* link:restoring-and-validating-grid-nodes.html[Restoring and validating grid nodes]
+* link:starting-storagegrid-host-service.html[Starting the StorageGRID host service]
+* link:recovering-nodes-that-fail-to-start-normally.html[Recovering nodes that fail to start normally]

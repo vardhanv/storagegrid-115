@@ -23,4 +23,4 @@ CAUTION: An ILM policy that has been incorrectly specified can cause unrecoverab
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

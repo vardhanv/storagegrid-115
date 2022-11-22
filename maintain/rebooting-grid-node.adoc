@@ -22,9 +22,9 @@ If you plan to reboot Storage Nodes, note the following:
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 .Choices
 
-* xref:rebooting-grid-node-from-grid-manager.adoc[Rebooting a grid node from the Grid Manager]
-* xref:rebooting-grid-node-from-command-shell.adoc[Rebooting a grid node from the command shell]
+* link:rebooting-grid-node-from-grid-manager.html[Rebooting a grid node from the Grid Manager]
+* link:rebooting-grid-node-from-command-shell.html[Rebooting a grid node from the command shell]

@@ -13,4 +13,4 @@ When configuring network links for the SG6000-CN, you can use port bonding for t
 
 .Related information
 
-xref:configuring-network-links-sg6000.adoc[Configuring network links (SG6000)]
+link:configuring-network-links-sg6000.html[Configuring network links (SG6000)]

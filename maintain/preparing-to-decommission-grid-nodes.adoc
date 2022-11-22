@@ -13,5 +13,5 @@ You must review the considerations for removing grid nodes and confirm no repair
 
 .Steps
 
-* xref:considerations-for-decommissioning-storage-nodes.adoc[Considerations for decommissioning Storage Nodes]
-* xref:checking-data-repair-jobs.adoc[Checking data repair jobs]
+* link:considerations-for-decommissioning-storage-nodes.html[Considerations for decommissioning Storage Nodes]
+* link:checking-data-repair-jobs.html[Checking data repair jobs]

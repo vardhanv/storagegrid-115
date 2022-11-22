@@ -39,4 +39,4 @@ NOTE: As required to match the grid version, you can use a minor release when de
 
 .Related information
 
-xref:configuring-replacement-primary-admin-node.adoc[Configuring the replacement primary Admin Node]
+link:configuring-replacement-primary-admin-node.html[Configuring the replacement primary Admin Node]

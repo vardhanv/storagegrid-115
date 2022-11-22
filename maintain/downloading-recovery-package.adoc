@@ -37,4 +37,4 @@ IMPORTANT: The Recovery Package file must be secured because it contains encrypt
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

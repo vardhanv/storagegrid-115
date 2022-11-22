@@ -50,4 +50,4 @@ Logical data centers in the same physical building or campus connected by a LAN.
 
 .Related information
 
-xref:how-load-balancing-works-clb-service.adoc[How load balancing works - CLB service]
+link:how-load-balancing-works-clb-service.html[How load balancing works - CLB service]

@@ -63,8 +63,8 @@ To view the boot-up and error codes, you must access the BMC interface.
 
 .Related information
 
-xref:troubleshooting-hardware-installation.adoc[Troubleshooting the hardware installation]
+link:troubleshooting-hardware-installation.html[Troubleshooting the hardware installation]
 
-xref:configuring-bmc-interface-sg6000.adoc[Configuring the BMC interface]
+link:configuring-bmc-interface-sg6000.html[Configuring the BMC interface]
 
-xref:powering-on-sg6000-cn-controller-and-verifying-operation.adoc[Powering on the SG6000-CN controller and verifying operation]
+link:powering-on-sg6000-cn-controller-and-verifying-operation.html[Powering on the SG6000-CN controller and verifying operation]

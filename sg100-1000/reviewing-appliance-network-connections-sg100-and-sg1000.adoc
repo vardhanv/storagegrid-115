@@ -20,10 +20,10 @@ When you deploy a StorageGRID appliance as a node in a StorageGRID system, you c
 
 .Related information
 
-xref:gathering-installation-information-sg100-and-sg1000.adoc[Gathering installation information (SG100 and SG1000)]
+link:gathering-installation-information-sg100-and-sg1000.html[Gathering installation information (SG100 and SG1000)]
 
-xref:cabling-appliance-sg100-and-sg1000.adoc[Cabling the appliance SG100 and SG1000)]
+link:cabling-appliance-sg100-and-sg1000.html[Cabling the appliance SG100 and SG1000)]
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]
 
-xref:../primer/index.adoc[Grid primer]
+link:../primer/index.html[Grid primer]

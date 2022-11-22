@@ -24,6 +24,6 @@ CAUTION: An ILM policy that has been incorrectly configured can result in unreco
 
 .Related information
 
-xref:what-ilm-policy-is.adoc[What an ILM policy is]
+link:what-ilm-policy-is.html[What an ILM policy is]
 
-xref:example-6-changing-ilm-policy.adoc[Example 6: Changing an ILM policy]
+link:example-6-changing-ilm-policy.html[Example 6: Changing an ILM policy]

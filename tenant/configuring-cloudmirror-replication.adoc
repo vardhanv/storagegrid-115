@@ -83,8 +83,8 @@ For small objects, replication happens quickly.
 
 .Related information
 
-xref:understanding-cloudmirror-replication-service.adoc[Understanding the CloudMirror replication service]
+link:understanding-cloudmirror-replication-service.html[Understanding the CloudMirror replication service]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:creating-platform-services-endpoint.adoc[Creating a platform services endpoint]
+link:creating-platform-services-endpoint.html[Creating a platform services endpoint]

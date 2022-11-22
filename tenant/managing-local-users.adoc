@@ -111,4 +111,4 @@ Changes might take up to 15 minutes to take effect because of caching.
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

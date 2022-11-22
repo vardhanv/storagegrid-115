@@ -80,4 +80,4 @@ The object copies in the CloudMirror destination are independent of StorageGRID,
 |===
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

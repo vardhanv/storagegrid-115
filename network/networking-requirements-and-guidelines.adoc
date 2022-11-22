@@ -47,8 +47,8 @@ Do not use network address translation (NAT) on the Grid Network between grid no
 
 .Related information
 
-xref:../primer/index.adoc[Grid primer]
+link:../primer/index.html[Grid primer]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

@@ -37,14 +37,14 @@ These instructions recommend a standard approach for deploying and configuring a
 
 .Related information
 
-xref:planning-and-preparation.adoc[Planning and preparation]
+link:planning-and-preparation.html[Planning and preparation]
 
-xref:deploying-virtual-grid-nodes.adoc[Deploying virtual grid nodes]
+link:deploying-virtual-grid-nodes.html[Deploying virtual grid nodes]
 
-xref:configuring-grid-and-completing-installation.adoc[Configuring the grid and completing installation]
+link:configuring-grid-and-completing-installation.html[Configuring the grid and completing installation]
 
-xref:automating-installation-and-configuration-of-storagegrid-host-service.adoc[Automating the installation and configuration of the StorageGRID host service]
+link:automating-installation-and-configuration-of-storagegrid-host-service.html[Automating the installation and configuration of the StorageGRID host service]
 
-xref:overview-of-installation-rest-api.adoc[Overview of the installation REST API]
+link:overview-of-installation-rest-api.html[Overview of the installation REST API]
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]

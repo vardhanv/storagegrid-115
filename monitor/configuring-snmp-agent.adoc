@@ -214,4 +214,4 @@ The new SNMP agent configuration becomes active.
 
 .Related information
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]

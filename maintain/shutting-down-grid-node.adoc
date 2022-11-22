@@ -47,8 +47,8 @@ Services can take up to 15 minutes to shut down, and you might want to log in to
 
 After being shut down you can power off the grid node.
 
-xref:powering-down-host.adoc[Powering down a host]
+link:powering-down-host.html[Powering down a host]
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

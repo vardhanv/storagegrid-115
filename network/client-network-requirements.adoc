@@ -17,4 +17,4 @@ If you use a Client Network, you can help secure StorageGRID from hostile attack
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

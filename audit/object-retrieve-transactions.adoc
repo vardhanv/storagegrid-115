@@ -27,7 +27,7 @@ Request made to retrieve an object from a bucket.
 a|
 CBID, S3BK, S3KY
 a|
-xref:sget-s3-get.adoc[SGET: S3 GET]
+link:sget-s3-get.html[SGET: S3 GET]
 |===
 
 == Swift retrieval audit messages
@@ -44,5 +44,5 @@ Request made to retrieve an object from a container.
 a|
 CBID, WCON, WOBJ
 a|
-xref:wget-swift-get.adoc[WGET: Swift GET]
+link:wget-swift-get.html[WGET: Swift GET]
 |===

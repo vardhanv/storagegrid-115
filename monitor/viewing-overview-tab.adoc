@@ -49,8 +49,8 @@ image::../media/nodes_page_alerts_table.png[Nodes Page Alerts Table]
 
 .Related information
 
-xref:monitoring-node-connection-states.adoc[Monitoring node connection states]
+link:monitoring-node-connection-states.html[Monitoring node connection states]
 
-xref:viewing-current-alerts.adoc[Viewing current alerts]
+link:viewing-current-alerts.html[Viewing current alerts]
 
-xref:viewing-specific-alert.adoc[Viewing a specific alert]
+link:viewing-specific-alert.html[Viewing a specific alert]

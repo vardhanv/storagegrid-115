@@ -28,13 +28,13 @@ If you took *any* of these corrective actions, you must perform additional recov
 |===
 | Type of recovery| Next step
 |Primary Admin Node
-|xref:configuring-replacement-primary-admin-node.adoc[Configuring the replacement primary Admin Node]
+|link:configuring-replacement-primary-admin-node.html[Configuring the replacement primary Admin Node]
 
 |Non-primary Admin Node
-|xref:selecting-start-recovery-to-configure-non-primary-admin-node.adoc[Selecting Start Recovery to configure a non-primary Admin Node]
+|link:selecting-start-recovery-to-configure-non-primary-admin-node.html[Selecting Start Recovery to configure a non-primary Admin Node]
 
 |Gateway Node
-|xref:selecting-start-recovery-to-configure-gateway-node.adoc[Selecting Start Recovery to configure a Gateway Node]
+|link:selecting-start-recovery-to-configure-gateway-node.html[Selecting Start Recovery to configure a Gateway Node]
 
 |Archive Node
 |link:selecting-start-recovery-to-configure-archive-node.html[Selecting Start Recovery to configure an Archive Node]
@@ -44,7 +44,7 @@ If you took *any* of these corrective actions, you must perform additional recov
 * If you had to use the `--force` flag to import the node, or you issued `storagegrid node force-recovery _node-name_`
 * If you had to do a full node reinstall, or you needed to restore /var/local
 
-|xref:selecting-start-recovery-to-configure-storage-node.adoc[Selecting Start Recovery to configure a Storage Node]
+|link:selecting-start-recovery-to-configure-storage-node.html[Selecting Start Recovery to configure a Storage Node]
 
 |Storage Node (software-based):
 

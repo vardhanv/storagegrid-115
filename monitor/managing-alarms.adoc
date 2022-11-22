@@ -15,11 +15,11 @@ NOTE: While the legacy alarm system continues to be supported, the alert system 
 
 .Related information
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+link:alarms-reference.html[Alarms reference (legacy system)]
 
-xref:viewing-legacy-alarms.adoc[Viewing legacy alarms]
+link:viewing-legacy-alarms.html[Viewing legacy alarms]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 == Alarm classes (legacy system)
 A legacy alarm can belong to one of two mutually exclusive alarm classes.
@@ -34,13 +34,13 @@ Global Custom alarms monitor the status of all services of a given type in the S
 
 .Related information
 
-xref:managing-alarms.adoc[Viewing Default alarms (legacy system)]
+link:managing-alarms.html[Viewing Default alarms (legacy system)]
 
-xref:managing-alarms.adoc[Disabling a Default alarm (legacy system)]
+link:managing-alarms.html[Disabling a Default alarm (legacy system)]
 
-xref:managing-alarms.adoc[Creating Global Custom alarms (legacy system)]
+link:managing-alarms.html[Creating Global Custom alarms (legacy system)]
 
-xref:managing-alarms.adoc[Disabling Global Custom alarms (legacy system)]
+link:managing-alarms.html[Disabling Global Custom alarms (legacy system)]
 
 == Alarm triggering logic (legacy system)
 A legacy alarm is triggered when a StorageGRID attribute reaches a threshold value that evaluates to true against a combination of alarm class (Default or Global Custom) and alarm severity level.
@@ -208,7 +208,7 @@ image::../media/current_alarms_page_show_acknowledged.png[Current Alarms Page Sh
 
 .Related information
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+link:alarms-reference.html[Alarms reference (legacy system)]
 
 == Viewing Default alarms (legacy system)
 You can view the list of all Default legacy alarms.
@@ -257,7 +257,7 @@ The alarms are listed in reverse chronological order.
 
 .Related information
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+link:alarms-reference.html[Alarms reference (legacy system)]
 
 == Creating Global Custom alarms (legacy system)
 You might have used Global Custom alarms for the legacy system to address specific monitoring requirements. Global Custom alarms might have alarm levels that override Default alarms, or they might monitor attributes that do not have a Default alarm.
@@ -353,7 +353,7 @@ image:../media/icon_nms_copy.gif[copy icon] Copy a row
 
 .Related information
 
-xref:managing-alarms.adoc[Configuring email server settings for alarms (legacy system)]
+link:managing-alarms.html[Configuring email server settings for alarms (legacy system)]
 
 == Disabling alarms (legacy system)
 The alarms in the legacy alarm system are enabled by default, but you can disable alarms that are not required. You can also disable the legacy alarms after you have completely transitioned to the new alert system.
@@ -439,7 +439,7 @@ The alarm is cleared.
 
 .Related information
 
-xref:managing-alarms.adoc[Disabling alarms (legacy system)]
+link:managing-alarms.html[Disabling alarms (legacy system)]
 
 == Configuring notifications for alarms (legacy system)
 StorageGRID system can automatically send email and SNMP notifications when an alarm is triggered or a service state changes.
@@ -448,7 +448,7 @@ By default, alarm email notifications are not sent. For email notifications, you
 
 .Related information
 
-xref:using-snmp-monitoring.adoc[Using SNMP monitoring]
+link:using-snmp-monitoring.html[Using SNMP monitoring]
 
 === Types of alarm notifications (legacy system)
 When a legacy alarm is triggered, the StorageGRID system sends out two types of alarm notifications: severity level and service state.
@@ -475,7 +475,7 @@ A mailing list receives all notifications related to changes in the selected sta
 
 .Related information
 
-xref:managing-alarms.adoc[Configuring email notifications for alarms (legacy system)]
+link:managing-alarms.html[Configuring email notifications for alarms (legacy system)]
 
 === Configuring email server settings for alarms (legacy system)
 If you want StorageGRID to send email notifications when a legacy alarm is triggered, you must specify the SMTP mail server settings. The StorageGRID system only sends email; it cannot receive email.
@@ -535,7 +535,7 @@ The SMTP mail server settings are saved. If you entered information for a test e
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 === Creating alarm email templates (legacy system)
 Email templates let you customize the header, footer, and subject line of a legacy alarm email notification. You can use email templates to send unique notifications that contain the same body text to different mailing lists.
@@ -631,7 +631,7 @@ A new mailing list is created.
 
 .Related information
 
-xref:managing-alarms.adoc[Creating alarm email templates (legacy system)]
+link:managing-alarms.html[Creating alarm email templates (legacy system)]
 
 === Configuring email notifications for alarms (legacy system)
 In order to receive email notifications for the legacy alarm system, recipients must be a member of a mailing list and that list must be added to the Notifications page. Notifications are configured to send email to recipients only when an alarm with a specified severity level is triggered or when a service state changes. Thus, recipients only receive the notifications they need to receive.
@@ -658,9 +658,9 @@ Notifications will be sent to the mailing list when alarms with the selected ala
 
 .Related information
 
-xref:managing-alarms.adoc[Creating mailing lists for alarm notifications (legacy system)]
+link:managing-alarms.html[Creating mailing lists for alarm notifications (legacy system)]
 
-xref:managing-alarms.adoc[Types of alarm notifications (legacy system)]
+link:managing-alarms.html[Types of alarm notifications (legacy system)]
 
 === Suppressing alarm notifications for a mailing list (legacy system)
 You can suppress alarm notifications for a mailing list when you no longer want the mailing list to receive notifications about alarms. For example, you might want to suppress notifications about legacy alarms after you have transitioned to using alert email notifications.
@@ -709,4 +709,4 @@ image::../media/all_notifications_suppressed.gif[Notifications page with all ema
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

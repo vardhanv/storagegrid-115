@@ -35,4 +35,4 @@ If the database upgrade fails with an error, retry the upgrade. If it fails agai
 
 .Related information
 
-xref:checking-systems-condition-before-upgrading-software.adoc[Checking the system's condition before upgrading software]
+link:checking-systems-condition-before-upgrading-software.html[Checking the system's condition before upgrading software]

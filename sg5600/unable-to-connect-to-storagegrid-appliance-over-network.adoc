@@ -35,4 +35,4 @@ For Management_Port_IP, enter the IP address for management port 1 on the E5600S
 
 .Related information
 
-xref:e5600sg-controller-seven-segment-display-codes.adoc[E5600SG controller seven-segment display codes]
+link:e5600sg-controller-seven-segment-display-codes.html[E5600SG controller seven-segment display codes]

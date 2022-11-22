@@ -21,11 +21,11 @@ If the global S3 Object Lock setting is enabled for your StorageGRID system, you
 
 * Create the bucket using the Tenant Manager.
 +
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 * Create the bucket using a PUT Bucket request with the `x-amz-bucket-object-lock_enabled` request header.
 +
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on buckets]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on buckets]
 
 You cannot add or disable S3 Object Lock after the bucket is created. S3 Object Lock requires bucket versioning, which is enabled automatically when you create the bucket.
 
@@ -35,7 +35,7 @@ A bucket with S3 Object Lock enabled can contain a combination of objects with a
 
 To determine if S3 Object Lock is enabled, use the GET Object Lock Configuration request.
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on buckets]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on buckets]
 
 == Creating an object with S3 Object Lock settings
 
@@ -77,16 +77,16 @@ If the new legal-hold value is ON, the object is placed under a legal hold. If t
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:put-object.adoc[PUT Object]
+link:put-object.html[PUT Object]
 
-xref:put-object-copy.adoc[PUT Object - Copy]
+link:put-object-copy.html[PUT Object - Copy]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Initiate Multipart Upload]
+link:s3-rest-api-supported-operations-and-limitations.html[Initiate Multipart Upload]
 
-xref:object-versioning.adoc[Object versioning]
+link:object-versioning.html[Object versioning]
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html[Amazon Simple Storage Service User Guide: Using S3 Object Lock]

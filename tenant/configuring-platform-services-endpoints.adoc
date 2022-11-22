@@ -39,4 +39,4 @@ The search integration endpoint refers to a specific Elasticsearch index and typ
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

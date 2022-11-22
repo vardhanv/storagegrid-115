@@ -82,6 +82,6 @@ image::../media/ldap_config_active_directory.png[Identity Federation page showin
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]
 
-xref:guidelines-for-configuring-openldap-server.adoc[Guidelines for configuring an OpenLDAP server]
+link:guidelines-for-configuring-openldap-server.html[Guidelines for configuring an OpenLDAP server]

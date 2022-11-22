@@ -25,4 +25,4 @@ image::../media/events_report.gif[Events page]
 
 .Related information
 
-xref:using-charts-and-reports.adoc[Using charts and reports]
+link:using-charts-and-reports.html[Using charts and reports]

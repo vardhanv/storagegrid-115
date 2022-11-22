@@ -28,4 +28,4 @@ NOTE: After sending an User-triggered AutoSupport message, refresh the AutoSuppo
 
 .Related information
 
-xref:managing-alarms.adoc[Configuring email server settings for alarms (legacy system)]
+link:managing-alarms.html[Configuring email server settings for alarms (legacy system)]

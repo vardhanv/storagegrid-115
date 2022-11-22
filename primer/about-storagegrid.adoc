@@ -42,18 +42,18 @@ Advantages of the StorageGRID system include the following:
 
 .Related information
 
-xref:hybrid-clouds-with-storagegrid.adoc[Hybrid clouds with StorageGRID]
+link:hybrid-clouds-with-storagegrid.html[Hybrid clouds with StorageGRID]
 
 link:storagegrid-architecture-and-network-topology.html[StorageGRID architecture and network topology]
 
-xref:controlling-storagegrid-access.adoc[Controlling StorageGRID access]
+link:controlling-storagegrid-access.html[Controlling StorageGRID access]
 
-xref:managing-tenants-and-client-connections.adoc[Managing tenants and client connections]
+link:managing-tenants-and-client-connections.html[Managing tenants and client connections]
 
-xref:using-information-lifecycle-management.adoc[Using information lifecycle management]
+link:using-information-lifecycle-management.html[Using information lifecycle management]
 
-xref:monitoring-storagegrid-operations.adoc[Monitoring StorageGRID operations]
+link:monitoring-storagegrid-operations.html[Monitoring StorageGRID operations]
 
-xref:configuring-network-settings.adoc[Configuring network settings]
+link:configuring-network-settings.html[Configuring network settings]
 
-xref:performing-maintenance-procedures.adoc[Performing maintenance procedures]
+link:performing-maintenance-procedures.html[Performing maintenance procedures]

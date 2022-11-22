@@ -17,9 +17,9 @@ If an S3 tenant account needs to comply with regulatory requirements when saving
 * You must have reviewed the S3 Object Lock workflow, and you must understand the considerations.
 * The default rule in the active ILM policy must be compliant.
 +
-xref:creating-default-ilm-rule.adoc[Creating a default ILM rule]
+link:creating-default-ilm-rule.html[Creating a default ILM rule]
 +
-xref:creating-ilm-policy.adoc[Creating an ILM policy]
+link:creating-ilm-policy.html[Creating an ILM policy]
 
 .About this task
 
@@ -65,10 +65,10 @@ image::../media/s3_object_lock_global_setting_error.gif[S3 Object Lock Global Se
 After you enable the global S3 Object Lock setting, you might want to create a new ILM policy. After the setting is enabled, the ILM policy can optionally include both a compliant default rule and a non-compliant default rule. For example, you might want to use a non-compliant rule that does not have filters for objects in buckets that do not have S3 Object Lock enabled.
 
 .Related information
-xref:creating-ilm-policy-after-s3-object-lock-is-enabled.adoc[Creating an ILM policy after S3 Object Lock is enabled]
+link:creating-ilm-policy-after-s3-object-lock-is-enabled.html[Creating an ILM policy after S3 Object Lock is enabled]
 
-xref:creating-ilm-rule.adoc[Creating an ILM rule]
+link:creating-ilm-rule.html[Creating an ILM rule]
 
-xref:creating-ilm-policy.adoc[Creating an ILM policy]
+link:creating-ilm-policy.html[Creating an ILM policy]
 
-xref:comparing-s3-object-lock-to-legacy-compliance.adoc[Comparing S3 Object Lock to legacy Compliance]
+link:comparing-s3-object-lock-to-legacy-compliance.html[Comparing S3 Object Lock to legacy Compliance]

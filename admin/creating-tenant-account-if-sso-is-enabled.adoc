@@ -48,8 +48,8 @@ NOTE: An access denied message is displayed if you click *Sign in*, but you do n
 
 .Related information
 
-xref:configuring-sso.adoc[Configuring single sign-on]
+link:configuring-sso.html[Configuring single sign-on]
 
-xref:managing-platform-services-for-s3-tenant-accounts.adoc[Managing platform services for S3 tenant accounts]
+link:managing-platform-services-for-s3-tenant-accounts.html[Managing platform services for S3 tenant accounts]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

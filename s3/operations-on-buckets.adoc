@@ -15,7 +15,7 @@ Bucket name restrictions follow the AWS US Standard region restrictions, but you
 
 https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html[Amazon Web Services (AWS) Documentation: Bucket Restrictions and Limitations]
 
-xref:configuring-tenant-accounts-and-connections.adoc[Endpoint domain names for S3 request]
+link:configuring-tenant-accounts-and-connections.html[Endpoint domain names for S3 request]
 
 The GET Bucket (List Objects) and GET Bucket versions operations support StorageGRID consistency controls.
 
@@ -112,7 +112,7 @@ This implementation uses the `versioning` subresource to return the versioning s
 a|
 GET Object Lock Configuration
 a|
-This operation determines if S3 Object Lock is enabled for a bucket. xref:s3-rest-api-supported-operations-and-limitations.adoc[Using S3 Object Lock]
+This operation determines if S3 Object Lock is enabled for a bucket. link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
 
 a|
 HEAD Bucket
@@ -137,7 +137,7 @@ This operation creates a new bucket. By creating the bucket, you become the buck
 +
 You must enable S3 Object Lock when you create the bucket. You cannot add or disable S3 Object Lock after a bucket is created. S3 Object Lock requires bucket versioning, which is enabled automatically when you create the bucket.
 +
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using S3 Object Lock]
+link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
 
 a|
 PUT Bucket cors
@@ -247,19 +247,19 @@ This implementation uses the `versioning` subresource to set the versioning stat
 
 http://docs.aws.amazon.com/AmazonS3/latest/dev/crr.html[Amazon Web Services (AWS) Documentation: Cross-Region Replication]
 
-xref:consistency-controls.adoc[Consistency controls]
+link:consistency-controls.html[Consistency controls]
 
-xref:storagegrid-s3-rest-api-operations.adoc[GET Bucket last access time request]
+link:storagegrid-s3-rest-api-operations.html[GET Bucket last access time request]
 
-xref:bucket-and-group-access-policies.adoc[Bucket and group access policies]
+link:bucket-and-group-access-policies.html[Bucket and group access policies]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using S3 Object Lock]
+link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
 
-xref:s3-operations-tracked-in-audit-logs.adoc[S3 operations tracked in the audit logs]
+link:s3-operations-tracked-in-audit-logs.html[S3 operations tracked in the audit logs]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 == Creating an S3 lifecycle configuration
 You can create an S3 lifecycle configuration to control when specific objects are deleted from the StorageGRID system.
@@ -417,6 +417,6 @@ The success response includes the object's metadata and indicates that the objec
 
 .Related information
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on buckets]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on buckets]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

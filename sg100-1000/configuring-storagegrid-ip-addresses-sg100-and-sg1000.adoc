@@ -171,4 +171,4 @@ IMPORTANT: The MTU value of the network must match the value configured on the s
 
 .Related information
 
-xref:changing-link-configuration-of-services-appliance.adoc[Changing the link configuration of the services appliance]
+link:changing-link-configuration-of-services-appliance.html[Changing the link configuration of the services appliance]

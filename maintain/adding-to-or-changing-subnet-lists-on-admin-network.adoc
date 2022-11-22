@@ -111,4 +111,4 @@ Updating grid network configuration on Name
 
 .Related information
 
-xref:configuring-ip-addresses.adoc[Configuring IP addresses]
+link:configuring-ip-addresses.html[Configuring IP addresses]

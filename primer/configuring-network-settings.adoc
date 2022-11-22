@@ -70,6 +70,6 @@ For example, you might want a Gateway Node to refuse all inbound traffic on the 
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:managing-tenants-and-client-connections.adoc[Managing tenants and client connections]
+link:managing-tenants-and-client-connections.html[Managing tenants and client connections]

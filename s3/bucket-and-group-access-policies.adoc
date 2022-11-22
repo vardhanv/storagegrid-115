@@ -105,7 +105,7 @@ The bucket policy has a size limit of 20,480 bytes, and the group policy has a s
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 == Consistency control settings for policies
 By default, any updates you make to group policies are eventually consistent. Once a group policy becomes consistent, the changes can take an additional 15 minutes to take effect, because of policy caching. By default, any updates you make to bucket policies are also eventually consistent.
@@ -169,7 +169,7 @@ In policy statements, you can use the Resource element to specify the bucket or 
 
 .Related information
 
-xref:bucket-and-group-access-policies.adoc[Specifying variables in a policy]
+link:bucket-and-group-access-policies.html[Specifying variables in a policy]
 
 == Specifying principals in a policy
 Use the Principal element to identity the user, group, or tenant account that is allowed/denied access to the resource by the policy statement.
@@ -658,7 +658,7 @@ IMPORTANT: If the current S3 policy allows overwrite, and the PutOverwriteObject
 
 .Related information
 
-xref:bucket-and-group-access-policies.adoc[S3 group policy examples]
+link:bucket-and-group-access-policies.html[S3 group policy examples]
 
 == Specifying conditions in a policy
 Conditions define when a policy will be in effect. Conditions consist of operators and key-value pairs.
@@ -987,13 +987,13 @@ PUT#1 -------> PUT#2 ---X (denied)
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:bucket-and-group-access-policies.adoc[Creating policies requiring special handling]
+link:bucket-and-group-access-policies.html[Creating policies requiring special handling]
 
-xref:how-storagegrid-ilm-rules-manage-objects.adoc[How StorageGRID ILM rules manage objects]
+link:how-storagegrid-ilm-rules-manage-objects.html[How StorageGRID ILM rules manage objects]
 
-xref:bucket-and-group-access-policies.adoc[S3 group policy examples]
+link:bucket-and-group-access-policies.html[S3 group policy examples]
 
 == S3 policy examples
 Use the examples in this section to build StorageGRID access policies for buckets and groups.
@@ -1203,7 +1203,7 @@ In this example, the `Deny` Effect for PutOverwriteObject and DeleteObject ensur
 
 .Related information
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on buckets]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on buckets]
 
 === S3 group policy examples
 Group policies specify the access permissions for the group that the policy is attached to. There is no `Principal` element in the policy since it is implicit. Group policies are configured using the Tenant Manager or the API.
@@ -1292,8 +1292,8 @@ In this example, members of the group are only permitted to list and access thei
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:bucket-and-group-access-policies.adoc[Using the PutOverwriteObject permission]
+link:bucket-and-group-access-policies.html[Using the PutOverwriteObject permission]
 
-xref:bucket-and-group-access-policies.adoc[Write-once-read-many (WORM) protection]
+link:bucket-and-group-access-policies.html[Write-once-read-many (WORM) protection]

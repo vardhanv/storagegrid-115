@@ -11,6 +11,6 @@ summary: 'The StorageGRID system supports single sign-on \(SSO\) using the Secur
 [.lead]
 The StorageGRID system supports single sign-on (SSO) using the Security Assertion Markup Language 2.0 (SAML 2.0) standard. When SSO is enabled, all users must be authenticated by an external identity provider before they can access the Grid Manager, the Tenant Manager, the Grid Management API, or the Tenant Management API. Local users cannot sign in to StorageGRID.
 
-* xref:how-sso-works.adoc[How single sign-on works]
-* xref:requirements-for-sso.adoc[Requirements for using single sign-on]
-* xref:configuring-sso.adoc[Configuring single sign-on]
+* link:how-sso-works.html[How single sign-on works]
+* link:requirements-for-sso.html[Requirements for using single sign-on]
+* link:configuring-sso.html[Configuring single sign-on]

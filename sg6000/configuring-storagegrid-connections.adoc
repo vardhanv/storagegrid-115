@@ -13,9 +13,9 @@ Before you can deploy a StorageGRID appliance as a Storage Node in a StorageGRID
 
 .Steps
 
-* xref:accessing-storagegrid-appliance-installer-sg6000.adoc[Accessing the StorageGRID Appliance Installer]
-* xref:verifying-and-upgrading-storagegrid-appliance-installer-version.adoc[Verifying and upgrading the StorageGRID Appliance Installer version]
-* xref:configuring-network-links-sg6000.adoc[Configuring network links (SG6000)]
-* xref:configuring-storagegrid-ip-addresses-sg6000.adoc[Configuring StorageGRID IP addresses]
-* xref:verifying-network-connections.adoc[Verifying network connections]
-* xref:verifying-port-level-network-connections.adoc[Verifying port-level network connections]
+* link:accessing-storagegrid-appliance-installer-sg6000.html[Accessing the StorageGRID Appliance Installer]
+* link:verifying-and-upgrading-storagegrid-appliance-installer-version.html[Verifying and upgrading the StorageGRID Appliance Installer version]
+* link:configuring-network-links-sg6000.html[Configuring network links (SG6000)]
+* link:configuring-storagegrid-ip-addresses-sg6000.html[Configuring StorageGRID IP addresses]
+* link:verifying-network-connections.html[Verifying network connections]
+* link:verifying-port-level-network-connections.html[Verifying port-level network connections]

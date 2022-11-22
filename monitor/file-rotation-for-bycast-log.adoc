@@ -21,4 +21,4 @@ NOTE: If a log file has been compressed, you must not uncompress it to the same 
 
 .Related information
 
-xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+link:collecting-log-files-and-system-data.html[Collecting log files and system data]

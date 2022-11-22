@@ -11,8 +11,8 @@ summary: 'StorageGRID can protect objects against loss either by storing replica
 [.lead]
 StorageGRID can protect objects against loss either by storing replicated copies or by storing erasure-coded copies. You specify the type of copies to create in the placement instructions of ILM rules.
 
-* xref:what-replication-is.adoc[What replication is]
-* xref:why-you-should-not-use-single-copy-replication.adoc[Why you should not use single-copy replication]
-* xref:what-erasure-coding-is.adoc[What erasure coding is]
-* xref:what-erasure-coding-schemes-are.adoc[What erasure-coding schemes are]
-* xref:advantages-disadvantages-and-requirements-for-ec.adoc[Advantages, disadvantages, and requirements for erasure coding]
+* link:what-replication-is.html[What replication is]
+* link:why-you-should-not-use-single-copy-replication.html[Why you should not use single-copy replication]
+* link:what-erasure-coding-is.html[What erasure coding is]
+* link:what-erasure-coding-schemes-are.html[What erasure-coding schemes are]
+* link:advantages-disadvantages-and-requirements-for-ec.html[Advantages, disadvantages, and requirements for erasure coding]

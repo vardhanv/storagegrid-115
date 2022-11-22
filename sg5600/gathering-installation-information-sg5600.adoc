@@ -293,8 +293,8 @@ a|
 
 .Related information
 
-xref:reviewing-appliance-network-connections-sg5600.adoc[Reviewing appliance network connections]
+link:reviewing-appliance-network-connections-sg5600.html[Reviewing appliance network connections]
 
-xref:configuring-hardware.adoc[Configuring the hardware]
+link:configuring-hardware.html[Configuring the hardware]
 
-xref:port-bond-modes-for-e5600sg-controller-ports.adoc[Port bond modes for the E5600SG controller ports]
+link:port-bond-modes-for-e5600sg-controller-ports.html[Port bond modes for the E5600SG controller ports]

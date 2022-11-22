@@ -22,7 +22,7 @@ IMPORTANT: Do not perform this procedure if you believe it might be possible to 
 * If a disconnected Storage Node contains the only copy of an object, that object will be lost when you decommission the node. The data repair jobs can only reconstruct and recover objects if at least one replicated copy or enough erasure-coded fragments exist on Storage Nodes that are currently connected.
 * When you decommission a disconnected Storage Node, the decommission procedure completes relatively quickly. However, the data repair jobs can take days or weeks to run and are not monitored by the decommission procedure. You must manually monitor these jobs and restart them as needed. See the instructions on monitoring data repair.
 +
-xref:checking-data-repair-jobs.adoc[Checking data repair jobs]
+link:checking-data-repair-jobs.html[Checking data repair jobs]
 
 * If you decommission more than one disconnected Storage Node at a time, data loss might occur. The system might not be able to reconstruct data if too few copies of object data, metadata, or erasure-coded fragments remain available.
 +

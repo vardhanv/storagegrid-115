@@ -35,7 +35,7 @@ In the Tenant Manager, a shield icon image:../media/icon_shield.png[Shield Icon]
 
 https://kb.netapp.com/Advice_and_Troubleshooting/Hybrid_Cloud_Infrastructure/StorageGRID/How_to_manage_legacy_Compliant_buckets_in_StorageGRID_11.5[KB: How to manage legacy Compliant buckets in StorageGRID 11.5^]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
 == "`S3 multipart part too small`" alert removed
 

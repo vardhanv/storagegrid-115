@@ -160,7 +160,7 @@ Set the key to "true" to cause the StorageGRID container use the MAC address of 
 
 For more details on MAC cloning, see the considerations and recommendations for MAC address cloning.
 
-xref:considerations-and-recommendations-for-mac-address-cloning.adoc[Considerations and recommendations for MAC address cloning]
+link:considerations-and-recommendations-for-mac-address-cloning.html[Considerations and recommendations for MAC address cloning]
 
 a|ADMIN_ROLE
 a|*R*
@@ -326,7 +326,7 @@ Set the key to "true" to cause the StorageGRID container to use the MAC address 
 
 For more details on MAC cloning, see the considerations and recommendations for MAC address cloning.
 
-xref:considerations-and-recommendations-for-mac-address-cloning.adoc[Considerations and recommendations for MAC address cloning]
+link:considerations-and-recommendations-for-mac-address-cloning.html[Considerations and recommendations for MAC address cloning]
 
 a|GRID_NETWORK_CONFIG
 a|BP
@@ -410,7 +410,7 @@ Set the value of the key to "true" to cause the StorageGRID container to use the
 
 For more details on MAC cloning, see the considerations and recommendations for MAC address cloning.
 
-xref:considerations-and-recommendations-for-mac-address-cloning.adoc[Considerations and recommendations for MAC address cloning]
+link:considerations-and-recommendations-for-mac-address-cloning.html[Considerations and recommendations for MAC address cloning]
 
 a|MAXIMUM_RAM
 a|O
@@ -470,8 +470,8 @@ PORT_REMAP_INBOUND = grid/tcp/3022/22
 |===
 .Related information
 
-xref:how-grid-nodes-discover-primary-admin-node.adoc[How grid nodes discover the primary Admin Node]
+link:how-grid-nodes-discover-primary-admin-node.html[How grid nodes discover the primary Admin Node]
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

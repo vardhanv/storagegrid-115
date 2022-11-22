@@ -33,10 +33,10 @@ Event messages are also listed in `/var/local/log/bycast-err.log`.
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../monitor/logs-files-reference.adoc[Log files reference]
+link:../monitor/logs-files-reference.html[Log files reference]
 
-xref:../monitor/resetting-event-counts.adoc[Resetting event counts]
+link:../monitor/resetting-event-counts.html[Resetting event counts]

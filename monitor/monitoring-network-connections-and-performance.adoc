@@ -58,8 +58,8 @@ To create, edit, or delete traffic classification policies, see the instructions
 
 .Related information
 
-xref:viewing-network-tab.adoc[Viewing the Network tab]
+link:viewing-network-tab.html[Viewing the Network tab]
 
-xref:monitoring-node-connection-states.adoc[Monitoring node connection states]
+link:monitoring-node-connection-states.html[Monitoring node connection states]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

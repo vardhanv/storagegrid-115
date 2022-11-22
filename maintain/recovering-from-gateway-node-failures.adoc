@@ -15,9 +15,9 @@ image::../media/overview_api_gateway_node_recovery.png[Overview flowchart of Gat
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
 .Steps
 
-* xref:replacing-gateway-node.adoc[Replacing a Gateway Node]
-* xref:selecting-start-recovery-to-configure-gateway-node.adoc[Selecting Start Recovery to configure a Gateway Node]
+* link:replacing-gateway-node.html[Replacing a Gateway Node]
+* link:selecting-start-recovery-to-configure-gateway-node.html[Selecting Start Recovery to configure a Gateway Node]

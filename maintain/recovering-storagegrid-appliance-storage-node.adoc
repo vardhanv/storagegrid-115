@@ -23,7 +23,7 @@ CAUTION: If this is the second Storage Node failure in less than 15 days after a
 
 NOTE: If more than one Storage Node at a site has failed, a site recovery procedure might be required. Contact technical support.
 
-xref:how-site-recovery-is-performed-by-technical-support.adoc[How site recovery is performed by technical support]
+link:how-site-recovery-is-performed-by-technical-support.html[How site recovery is performed by technical support]
 
 IMPORTANT: If ILM rules are configured to store only one replicated copy and the copy exists on a storage volume that has failed, you will not be able to recover the object.
 
@@ -33,20 +33,20 @@ NOTE: For hardware maintenance procedures, such as instructions for replacing a 
 
 .Related information
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 
 .Steps
 
-* xref:preparing-appliance-storage-node-for-reinstallation.adoc[Preparing an appliance Storage Node for reinstallation]
-* xref:starting-storagegrid-appliance-installation.adoc[Starting StorageGRID appliance installation]
-* xref:monitoring-storagegrid-appliance-installation-sn.adoc[Monitoring StorageGRID appliance installation]
-* xref:selecting-start-recovery-to-configure-appliance-storage-node.adoc[Selecting Start Recovery to configure an appliance Storage Node]
-* xref:remounting-and-reformatting-appliance-storage-volumes.adoc[Remounting and reformatting appliance storage volumes ("`Manual Steps`")]
-* xref:restoring-object-data-to-storage-volume-for-appliance.adoc[Restoring object data to a storage volume for an appliance]
-* xref:checking-storage-state-after-recovering-sga.adoc[Checking the storage state after recovering an appliance Storage Node]
+* link:preparing-appliance-storage-node-for-reinstallation.html[Preparing an appliance Storage Node for reinstallation]
+* link:starting-storagegrid-appliance-installation.html[Starting StorageGRID appliance installation]
+* link:monitoring-storagegrid-appliance-installation-sn.html[Monitoring StorageGRID appliance installation]
+* link:selecting-start-recovery-to-configure-appliance-storage-node.html[Selecting Start Recovery to configure an appliance Storage Node]
+* link:remounting-and-reformatting-appliance-storage-volumes.html[Remounting and reformatting appliance storage volumes ("`Manual Steps`")]
+* link:restoring-object-data-to-storage-volume-for-appliance.html[Restoring object data to a storage volume for an appliance]
+* link:checking-storage-state-after-recovering-sga.html[Checking the storage state after recovering an appliance Storage Node]

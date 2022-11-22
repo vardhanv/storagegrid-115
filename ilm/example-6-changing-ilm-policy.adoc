@@ -34,7 +34,7 @@ NOTE: StorageGRID considers each Erasure Coding profile to be unique and does no
 
 .Related information
 
-xref:creating-ilm-policy.adoc[Creating an ILM policy]
+link:creating-ilm-policy.html[Creating an ILM policy]
 
 == Active ILM policy for example 6: Data protection at two sites
 

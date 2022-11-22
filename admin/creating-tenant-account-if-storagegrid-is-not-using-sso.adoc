@@ -13,7 +13,7 @@ When you create a tenant account, you specify a name, a client protocol, and opt
 
 .About this task
 
-If the tenant account will use the identity source that was configured for the Grid Manager, and you want to grant Root Access permission for the tenant account to a federated group, you must have imported that federated group into the Grid Manager. You do not need to assign any Grid Manager permissions to this admin group. See the instructions for  xref:managing-admin-groups.adoc[managing admin groups].
+If the tenant account will use the identity source that was configured for the Grid Manager, and you want to grant Root Access permission for the tenant account to a federated group, you must have imported that federated group into the Grid Manager. You do not need to assign any Grid Manager permissions to this admin group. See the instructions for  link:managing-admin-groups.html[managing admin groups].
 
 .Steps
 
@@ -132,8 +132,8 @@ a|
 
 .Related information
 
-xref:controlling-access-through-firewalls.adoc[Controlling access through firewalls]
+link:controlling-access-through-firewalls.html[Controlling access through firewalls]
 
-xref:managing-platform-services-for-s3-tenant-accounts.adoc[Managing platform services for S3 tenant accounts]
+link:managing-platform-services-for-s3-tenant-accounts.html[Managing platform services for S3 tenant accounts]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

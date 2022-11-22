@@ -26,7 +26,7 @@ IMPORTANT: Accessing SANtricity System Manager from the Grid Manager or from the
 
 . Access SANtricity System Manager.
 +
-xref:setting-up-and-accessing-santricity-system-manager.adoc[Setting up and Accessing SANtricity System Manager]
+link:setting-up-and-accessing-santricity-system-manager.html[Setting up and Accessing SANtricity System Manager]
 
 . Enter the administrator username and password if required.
 . Click *Cancel* to close the Set Up wizard and to display the SANtricity System Manager home page.

@@ -27,6 +27,6 @@ If the Archive Node fails while processing bulk retrievals as part of a Storage 
 
 .Steps
 
-* xref:replacing-archive-node.adoc[Replacing an Archive Node]
-* xref:selecting-start-recovery-to-configure-archive-node.adoc[Selecting Start Recovery to configure an Archive Node]
-* xref:resetting-archive-node-connection-to-cloud.adoc[Resetting Archive Node connection to the cloud]
+* link:replacing-archive-node.html[Replacing an Archive Node]
+* link:selecting-start-recovery-to-configure-archive-node.html[Selecting Start Recovery to configure an Archive Node]
+* link:resetting-archive-node-connection-to-cloud.html[Resetting Archive Node connection to the cloud]

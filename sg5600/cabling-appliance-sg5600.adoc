@@ -162,6 +162,6 @@ Grid Network
 
 .Related information
 
-xref:port-bond-modes-for-e5600sg-controller-ports.adoc[Port bond modes for the E5600SG controller ports]
+link:port-bond-modes-for-e5600sg-controller-ports.html[Port bond modes for the E5600SG controller ports]
 
-xref:accessing-storagegrid-appliance-installer-sg5600.adoc[Accessing the StorageGRID Appliance Installer]
+link:accessing-storagegrid-appliance-installer-sg5600.html[Accessing the StorageGRID Appliance Installer]

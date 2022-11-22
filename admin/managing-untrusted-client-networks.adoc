@@ -34,6 +34,6 @@ After you save your configuration, the Storage Node no longer accepts any incomi
 
 .Related information
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]
 
-xref:configuring-load-balancer-endpoints.adoc[Configuring load balancer endpoints]
+link:configuring-load-balancer-endpoints.html[Configuring load balancer endpoints]

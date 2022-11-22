@@ -35,4 +35,4 @@ A confirmation message appears in the upper right corner of the page. Changes mi
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

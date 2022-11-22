@@ -47,4 +47,4 @@ NOTE: Click an attribute's name in the table to display help text.
 
 .Related information
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Verifying object integrity]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Verifying object integrity]

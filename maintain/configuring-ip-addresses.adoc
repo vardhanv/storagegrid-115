@@ -15,7 +15,7 @@ You must use the Change IP tool to make most changes to the networking configura
 
 NOTE: If you want to change the Grid Network IP address for all nodes in the grid, use the special procedure for grid-wide changes.
 
-xref:changing-ip-addresses-and-mtu-values-for-all-nodes-in-grid.adoc[Changing IP addresses for all nodes in the grid]
+link:changing-ip-addresses-and-mtu-values-for-all-nodes-in-grid.html[Changing IP addresses for all nodes in the grid]
 
 NOTE: If you are making changes to the Grid Network Subnet List only, use the Grid Manager to add or change the network configuration. Otherwise, use the Change IP tool if the Grid Manager is inaccessible due to a network configuration issue, or you are performing both a Grid Network routing change and other network changes at the same time.
 
@@ -40,8 +40,8 @@ You can only set up DHCP during the deployment phase. You cannot set up DHCP dur
 
 .Choices
 
-* xref:changing-nodes-network-configuration.adoc[Changing a node's network configuration]
-* xref:adding-to-or-changing-subnet-lists-on-admin-network.adoc[Adding to or changing subnet lists on the Admin Network]
-* xref:adding-to-or-changing-subnet-lists-on-grid-network.adoc[Adding to or changing subnet lists on the Grid Network]
-* xref:linux-adding-interfaces-to-existing-node.adoc[Linux: Adding interfaces to an existing node]
-* xref:changing-ip-addresses-and-mtu-values-for-all-nodes-in-grid.adoc[Changing IP addresses for all nodes in the grid]
+* link:changing-nodes-network-configuration.html[Changing a node's network configuration]
+* link:adding-to-or-changing-subnet-lists-on-admin-network.html[Adding to or changing subnet lists on the Admin Network]
+* link:adding-to-or-changing-subnet-lists-on-grid-network.html[Adding to or changing subnet lists on the Grid Network]
+* link:linux-adding-interfaces-to-existing-node.html[Linux: Adding interfaces to an existing node]
+* link:changing-ip-addresses-and-mtu-values-for-all-nodes-in-grid.html[Changing IP addresses for all nodes in the grid]

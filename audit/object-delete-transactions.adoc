@@ -27,7 +27,7 @@ Request made to delete the object from a bucket.
 a|
 CBID, S3KY
 a|
-xref:sdel-s3-delete.adoc[SDEL: S3 DELETE]
+link:sdel-s3-delete.html[SDEL: S3 DELETE]
 |===
 
 == Swift delete audit messages
@@ -44,5 +44,5 @@ Request made to delete the object from a container, or the container.
 a|
 CBID, WOBJ
 a|
-xref:wdel-swift-delete.adoc[WDEL: Swift DELETE]
+link:wdel-swift-delete.html[WDEL: Swift DELETE]
 |===

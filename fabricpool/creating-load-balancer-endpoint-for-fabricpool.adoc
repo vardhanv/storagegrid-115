@@ -20,7 +20,7 @@ When configuring StorageGRID for use with FabricPool, you configure a load balan
  ** CA Bundle: A single file containing the certificates from each intermediate issuing Certificate Authority (CA). The file should contain each of the PEM-encoded CA certificate files, concatenated in certificate chain order.
 
 .About this task
-For details about this task, see xref:../admin/configuring-load-balancer-endpoints.adoc[Configuring load balancer endpoints].
+For details about this task, see link:../admin/configuring-load-balancer-endpoints.html[Configuring load balancer endpoints].
 
 .Steps
 . Select *Configuration* > *Network Settings* > *Load Balancer Endpoints*.
@@ -44,7 +44,7 @@ The StorageGRID port you want to use for load balancing. This field defaults to 
 
 *Note:* Ports used by other grid services are not permitted. See the list of ports used for internal and external communications:
 
-xref:../network/network-port-reference.adoc[Network port reference]
+link:../network/network-port-reference.html[Network port reference]
 
 You must provide this same port number to ONTAP when you attach StorageGRID as a FabricPool cloud tier.
 a|

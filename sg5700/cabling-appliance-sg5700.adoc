@@ -147,6 +147,6 @@ Grid Network
 
 .Related information
 
-xref:accessing-storagegrid-appliance-installer-sg5700.adoc[Accessing the StorageGRID Appliance Installer]
+link:accessing-storagegrid-appliance-installer-sg5700.html[Accessing the StorageGRID Appliance Installer]
 
-xref:port-bond-modes-for-e5700sg-controller-ports.adoc[Port bond modes for E5700SG controller ports]
+link:port-bond-modes-for-e5700sg-controller-ports.html[Port bond modes for E5700SG controller ports]

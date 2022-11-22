@@ -13,7 +13,7 @@ You can decommission and permanently remove nodes that are connected to the grid
 
 * You must understand the requirements and considerations for decommissioning grid nodes.
 +
-xref:considerations-for-decommissioning-grid-nodes.adoc[Considerations for decommissioning grid nodes]
+link:considerations-for-decommissioning-grid-nodes.html[Considerations for decommissioning grid nodes]
 
 * You must have gathered all required materials.
 * You must have ensured that no data repair jobs are active.
@@ -97,18 +97,18 @@ Complete these steps after you complete the node decommission procedure:
 * Ensure that the drives of the decommissioned grid node are wiped clean. Use a commercially available data wiping tool or service to permanently and securely remove data from the drives.
 * If you decommissioned an appliance node and the data on the appliance was protected using node encryption, use the StorageGRID Appliance Installer to clear the key management server configuration (Clear KMS). You must clear the KMS configuration if you want to use the appliance in another grid.
 +
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 +
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 +
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 +
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
 .Related information
 
-xref:checking-data-repair-jobs.adoc[Checking data repair jobs]
+link:checking-data-repair-jobs.html[Checking data repair jobs]
 
-xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
+link:downloading-recovery-package.html[Downloading the Recovery Package]
 
-xref:../rhel/index.adoc[Install Red Hat Enterprise Linux or CentOS]
+link:../rhel/index.html[Install Red Hat Enterprise Linux or CentOS]

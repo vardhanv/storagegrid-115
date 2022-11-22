@@ -53,4 +53,4 @@ It can take a few moments for the attributes to reset after you click *Apply Cha
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

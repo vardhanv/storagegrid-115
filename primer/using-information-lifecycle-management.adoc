@@ -57,4 +57,4 @@ image::../media/ilm_policy_and_rules.png[ILM Policy and Rules]
 
 *Related information*
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

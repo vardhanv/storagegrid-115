@@ -67,8 +67,8 @@ a|
 |===
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:head-object.adoc[HEAD Object]
+link:head-object.html[HEAD Object]
 
-xref:s3-operations-tracked-in-audit-logs.adoc[S3 operations tracked in the audit logs]
+link:s3-operations-tracked-in-audit-logs.html[S3 operations tracked in the audit logs]

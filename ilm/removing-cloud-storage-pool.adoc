@@ -43,4 +43,4 @@ The Cloud Storage Pool is removed.
 
 .Related information
 
-xref:troubleshooting-cloud-storage-pools.adoc[Troubleshooting Cloud Storage Pools]
+link:troubleshooting-cloud-storage-pools.html[Troubleshooting Cloud Storage Pools]

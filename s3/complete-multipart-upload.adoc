@@ -57,4 +57,4 @@ A tenant can trigger the failed replication or notification by updating the obje
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

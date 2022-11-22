@@ -51,8 +51,8 @@ image::../media/state_graph.gif[State Graph]
 
 .Related information
 
-xref:viewing-nodes-page.adoc[Viewing the Nodes page]
+link:viewing-nodes-page.html[Viewing the Nodes page]
 
-xref:viewing-grid-topology-tree.adoc[Viewing the Grid Topology tree]
+link:viewing-grid-topology-tree.html[Viewing the Grid Topology tree]
 
-xref:reviewing-support-metrics.adoc[Reviewing support metrics]
+link:reviewing-support-metrics.html[Reviewing support metrics]

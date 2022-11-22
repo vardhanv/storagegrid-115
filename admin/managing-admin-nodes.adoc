@@ -11,10 +11,10 @@ summary: 'Each site in a StorageGRID deployment can have one or more Admin Nodes
 [.lead]
 Each site in a StorageGRID deployment can have one or more Admin Nodes.
 
-* xref:what-admin-node-is.adoc[What an Admin Node is]
-* xref:using-multiple-admin-nodes.adoc[Using multiple Admin Nodes]
-* xref:identifying-primary-admin-node.adoc[Identifying the primary Admin Node]
-* xref:selecting-preferred-sender.adoc[Selecting a preferred sender]
-* xref:viewing-notification-status-and-queues.adoc[Viewing notification status and queues]
-* xref:how-admin-nodes-show-acknowledged-alarms.adoc[How Admin Nodes show acknowledged alarms (legacy system)]
-* xref:configuring-audit-client-access.adoc[Configuring audit client access]
+* link:what-admin-node-is.html[What an Admin Node is]
+* link:using-multiple-admin-nodes.html[Using multiple Admin Nodes]
+* link:identifying-primary-admin-node.html[Identifying the primary Admin Node]
+* link:selecting-preferred-sender.html[Selecting a preferred sender]
+* link:viewing-notification-status-and-queues.html[Viewing notification status and queues]
+* link:how-admin-nodes-show-acknowledged-alarms.html[How Admin Nodes show acknowledged alarms (legacy system)]
+* link:configuring-audit-client-access.html[Configuring audit client access]

@@ -28,4 +28,4 @@ Make sure the host interface provides access to the appropriate physical network
 
 .Related information
 
-xref:deploying-new-linux-hosts.adoc[Deploying new Linux hosts]
+link:deploying-new-linux-hosts.html[Deploying new Linux hosts]

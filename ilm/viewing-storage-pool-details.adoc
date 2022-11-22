@@ -70,4 +70,4 @@ See the instructions for working with ILM rules.
 
 .Related information
 
-xref:working-with-ilm-rules-and-ilm-policies.adoc[Working with ILM rules and ILM policies]
+link:working-with-ilm-rules-and-ilm-policies.html[Working with ILM rules and ILM policies]

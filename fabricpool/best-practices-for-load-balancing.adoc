@@ -49,5 +49,5 @@ NOTE: StorageGRID uses server certificates for a number of purposes. If you are 
 
 To learn more about the server certificate for a load balancing endpoint:
 
-* xref:../admin/managing-load-balancing.adoc[Managing load balancing]
-* xref:../harden/hardening-guideline-for-server-certificates.adoc[Hardening guidelines for server certificates]
+* link:../admin/managing-load-balancing.html[Managing load balancing]
+* link:../harden/hardening-guideline-for-server-certificates.html[Hardening guidelines for server certificates]

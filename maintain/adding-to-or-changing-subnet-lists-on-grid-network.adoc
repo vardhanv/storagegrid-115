@@ -118,4 +118,4 @@ IMPORTANT: The Recovery Package file must be secured because it contains encrypt
 
 .Related information
 
-xref:configuring-ip-addresses.adoc[Configuring IP addresses]
+link:configuring-ip-addresses.html[Configuring IP addresses]

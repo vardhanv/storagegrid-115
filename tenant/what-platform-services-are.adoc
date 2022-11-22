@@ -82,12 +82,12 @@ See the instructions for implementing S3 client applications for details on how 
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:understanding-cloudmirror-replication-service.adoc[Understanding the CloudMirror replication service]
+link:understanding-cloudmirror-replication-service.html[Understanding the CloudMirror replication service]
 
-xref:understanding-notifications-for-buckets.adoc[Understanding notifications for buckets]
+link:understanding-notifications-for-buckets.html[Understanding notifications for buckets]
 
-xref:understanding-search-integration-service.adoc[Understanding the search integration service]
+link:understanding-search-integration-service.html[Understanding the search integration service]
 
-xref:considerations-for-using-platform-services.adoc[Considerations for using platform services]
+link:considerations-for-using-platform-services.html[Considerations for using platform services]

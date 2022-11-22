@@ -13,8 +13,8 @@ After applying power to the appliance, you must configure SANtricity Storage Man
 
 .Steps
 
-* xref:configuring-storagegrid-connections.adoc[Configuring StorageGRID connections]
-* xref:configuring-santricity-storage-manager.adoc[Configuring SANtricity Storage Manager]
-* xref:optional-enabling-node-encryption.adoc[Optional: Enabling node encryption]
-* xref:optional-changing-to-raid6-mode-sg5660-only.adoc[Optional: Changing to RAID6 mode (SG5660 only)]
-* xref:optional-remapping-network-ports-for-appliance-sg5600-and-sg5700.adoc[Optional: Remapping network ports for the appliance]
+* link:configuring-storagegrid-connections.html[Configuring StorageGRID connections]
+* link:configuring-santricity-storage-manager.html[Configuring SANtricity Storage Manager]
+* link:optional-enabling-node-encryption.html[Optional: Enabling node encryption]
+* link:optional-changing-to-raid6-mode-sg5660-only.html[Optional: Changing to RAID6 mode (SG5660 only)]
+* link:optional-remapping-network-ports-for-appliance-sg5600-and-sg5700.html[Optional: Remapping network ports for the appliance]

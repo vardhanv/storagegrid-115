@@ -15,13 +15,13 @@ You can expand the storage capacity of Storage Nodes that have 16 or fewer stora
 
 Before adding storage volumes, review the guidelines for adding storage capacity to ensure that you know where to add volumes to meet the requirements of your ILM policy.
 
-xref:adding-storage-capacity.adoc[Adding storage capacity]
+link:adding-storage-capacity.html[Adding storage capacity]
 
 [NOTE]
 ====
 These instructions apply to software-based Storage Nodes only. See the installation and maintenance instructions for the SG6060 appliance to learn how to add storage volumes to SG6060 by installing expansion shelves. Other appliance Storage Nodes cannot be expanded.
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 ====
 
 .About this task
@@ -47,6 +47,6 @@ image::../media/nodes_page_storage_tables_vol_expansion.png[Nodes Page Storage T
 
 . Follow the instructions for your platform to add new storage volumes to the Storage Node.
 
-* xref:vmware-adding-storage-volumes-to-storage-node.adoc[VMware: Adding storage volumes to a Storage Node]
+* link:vmware-adding-storage-volumes-to-storage-node.html[VMware: Adding storage volumes to a Storage Node]
 
-* xref:linux-adding-direct-attached-or-san-volumes-to-storage-node.adoc[Linux: Adding direct-attached or SAN volumes to a Storage Node]
+* link:linux-adding-direct-attached-or-san-volumes-to-storage-node.html[Linux: Adding direct-attached or SAN volumes to a Storage Node]

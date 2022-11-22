@@ -48,8 +48,8 @@ NOTE: If you need to compress objects and your client application must use range
 
 .Related information
 
-xref:consistency-controls.adoc[Consistency controls]
+link:consistency-controls.html[Consistency controls]
 
-xref:storagegrid-s3-rest-api-operations.adoc[PUT Bucket consistency request]
+link:storagegrid-s3-rest-api-operations.html[PUT Bucket consistency request]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

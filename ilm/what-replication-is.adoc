@@ -23,6 +23,6 @@ NOTE: StorageGRID can store only one replicated copy of an object on any given S
 
 .Related information
 
-xref:what-storage-pool-is.adoc[What a storage pool is]
+link:what-storage-pool-is.html[What a storage pool is]
 
-xref:using-multiple-storage-pools-for-cross-site-replication.adoc[Using multiple storage pools for cross-site replication]
+link:using-multiple-storage-pools-for-cross-site-replication.html[Using multiple storage pools for cross-site replication]

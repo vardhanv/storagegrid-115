@@ -34,4 +34,4 @@ In some cases, information about CPU availability is limited to the site where t
 
 .Related information
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

@@ -13,6 +13,6 @@ You can use SANtricity System Manager to monitor the status of the storage contr
 
 .Steps
 
-* xref:setting-up-and-accessing-santricity-system-manager.adoc[Setting up and Accessing SANtricity System Manager]
-* xref:reviewing-hardware-status-in-santricity-system-manager.adoc[Reviewing the hardware status in SANtricity System Manager]
-* xref:setting-ip-addresses-for-storage-controllers-using-storagegrid-appliance-installer.adoc[Setting the IP addresses for the storage controllers using the StorageGRID Appliance Installer]
+* link:setting-up-and-accessing-santricity-system-manager.html[Setting up and Accessing SANtricity System Manager]
+* link:reviewing-hardware-status-in-santricity-system-manager.html[Reviewing the hardware status in SANtricity System Manager]
+* link:setting-ip-addresses-for-storage-controllers-using-storagegrid-appliance-installer.html[Setting the IP addresses for the storage controllers using the StorageGRID Appliance Installer]

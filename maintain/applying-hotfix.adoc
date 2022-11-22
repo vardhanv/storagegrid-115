@@ -109,8 +109,8 @@ The procedure is not complete until the hotfix is successfully applied to all no
 
 .Related information
 
-xref:hotfix-planning-and-preparation.adoc[Hotfix planning and preparation]
+link:hotfix-planning-and-preparation.html[Hotfix planning and preparation]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

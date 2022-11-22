@@ -15,7 +15,7 @@ For additional information about StorageGRID network topology, requirements, and
 
 .Related information
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]
 
 == Deployment topologies
 
@@ -55,7 +55,7 @@ Objects can be stored within StorageGRID on software or hardware-based Storage N
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 == Grid nodes and services
 
@@ -366,18 +366,18 @@ https://mysupport.netapp.com/matrix[NetApp Interoperability Matrix Tool^]
 
 https://hwu.netapp.com[NetApp Hardware Universe^]
 
-xref:../vmware/index.adoc[Install VMware]
+link:../vmware/index.html[Install VMware]
 
-xref:../rhel/index.adoc[Install Red Hat Enterprise Linux or CentOS]
+link:../rhel/index.html[Install Red Hat Enterprise Linux or CentOS]
 
-xref:../ubuntu/index.adoc[Install Ubuntu or Debian]
+link:../ubuntu/index.html[Install Ubuntu or Debian]
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

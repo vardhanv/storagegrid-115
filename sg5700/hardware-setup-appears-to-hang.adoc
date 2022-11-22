@@ -48,8 +48,8 @@ _E5700 and E2800 System Monitoring Guide_
 
 .Related information
 
-xref:status-indicators-on-e5700sg-controller.adoc[Status indicators on the E5700SG controller]
+link:status-indicators-on-e5700sg-controller.html[Status indicators on the E5700SG controller]
 
-xref:he-error-error-synchronizing-with-santricity-os-software.adoc[HE error: Error synchronizing with SANtricity OS Software]
+link:he-error-error-synchronizing-with-santricity-os-software.html[HE error: Error synchronizing with SANtricity OS Software]
 
 http://mysupport.netapp.com/info/web/ECMP1658252.html[NetApp E-Series Systems Documentation Site^]

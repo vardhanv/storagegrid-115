@@ -21,4 +21,4 @@ image::../media/nodes_page_network_tab.gif[Nodes page Network tab]
 
 .Related information
 
-xref:monitoring-network-connections-and-performance.adoc[Monitoring network connections and performance]
+link:monitoring-network-connections-and-performance.html[Monitoring network connections and performance]

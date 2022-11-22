@@ -171,4 +171,4 @@ IMPORTANT: The MTU value of the network must match the value configured on the s
 
 .Related information
 
-xref:changing-link-configuration-of-sg6000-cn-controller.adoc[Changing the link configuration of the SG6000-CN controller]
+link:changing-link-configuration-of-sg6000-cn-controller.html[Changing the link configuration of the SG6000-CN controller]

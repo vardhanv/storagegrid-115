@@ -48,4 +48,4 @@ After downloading the Support file for StorageGRID Appliances file, extract the 
 
 .Related information
 
-xref:accessing-storagegrid-appliance-installer-sg100-and-sg1000.adoc[Accessing the StorageGRID Appliance Installer]
+link:accessing-storagegrid-appliance-installer-sg100-and-sg1000.html[Accessing the StorageGRID Appliance Installer]

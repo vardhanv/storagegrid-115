@@ -71,4 +71,4 @@ IMPORTANT: Swift users must have the Root Access permission to access the Tenant
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

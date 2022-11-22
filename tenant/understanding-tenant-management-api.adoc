@@ -87,6 +87,6 @@ IMPORTANT: Any API operations you perform using the API Docs webpage are live op
 
 .Related information
 
-xref:protecting-against-cross-site-request-forgery-csrf.adoc[Protecting against Cross-Site Request Forgery (CSRF)]
+link:protecting-against-cross-site-request-forgery-csrf.html[Protecting against Cross-Site Request Forgery (CSRF)]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

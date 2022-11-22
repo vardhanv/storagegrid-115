@@ -26,6 +26,6 @@ For details on the audit log file, the format of audit messages, the types of au
 
 .Related information
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

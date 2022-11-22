@@ -16,7 +16,7 @@ The SG6000-CN controller has two power supplies for redundancy. If one of the po
 * You have unpacked the replacement power supply unit.
 * You have physically located the controller where you are replacing the power supply in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * You have confirmed that the other power supply is installed and running.
 

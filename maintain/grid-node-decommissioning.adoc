@@ -27,10 +27,10 @@ image::../media/overview_decommission_nodes.png[high-level flowchart of decommis
 
 .Steps
 
-* xref:preparing-to-decommission-grid-nodes.adoc[Preparing to decommission grid nodes]
-* xref:gathering-required-materials-node-decom.adoc[Gathering required materials]
-* xref:accessing-decommission-nodes-page.adoc[Accessing the Decommission Nodes page]
-* xref:decommissioning-disconnected-grid-nodes.adoc[Decommissioning disconnected grid nodes]
-* xref:decommissioning-connected-grid-nodes.adoc[Decommissioning connected grid nodes]
-* xref:pausing-and-resuming-decommission-process-for-storage-nodes.adoc[Pausing and resuming the decommission process for Storage Nodes]
-* xref:troubleshooting-node-decommissioning.adoc[Troubleshooting node decommissioning]
+* link:preparing-to-decommission-grid-nodes.html[Preparing to decommission grid nodes]
+* link:gathering-required-materials-node-decom.html[Gathering required materials]
+* link:accessing-decommission-nodes-page.html[Accessing the Decommission Nodes page]
+* link:decommissioning-disconnected-grid-nodes.html[Decommissioning disconnected grid nodes]
+* link:decommissioning-connected-grid-nodes.html[Decommissioning connected grid nodes]
+* link:pausing-and-resuming-decommission-process-for-storage-nodes.html[Pausing and resuming the decommission process for Storage Nodes]
+* link:troubleshooting-node-decommissioning.html[Troubleshooting node decommissioning]

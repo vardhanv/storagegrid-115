@@ -52,8 +52,8 @@ For more information about ILM, see the instructions for managing objects with i
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:storagegrid-s3-rest-api-operations.adoc[PUT Bucket last access time request]
+link:storagegrid-s3-rest-api-operations.html[PUT Bucket last access time request]

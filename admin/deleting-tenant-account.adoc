@@ -29,4 +29,4 @@ If your system includes more than 20 items, you can specify how many rows are sh
 
 .Related information
 
-xref:controlling-administrator-access-to-storagegrid.adoc[Controlling administrator access to StorageGRID]
+link:controlling-administrator-access-to-storagegrid.html[Controlling administrator access to StorageGRID]

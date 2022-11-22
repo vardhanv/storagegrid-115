@@ -45,8 +45,8 @@ NOTE: If you need to compress objects and your client application must use range
 
 .Related information
 
-xref:get-container-consistency-request.adoc[GET container consistency request]
+link:get-container-consistency-request.html[GET container consistency request]
 
-xref:put-container-consistency-request.adoc[PUT container consistency request]
+link:put-container-consistency-request.html[PUT container consistency request]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

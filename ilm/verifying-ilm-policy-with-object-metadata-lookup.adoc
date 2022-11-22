@@ -51,8 +51,8 @@ NOTE: If the Audit option is enabled, you can also monitor the audit log for the
 
 .Related information
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]

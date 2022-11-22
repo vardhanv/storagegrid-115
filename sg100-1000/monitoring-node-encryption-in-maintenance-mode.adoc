@@ -16,7 +16,7 @@ If you enabled node encryption for the appliance during installation, you can mo
 * Node encryption must have been enabled for the appliance during installation. You cannot enable node encryption after the appliance is installed.
 * The appliance has been placed into maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .Steps
 
@@ -31,12 +31,12 @@ The Node Encryption page includes these three sections:
   *** To address issues with the certificates themselves, such as renewing expired certificates, see the information about KMS in the instructions for administering StorageGRID.
   *** If there are unexpected problems connecting to KMS hosts, verify that the domain name system (DNS) servers are correct and that appliance networking is correctly configured.
 +
-xref:checking-dns-server-configuration.adoc[Checking the DNS server configuration]
+link:checking-dns-server-configuration.html[Checking the DNS server configuration]
 
   *** If you are unable to resolve your certificate issues, contact technical support.
  ** Clear KMS Key disables node encryption for the appliance, removes the association between the appliance and the key management server that was configured for the StorageGRID site, and deletes all data from the appliance. You must clear the KMS key before you can install the appliance into another StorageGRID system.
 +
-xref:clearing-key-management-server-configuration.adoc[Clearing the key management server configuration]
+link:clearing-key-management-server-configuration.html[Clearing the key management server configuration]
 +
 IMPORTANT: Clearing the KMS configuration deletes data from the appliance, rendering it permanently inaccessible. This data is not recoverable.
 
@@ -51,4 +51,4 @@ image::../media/node_rejoin_grid_confirmation.png[Appliance node rejoined grid]
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

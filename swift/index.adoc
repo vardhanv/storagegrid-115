@@ -11,9 +11,9 @@ summary: ''
 [.lead]
 Learn how client applications can use the OpenStack Swift API to interface with the StorageGRID system.
 
-* xref:openstack-swift-api-support-in-storagegrid.adoc[OpenStack Swift API support in StorageGRID]
-* xref:configuring-tenant-accounts-and-connections.adoc[Configuring tenant accounts and connections]
-* xref:swift-rest-api-supported-operations.adoc[Swift REST API supported operations]
-* xref:storagegrid-swift-rest-api-operations.adoc[StorageGRID Swift REST API operations]
-* xref:configuring-security-for-rest-api.adoc[Configuring security for the REST API]
-* xref:monitoring-and-auditing-operations.adoc[Monitoring and auditing operations]
+* link:openstack-swift-api-support-in-storagegrid.html[OpenStack Swift API support in StorageGRID]
+* link:configuring-tenant-accounts-and-connections.html[Configuring tenant accounts and connections]
+* link:swift-rest-api-supported-operations.html[Swift REST API supported operations]
+* link:storagegrid-swift-rest-api-operations.html[StorageGRID Swift REST API operations]
+* link:configuring-security-for-rest-api.html[Configuring security for the REST API]
+* link:monitoring-and-auditing-operations.html[Monitoring and auditing operations]

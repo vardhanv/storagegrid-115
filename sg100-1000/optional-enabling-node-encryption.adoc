@@ -62,6 +62,6 @@ You can view node-encryption status, KMS details, and the certificates in use wh
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:monitoring-node-encryption-in-maintenance-mode.adoc[Monitoring node encryption in maintenance mode]
+link:monitoring-node-encryption-in-maintenance-mode.html[Monitoring node encryption in maintenance mode]

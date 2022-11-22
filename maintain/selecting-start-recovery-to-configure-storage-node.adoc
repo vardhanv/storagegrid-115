@@ -56,4 +56,4 @@ image::../media/recovery_reset_button.gif[screenshot showing the stage "waiting 
 
 .Related information
 
-xref:preparing-appliance-for-reinstallation-platform-replacement-only.adoc[Preparing an appliance for reinstallation (platform replacement only)]
+link:preparing-appliance-for-reinstallation-platform-replacement-only.html[Preparing an appliance for reinstallation (platform replacement only)]

@@ -15,9 +15,9 @@ When tenant users sign in to the Tenant Manager, they are connecting to an Admin
 
 .Related information
 
-xref:exploring-grid-manager.adoc[Exploring the Grid Manager]
+link:exploring-grid-manager.html[Exploring the Grid Manager]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 == Tenant Manager Dashboard
 

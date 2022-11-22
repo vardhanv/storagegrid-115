@@ -15,4 +15,4 @@ If possible, do not schedule data migration during periods of high activity. How
 
 .Related information
 
-xref:monitoring-data-migration.adoc[Monitoring data migration]
+link:monitoring-data-migration.html[Monitoring data migration]

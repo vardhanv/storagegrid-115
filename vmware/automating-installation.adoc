@@ -11,6 +11,6 @@ summary: 'You can automate the deployment of VMware virtual grid nodes, the conf
 [.lead]
 You can automate the deployment of VMware virtual grid nodes, the configuration of grid nodes, and the configuration of StorageGRID appliances.
 
-* xref:automating-grid-node-deployment-in-vmware-vsphere.adoc[Automating grid node deployment in VMware vSphere]
+* link:automating-grid-node-deployment-in-vmware-vsphere.html[Automating grid node deployment in VMware vSphere]
 
-* xref:automating-configuration-of-storagegrid.adoc[Automating the configuration of StorageGRID]
+* link:automating-configuration-of-storagegrid.html[Automating the configuration of StorageGRID]

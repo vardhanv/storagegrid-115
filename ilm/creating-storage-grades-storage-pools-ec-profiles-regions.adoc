@@ -11,8 +11,8 @@ summary: 'Before you can create the ILM rules for your StorageGRID system, you m
 [.lead]
 Before you can create the ILM rules for your StorageGRID system, you must define object storage locations, determine the types of copies you want, and optionally configure S3 regions.
 
-* xref:creating-and-assigning-storage-grades.adoc[Creating and assigning storage grades]
-* xref:configuring-storage-pools.adoc[Configuring storage pools]
-* xref:using-cloud-storage-pools.adoc[Using Cloud Storage Pools]
-* xref:configuring-erasure-coding-profiles.adoc[Configuring Erasure Coding profiles]
-* xref:configuring-regions-optional-and-s3-only.adoc[Configuring regions (optional and S3 only)]
+* link:creating-and-assigning-storage-grades.html[Creating and assigning storage grades]
+* link:configuring-storage-pools.html[Configuring storage pools]
+* link:using-cloud-storage-pools.html[Using Cloud Storage Pools]
+* link:configuring-erasure-coding-profiles.html[Configuring Erasure Coding profiles]
+* link:configuring-regions-optional-and-s3-only.html[Configuring regions (optional and S3 only)]

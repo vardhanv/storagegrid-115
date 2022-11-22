@@ -13,6 +13,6 @@ If you encounter issues during the installation, you might find it helpful to re
 
 .Related information
 
-xref:hardware-setup-appears-to-hang-sg100-and-sg1000.adoc[Hardware setup appears to hang]
+link:hardware-setup-appears-to-hang-sg100-and-sg1000.html[Hardware setup appears to hang]
 
-xref:troubleshooting-connection-issues-sg100-and-sg1000.adoc[Troubleshooting connection issues]
+link:troubleshooting-connection-issues-sg100-and-sg1000.html[Troubleshooting connection issues]

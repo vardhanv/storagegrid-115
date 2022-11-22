@@ -37,6 +37,6 @@ m|Passwords.txt file
 |===
 .Related information
 
-xref:downloading-hotfix-file.adoc[Downloading the hotfix file]
+link:downloading-hotfix-file.html[Downloading the hotfix file]
 
-xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
+link:downloading-recovery-package.html[Downloading the Recovery Package]

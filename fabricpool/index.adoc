@@ -11,8 +11,8 @@ summary: ''
 [.lead]
 Learn how to configure StorageGRID as a NetApp FabricPool cloud tier.
 
-* xref:configuring-storagegrid-for-fabricpool.adoc[Configuring StorageGRID for FabricPool]
-* xref:information-needed-to-attach-storagegrid-as-cloud-tier.adoc[Information needed to attach StorageGRID as a cloud tier]
-* xref:using-storagegrid-ilm-with-fabricpool-data.adoc[Using StorageGRID information lifecycle management with FabricPool data]
-* xref:creating-traffic-classification-policy-for-fabricpool.adoc[Creating a traffic classification policy for FabricPool]
-* xref:other-best-practices-for-storagegrid-and-fabricpool.adoc[Other best practices for StorageGRID and FabricPool]
+* link:configuring-storagegrid-for-fabricpool.html[Configuring StorageGRID for FabricPool]
+* link:information-needed-to-attach-storagegrid-as-cloud-tier.html[Information needed to attach StorageGRID as a cloud tier]
+* link:using-storagegrid-ilm-with-fabricpool-data.html[Using StorageGRID information lifecycle management with FabricPool data]
+* link:creating-traffic-classification-policy-for-fabricpool.html[Creating a traffic classification policy for FabricPool]
+* link:other-best-practices-for-storagegrid-and-fabricpool.html[Other best practices for StorageGRID and FabricPool]

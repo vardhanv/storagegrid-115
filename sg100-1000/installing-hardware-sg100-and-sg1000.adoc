@@ -13,8 +13,8 @@ Hardware installation entails installing the appliance into a cabinet or rack, c
 
 .Steps
 
-* xref:registering-hardware-sg100-and-sg1000.adoc[Registering the hardware]
-* xref:installing-appliance-in-cabinet-or-rack-sg100-and-sg1000.adoc[Installing the appliance into a cabinet or rack (SG100 and SG1000)]
-* xref:cabling-appliance-sg100-and-sg1000.adoc[Cabling the appliance SG100 and SG1000)]
-* xref:connecting-power-cords-and-applying-power-sg100-and-sg1000.adoc[Connecting power cords and applying power (SG100 and SG1000)]
-* xref:viewing-status-indicators-on-sg100-and-sg1000-appliances.adoc[Viewing status indicators on the SG100 and SG1000 appliances]
+* link:registering-hardware-sg100-and-sg1000.html[Registering the hardware]
+* link:installing-appliance-in-cabinet-or-rack-sg100-and-sg1000.html[Installing the appliance into a cabinet or rack (SG100 and SG1000)]
+* link:cabling-appliance-sg100-and-sg1000.html[Cabling the appliance SG100 and SG1000)]
+* link:connecting-power-cords-and-applying-power-sg100-and-sg1000.html[Connecting power cords and applying power (SG100 and SG1000)]
+* link:viewing-status-indicators-on-sg100-and-sg1000-appliances.html[Viewing status indicators on the SG100 and SG1000 appliances]

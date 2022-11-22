@@ -90,12 +90,12 @@ Each object that is saved in a bucket with S3 Object Lock enabled goes through t
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:comparing-s3-object-lock-to-legacy-compliance.adoc[Comparing S3 Object Lock to legacy Compliance]
+link:comparing-s3-object-lock-to-legacy-compliance.html[Comparing S3 Object Lock to legacy Compliance]
 
-xref:example-7-compliant-ilm-policy-for-s3-object-lock.adoc[Example 7: Compliant ILM policy for S3 Object Lock]
+link:example-7-compliant-ilm-policy-for-s3-object-lock.html[Example 7: Compliant ILM policy for S3 Object Lock]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]

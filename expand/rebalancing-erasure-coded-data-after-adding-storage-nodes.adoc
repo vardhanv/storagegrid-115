@@ -16,7 +16,7 @@ In some cases, you might need to rebalance erasure-coded data after you add new 
 * You must have completed the expansion steps to add the new Storage Nodes.
 * You must have reviewed the considerations for rebalancing erasure-coded data.
 +
-xref:considerations-for-rebalancing-erasure-coded-data.adoc[Considerations for rebalancing erasure-coded data]
+link:considerations-for-rebalancing-erasure-coded-data.html[Considerations for rebalancing erasure-coded data]
 +
 IMPORTANT: Only perform this procedure if the *Low Object Storage* alert has been triggered for one or more Storage Nodes at a site and you were unable to add the recommended number of new Storage Nodes.
 
@@ -112,6 +112,6 @@ NOTE: Replicated object data is not moved by the EC rebalance procedure.
 
 .Related information
 
-xref:considerations-for-rebalancing-erasure-coded-data.adoc[Considerations for rebalancing erasure-coded data]
+link:considerations-for-rebalancing-erasure-coded-data.html[Considerations for rebalancing erasure-coded data]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

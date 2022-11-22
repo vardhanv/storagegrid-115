@@ -11,8 +11,8 @@ summary: 'If you want to monitor StorageGRID using the Simple Network Management
 [.lead]
 If you want to monitor StorageGRID using the Simple Network Management Protocol (SNMP), you must configure the SNMP agent that is included with StorageGRID.
 
-* xref:configuring-snmp-agent.adoc[Configuring the SNMP agent]
-* xref:updating-snmp-agent.adoc[Updating the SNMP agent]
+* link:configuring-snmp-agent.html[Configuring the SNMP agent]
+* link:updating-snmp-agent.html[Updating the SNMP agent]
 
 == Capabilities
 
@@ -94,10 +94,10 @@ You can access the MIB definition file at the following location on any StorageG
 
 .Related information
 
-xref:alerts-reference.adoc[Alerts reference]
+link:alerts-reference.html[Alerts reference]
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+link:alarms-reference.html[Alarms reference (legacy system)]
 
-xref:alarms-that-generate-snmp-notifications.adoc[Alarms that generate SNMP notifications (legacy system)]
+link:alarms-that-generate-snmp-notifications.html[Alarms that generate SNMP notifications (legacy system)]
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]

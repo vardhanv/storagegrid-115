@@ -35,7 +35,7 @@ For more information, refer to the following:
 |Port
 |The port that FabricPool will use when it connects to StorageGRID. You determine which port number to use when you define the StorageGRID load balancer endpoint.
 
-xref:creating-load-balancer-endpoint-for-fabricpool.adoc[Creating a load balancer endpoint for FabricPool]
+link:creating-load-balancer-endpoint-for-fabricpool.html[Creating a load balancer endpoint for FabricPool]
 
 |Server name
 |The fully qualified domain name (FQDN) for the StorageGRID load balancer endpoint. For example, `s3.storagegrid.company.com`.
@@ -45,7 +45,7 @@ Note the following:
 * The domain name that you specify here must match the domain name on the CA certificate you upload for the StorageGRID load balancer endpoint.
 * The DNS record for this domain name must map to each IP address you will use to connect to StorageGRID.
 
-xref:configuring-dns-for-storagegrid-ip-addresses.adoc[Configuring the DNS server for StorageGRID IP addresses]
+link:configuring-dns-for-storagegrid-ip-addresses.html[Configuring the DNS server for StorageGRID IP addresses]
 
 |Container name
 |The name of the StorageGRID bucket you will use with this ONTAP cluster. For example, `fabricpool-bucket`. You create this bucket in the Tenant Manager.
@@ -56,14 +56,14 @@ Note the following:
 * The bucket cannot have versioning enabled.
 * You must use a different bucket for each ONTAP cluster that will tier data to StorageGRID.
 
-xref:creating-s3-bucket-and-access-key.adoc[Creating an S3 bucket and obtaining an access key]
+link:creating-s3-bucket-and-access-key.html[Creating an S3 bucket and obtaining an access key]
 
 |Access key and secret password
 |The access key and secret access key for the StorageGRID tenant account.
 
 You generate these values in the Tenant Manager.
 
-xref:creating-s3-bucket-and-access-key.adoc[Creating an S3 bucket and obtaining an access key]
+link:creating-s3-bucket-and-access-key.html[Creating an S3 bucket and obtaining an access key]
 
 |SSL
 |Must be enabled.
@@ -73,7 +73,7 @@ xref:creating-s3-bucket-and-access-key.adoc[Creating an S3 bucket and obtaining 
 
 *Note:* If an intermediate CA issued the StorageGRID certificate, you must provide the intermediate CA certificate. If the StorageGRID certificate was issued directly by the Root CA, you must provide the Root CA certificate.
 
-xref:creating-load-balancer-endpoint-for-fabricpool.adoc[Creating a load balancer endpoint for FabricPool]
+link:creating-load-balancer-endpoint-for-fabricpool.html[Creating a load balancer endpoint for FabricPool]
 
 |===
 

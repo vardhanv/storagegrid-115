@@ -51,11 +51,11 @@ image::../media/object_lookup_results.png[Object Lookup Results]
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]
 
 == Object store (storage volume) failures
 
@@ -76,4 +76,4 @@ Depending on the nature of the failure, faults with a storage volume might be re
 
 .Related information
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

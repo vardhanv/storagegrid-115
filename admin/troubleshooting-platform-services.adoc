@@ -115,10 +115,10 @@ NOTE: If more than one Storage Node that contains the RSM service fails at a sit
 
 For additional information about troubleshooting platform services endpoints, see the instructions for using tenant accounts.
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 .Related information
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
-xref:configuring-storage-proxy-settings.adoc[Configuring Storage proxy settings]
+link:configuring-storage-proxy-settings.html[Configuring Storage proxy settings]

@@ -30,4 +30,4 @@ When managing groups, you can select *Read-only* for this new option to prevent 
 |===
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

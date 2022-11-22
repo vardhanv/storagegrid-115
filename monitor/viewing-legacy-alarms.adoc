@@ -81,8 +81,8 @@ image::../media/alarms_acknowledging.png[Alarms Acknowledging]
 
 .Related information
 
-xref:alarms-reference.adoc[Alarms reference (legacy system)]
+link:alarms-reference.html[Alarms reference (legacy system)]
 
-xref:managing-alarms.adoc[Acknowledging current alarms (legacy system)]
+link:managing-alarms.html[Acknowledging current alarms (legacy system)]
 
-xref:managing-alarms.adoc[Disabling alarms (legacy system)]
+link:managing-alarms.html[Disabling alarms (legacy system)]

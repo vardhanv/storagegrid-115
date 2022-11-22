@@ -82,7 +82,7 @@ After you have defined the problem and have assessed its risk and impact, collec
 |Create timeline of recent changes
 |Changes to your StorageGRID system, its configuration, or its environment can cause new behavior.
 |
-* xref:troubleshooting-storagegrid-system.adoc[Creating a timeline of recent changes]
+* link:troubleshooting-storagegrid-system.html[Creating a timeline of recent changes]
 
 |Review alerts and alarms
 |Alerts and alarms can help you quickly determine the root cause of a problem by providing important clues as to the underlying issues that might be causing it.
@@ -92,47 +92,47 @@ Review the list of current alerts and alarms to see if StorageGRID has identifie
 Review alerts and alarms triggered in the past for additional insights.
 
 |
-* xref:../monitor/viewing-current-alerts.adoc[Viewing current alerts]
-* xref:../monitor/viewing-legacy-alarms.adoc[Viewing legacy alarms]
-* xref:../monitor/viewing-resolved-alerts.adoc[Viewing resolved alerts]
-* xref:../monitor/managing-alarms.adoc[Reviewing historical alarms and alarm frequency (legacy system)]
+* link:../monitor/viewing-current-alerts.html[Viewing current alerts]
+* link:../monitor/viewing-legacy-alarms.html[Viewing legacy alarms]
+* link:../monitor/viewing-resolved-alerts.html[Viewing resolved alerts]
+* link:../monitor/managing-alarms.html[Reviewing historical alarms and alarm frequency (legacy system)]
 
 |Monitor events
 |Events include any system error or fault events for a node, including errors such as network errors. Monitor events to learn more about issues or to help with troubleshooting.
 |
-* xref:../monitor/viewing-events-tab.adoc[Viewing the Events tab]
-* xref:../monitor/monitoring-events.adoc[Monitoring events]
+* link:../monitor/viewing-events-tab.html[Viewing the Events tab]
+* link:../monitor/monitoring-events.html[Monitoring events]
 
 |Identify trends, using chart and text reports
 |Trends can provide valuable clues about when issues first appeared, and can help you understand how quickly things are changing.
 |
-* xref:../monitor/using-charts-and-reports.adoc[Using charts and reports]
+* link:../monitor/using-charts-and-reports.html[Using charts and reports]
 
 |Establish baselines
 |Collect information about the normal levels of various operational values. These baseline values, and deviations from these baselines, can provide valuable clues.
 |
-* xref:troubleshooting-storagegrid-system.adoc[Establishing baselines]
+* link:troubleshooting-storagegrid-system.html[Establishing baselines]
 
 |Perform ingest and retrieval tests
 |To troubleshoot performance issues with ingest and retrieval, use a workstation to store and retrieve objects. Compare results against those seen when using the client application.
 |
-* xref:../monitor/monitoring-put-and-get-performance.adoc[Monitoring PUT and GET performance]
+* link:../monitor/monitoring-put-and-get-performance.html[Monitoring PUT and GET performance]
 
 |Review audit messages
 |Review audit messages to follow StorageGRID operations in detail. The details in audit messages can be useful for troubleshooting many types of issues, including performance issues.
 |
-* xref:../monitor/reviewing-audit-messages.adoc[Reviewing audit messages]
+* link:../monitor/reviewing-audit-messages.html[Reviewing audit messages]
 
 |Check object locations and storage integrity
 |If you are having storage problems, verify that objects are being placed where you expect. Check the integrity of object data on a Storage Node.
-|xref:../monitor/monitoring-object-verification-operations.adoc[Monitoring object verification operations].
+|link:../monitor/monitoring-object-verification-operations.html[Monitoring object verification operations].
 
 |Collect data for technical support
 |Technical support might ask you to collect data or review specific information to help troubleshoot issues.
 |
-* xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
-* xref:../monitor/manually-triggering-autosupport-message.adoc[Manually triggering an AutoSupport message]
-* xref:../monitor/reviewing-support-metrics.adoc[Reviewing support metrics]
+* link:../monitor/collecting-log-files-and-system-data.html[Collecting log files and system data]
+* link:../monitor/manually-triggering-autosupport-message.html[Manually triggering an AutoSupport message]
+* link:../monitor/reviewing-support-metrics.html[Reviewing support metrics]
 |===
 
 ==== Creating a timeline of recent changes
@@ -278,7 +278,7 @@ If you cannot resolve the problem on your own, contact technical support. Before
 |Problem statement
 |What are the problem symptoms? When did the problem start? Does it happen consistently or intermittently? If intermittently, what times has it occurred?
 
-xref:troubleshooting-storagegrid-system.adoc[Defining the problem]
+link:troubleshooting-storagegrid-system.html[Defining the problem]
 
 |
 |Impact assessment
@@ -310,19 +310,19 @@ You can collect logs for the entire grid, or for selected nodes.
 
 If you are collecting logs only for selected nodes, be sure to include at least one Storage Node that has the ADC service. (The first three Storage Nodes at a site include the ADC service.)
 
-xref:../monitor/collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+link:../monitor/collecting-log-files-and-system-data.html[Collecting log files and system data]
 
 |
 |Baseline information
 |Collect baseline information regarding ingest operations, retrieval operations, and storage consumption.
 
-xref:troubleshooting-storagegrid-system.adoc[Establishing baselines]
+link:troubleshooting-storagegrid-system.html[Establishing baselines]
 
 |
 |Timeline of recent changes
 |Create a timeline that summarizes any recent changes to the system or its environment.
 
-xref:troubleshooting-storagegrid-system.adoc[Creating a timeline of recent changes]
+link:troubleshooting-storagegrid-system.html[Creating a timeline of recent changes]
 
 |
 |History of efforts to diagnose the issue
@@ -331,4 +331,4 @@ xref:troubleshooting-storagegrid-system.adoc[Creating a timeline of recent chang
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

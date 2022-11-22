@@ -53,4 +53,4 @@ The new key is listed on the My access keys page. Changes might take up to 15 mi
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

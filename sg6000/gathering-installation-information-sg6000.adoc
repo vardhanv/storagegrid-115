@@ -359,12 +359,12 @@ a|
 
 .Related information
 
-xref:controllers-in-sg6000-appliances.adoc[Controllers in the SG6000 appliances]
+link:controllers-in-sg6000-appliances.html[Controllers in the SG6000 appliances]
 
-xref:reviewing-appliance-network-connections-sg6000.adoc[Reviewing appliance network connections]
+link:reviewing-appliance-network-connections-sg6000.html[Reviewing appliance network connections]
 
-xref:port-bond-modes-for-sg6000-cn-controller.adoc[Port bond modes for the SG6000-CN controller]
+link:port-bond-modes-for-sg6000-cn-controller.html[Port bond modes for the SG6000-CN controller]
 
-xref:cabling-appliance-sg6000.adoc[Cabling the appliance (SG6000)]
+link:cabling-appliance-sg6000.html[Cabling the appliance (SG6000)]
 
-xref:configuring-storagegrid-ip-addresses-sg6000.adoc[Configuring StorageGRID IP addresses]
+link:configuring-storagegrid-ip-addresses-sg6000.html[Configuring StorageGRID IP addresses]

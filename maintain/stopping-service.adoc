@@ -45,4 +45,4 @@ NOTE: Services can take up to 11 minutes to stop.
 
 .Related information
 
-xref:forcing-service-to-terminate.adoc[Forcing a service to terminate]
+link:forcing-service-to-terminate.html[Forcing a service to terminate]

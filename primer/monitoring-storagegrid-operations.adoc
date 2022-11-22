@@ -11,7 +11,7 @@ summary: 'The Grid Manager provides information for monitoring the daily activit
 [.lead]
 The Grid Manager provides information for monitoring the daily activities of your StorageGRID system, including its health.
 
-* xref:viewing-nodes-page.adoc[Viewing the Nodes page]
-* xref:monitoring-and-managing-alerts.adoc[Monitoring and managing alerts]
-* xref:using-snmp-monitoring.adoc[Using SNMP monitoring]
-* xref:reviewing-audit-messages.adoc[Reviewing audit messages]
+* link:viewing-nodes-page.html[Viewing the Nodes page]
+* link:monitoring-and-managing-alerts.html[Monitoring and managing alerts]
+* link:using-snmp-monitoring.html[Using SNMP monitoring]
+* link:reviewing-audit-messages.html[Reviewing audit messages]

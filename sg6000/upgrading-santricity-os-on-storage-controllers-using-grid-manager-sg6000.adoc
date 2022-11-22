@@ -145,4 +145,4 @@ NOTE: For any nodes with a status of Needs Attention, use maintenance mode to pe
 
 https://mysupport.netapp.com/matrix[NetApp Interoperability Matrix Tool^]
 
-xref:upgrading-santricity-os-on-storage-controllers-using-maintenance-mode-sg6000.adoc[Upgrading SANtricity OS on the storage controllers using maintenance mode]
+link:upgrading-santricity-os-on-storage-controllers-using-maintenance-mode-sg6000.html[Upgrading SANtricity OS on the storage controllers using maintenance mode]

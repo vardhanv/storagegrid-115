@@ -51,7 +51,7 @@ Everyone has access to the Cloud Storage Pool bucket. An Access Key ID and Secre
 a|
 CAP (C2S Access Portal)
 a|
-Used for C2S S3 only. Go to xref:c2s-s3-authentication-details-for-cloud-storage-pool.adoc[C2S S3: Specifying authentication details for a Cloud Storage Pool].
+Used for C2S S3 only. Go to link:c2s-s3-authentication-details-for-cloud-storage-pool.html[C2S S3: Specifying authentication details for a Cloud Storage Pool].
 |===
 
 . If you selected Access Key, enter the following information:
@@ -103,4 +103,4 @@ See the instructions for troubleshooting Cloud Storage Pools, resolve the issue,
 
 .Related information
 
-xref:troubleshooting-cloud-storage-pools.adoc[Troubleshooting Cloud Storage Pools]
+link:troubleshooting-cloud-storage-pools.html[Troubleshooting Cloud Storage Pools]

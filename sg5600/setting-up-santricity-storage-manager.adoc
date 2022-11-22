@@ -13,7 +13,7 @@ After accessing SANtricity Storage Manager, you can use it to configure hardware
 
 .Steps
 
-* xref:configuring-autosupport.adoc[Configuring AutoSupport]
-* xref:verifying-receipt-of-autosupport.adoc[Verifying receipt of AutoSupport]
-* xref:configuring-email-and-snmp-trap-alert-notifications.adoc[Configuring email and SNMP trap alert notifications]
-* xref:setting-passwords-for-santricity-storage-manager.adoc[Setting passwords for SANtricity Storage Manager]
+* link:configuring-autosupport.html[Configuring AutoSupport]
+* link:verifying-receipt-of-autosupport.html[Verifying receipt of AutoSupport]
+* link:configuring-email-and-snmp-trap-alert-notifications.html[Configuring email and SNMP trap alert notifications]
+* link:setting-passwords-for-santricity-storage-manager.html[Setting passwords for SANtricity Storage Manager]

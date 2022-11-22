@@ -21,16 +21,16 @@ If the global S3 Object Lock setting is enabled, the steps for creating a policy
 ====
 If the global S3 Object Lock setting has not been enabled, use the general instructions for creating a proposed policy instead.
 
-xref:creating-proposed-ilm-policy.adoc[Creating a proposed ILM policy]
+link:creating-proposed-ilm-policy.html[Creating a proposed ILM policy]
 ====
 
 * You must have created the compliant and non-compliant ILM rules you want to add to the proposed policy. As required, you can save a proposed policy, create additional rules, and then edit the proposed policy to add the new rules.
 +
-xref:example-7-compliant-ilm-policy-for-s3-object-lock.adoc[Example 7: Compliant ILM policy for S3 Object Lock]
+link:example-7-compliant-ilm-policy-for-s3-object-lock.html[Example 7: Compliant ILM policy for S3 Object Lock]
 
 * You must have created a compliant default ILM rule for the policy.
 +
-xref:creating-default-ilm-rule.adoc[Creating a default ILM rule]
+link:creating-default-ilm-rule.html[Creating a default ILM rule]
 
 .Steps
 
@@ -65,7 +65,7 @@ The table in this section only lists the rules that are compliant and do not use
 ====
 If no rule is listed in the Select Default Rule section, you must exit the ILM policy page and create a default rule that is compliant.
 
-xref:creating-default-ilm-rule.adoc[Creating a default ILM rule]
+link:creating-default-ilm-rule.html[Creating a default ILM rule]
 ====
 +
 IMPORTANT: Do not use the Make 2 Copies stock rule as the default rule for a policy. The Make 2 Copies rule uses a single storage pool, All Storage Nodes, which contains all sites. If you use this rule, multiple copies of an object might be placed on the same site.
@@ -105,4 +105,4 @@ The ILM Policies page is updated:
  ** The *Simulate* and *Activate* buttons are enabled.
 image:../media/ilm_policy_proposed_policy_s3_object_lock.png[ILM Policy Proposed Policy S3 Object Lock]
 
-. Go to xref:simulating-ilm-policy.adoc[Simulating an ILM policy].
+. Go to link:simulating-ilm-policy.html[Simulating an ILM policy].

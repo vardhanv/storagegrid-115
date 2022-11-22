@@ -16,7 +16,7 @@ The replacement Fibre Channel HBA is installed into the same location as the one
 * You have the correct replacement Fibre Channel HBA.
 * You have removed the existing Fibre Channel HBA.
 +
-xref:removing-fibre-channel-hba.adoc[Removing the Fibre Channel HBA]
+link:removing-fibre-channel-hba.html[Removing the Fibre Channel HBA]
 
 .Steps
 
@@ -40,4 +40,4 @@ image::../media/sg6060_riser_alignment_hole.jpg[Alignment hole on SG6060 riser a
 
 If you have no other maintenance procedures to perform in the controller, reinstall the controller cover.
 
-xref:reinstalling-sg6000-cn-controller-cover.adoc[Reinstalling the SG6000-CN controller cover]
+link:reinstalling-sg6000-cn-controller-cover.html[Reinstalling the SG6000-CN controller cover]

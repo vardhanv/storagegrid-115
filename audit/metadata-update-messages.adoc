@@ -25,5 +25,5 @@ Generated when an S3 client updates the metadata for an ingested object.
 a|
 CBID, S3KY, HTRH
 a|
-xref:supd-s3-metadata-updated.adoc[SUPD: S3 Metadata Updated]
+link:supd-s3-metadata-updated.html[SUPD: S3 Metadata Updated]
 |===

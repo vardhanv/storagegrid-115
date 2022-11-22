@@ -16,7 +16,7 @@ The services appliance has two power supplies for redundancy. If one of the powe
 * You have unpacked the replacement power supply unit.
 * You have physically located the appliance where you are replacing the power supply in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * You can confirmed that the other power supply is installed and running.
 

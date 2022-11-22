@@ -201,6 +201,6 @@ a|
 
 .Related information
 
-xref:troubleshooting-hardware-installation.adoc[Troubleshooting the hardware installation]
+link:troubleshooting-hardware-installation.html[Troubleshooting the hardware installation]
 
 https://mysupport.netapp.com/site/global/dashboard[NetApp Support^]

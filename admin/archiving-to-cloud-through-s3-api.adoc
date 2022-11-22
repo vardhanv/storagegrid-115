@@ -17,4 +17,4 @@ If you are currently using an Archive Node with the *Cloud Tiering - Simple Stor
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

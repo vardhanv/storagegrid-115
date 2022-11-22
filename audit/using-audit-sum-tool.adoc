@@ -45,67 +45,67 @@ ARCT
 a|
 Archive Retrieve from Cloud-Tier
 a|
-xref:arct-archive-retrieve-from-cloud-tier.adoc[ARCT: Archive Retrieve from Cloud-Tier]
+link:arct-archive-retrieve-from-cloud-tier.html[ARCT: Archive Retrieve from Cloud-Tier]
 a|
 ASCT
 a|
 Archive Store Cloud-Tier
 a|
-xref:asct-archive-store-cloud-tier.adoc[ASCT: Archive Store Cloud-Tier]
+link:asct-archive-store-cloud-tier.html[ASCT: Archive Store Cloud-Tier]
 a|
 IDEL
 a|
 ILM Initiated Delete: Logs when ILM starts the process of deleting an object.
 a|
-xref:idel-ilm-initiated-delete.adoc[IDEL: ILM Initiated Delete]
+link:idel-ilm-initiated-delete.html[IDEL: ILM Initiated Delete]
 a|
 SDEL
 a|
 S3 DELETE: Logs a successful transaction to delete an object or bucket.
 a|
-xref:sdel-s3-delete.adoc[SDEL: S3 DELETE]
+link:sdel-s3-delete.html[SDEL: S3 DELETE]
 a|
 SGET
 a|
 S3 GET: Logs a successful transaction to retrieve an object or list the objects in a bucket.
 a|
-xref:sget-s3-get.adoc[SGET: S3 GET]
+link:sget-s3-get.html[SGET: S3 GET]
 a|
 SHEA
 a|
 S3 HEAD: Logs a successful transaction to check for the existence of an object or bucket.
 a|
-xref:shea-s3-head.adoc[SHEA: S3 HEAD]
+link:shea-s3-head.html[SHEA: S3 HEAD]
 a|
 SPUT
 a|
 S3 PUT: Logs a successful transaction to create a new object or bucket.
 a|
-xref:sput-s3-put.adoc[SPUT: S3 PUT]
+link:sput-s3-put.html[SPUT: S3 PUT]
 a|
 WDEL
 a|
 Swift DELETE: Logs a successful transaction to delete an object or container.
 a|
-xref:wdel-swift-delete.adoc[WDEL: Swift DELETE]
+link:wdel-swift-delete.html[WDEL: Swift DELETE]
 a|
 WGET
 a|
 Swift GET: Logs a successful transaction to retrieve an object or list the objects in a container.
 a|
-xref:wget-swift-get.adoc[WGET: Swift GET]
+link:wget-swift-get.html[WGET: Swift GET]
 a|
 WHEA
 a|
 Swift HEAD: Logs a successful transaction to check for the existence of an object or container.
 a|
-xref:whea-swift-head.adoc[WHEA: Swift HEAD]
+link:whea-swift-head.html[WHEA: Swift HEAD]
 a|
 WPUT
 a|
 Swift PUT: Logs a successful transaction to create a new object or container.
 a|
-xref:wput-swift-put.adoc[WPUT: Swift PUT]
+link:wput-swift-put.html[WPUT: Swift PUT]
 |===
 The `audit-sum` tool can process plain or compressed audit logs. For example:
 
@@ -330,4 +330,4 @@ grep SPUT audit.log | audit-sum -gb -s
 
 .Related information
 
-xref:using-audit-explain-tool.adoc[Using the audit-explain tool]
+link:using-audit-explain-tool.html[Using the audit-explain tool]

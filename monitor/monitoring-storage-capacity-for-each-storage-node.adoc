@@ -57,8 +57,8 @@ The *Low object data storage* alert and the legacy Storage Status (SSTS) alarm a
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low object data storage alert]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting the Low object data storage alert]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

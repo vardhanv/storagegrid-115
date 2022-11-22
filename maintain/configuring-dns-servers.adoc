@@ -21,7 +21,7 @@ Specifying DNS server information allows you to use fully qualified domain name 
 
 IMPORTANT: Provide between two to six IP addresses for DNS servers. In general, select DNS servers that each site can access locally in the event of network islanding. This is to ensure an islanded site continues to have access to the DNS service. After configuring the grid-wide DNS server list, you can further customize the DNS server list for each node.
 
-xref:modifying-dns-configuration-for-single-grid-node.adoc[Modifying the DNS configuration for a single grid node]
+link:modifying-dns-configuration-for-single-grid-node.html[Modifying the DNS configuration for a single grid node]
 
 If the DNS server information is omitted or incorrectly configured, a DNST alarm is triggered on each grid node's SSM service. The alarm clears when DNS is configured correctly and the new server information has reached all grid nodes.
 

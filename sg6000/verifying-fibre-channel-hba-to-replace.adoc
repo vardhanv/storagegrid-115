@@ -37,8 +37,8 @@ image::../media/sg6060_sg_mgr_appliance_section_for_fibre_channel_hca.png[Applia
 +
 You can use this IP address to turn on the compute controller identify LED, to help you locate the appliance in the data center.
 +
-xref:turning-controller-identify-led-on-and-off.adoc[Turning the controller identify LED on and off]
+link:turning-controller-identify-led-on-and-off.html[Turning the controller identify LED on and off]
 
 .Related information
 
-xref:removing-fibre-channel-hba.adoc[Removing the Fibre Channel HBA]
+link:removing-fibre-channel-hba.html[Removing the Fibre Channel HBA]

@@ -34,4 +34,4 @@ image::../media/archive_store_tsm.gif[Configuring the archive store for TSM midd
 
 .Related information
 
-xref:managing-archive-node-when-tsm-server-reaches-capacity.adoc[Managing an Archive Node when TSM server reaches capacity]
+link:managing-archive-node-when-tsm-server-reaches-capacity.html[Managing an Archive Node when TSM server reaches capacity]

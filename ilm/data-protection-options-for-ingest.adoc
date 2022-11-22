@@ -32,7 +32,7 @@ When you select the Strict option, StorageGRID uses synchronous placement on ing
 
 Use the Strict option if you have an operational or regulatory requirement to immediately store objects only in the locations outlined in the ILM rule. For example, to satisfy a regulatory requirement, you might need to use the Strict option and a Location Constraint advanced filter to guarantee that objects are never stored at certain data center.
 
-xref:example-5-ilm-rules-and-policy-for-strict-ingest-behavior.adoc[Example 5: ILM rules and policy for Strict ingest behavior]
+link:example-5-ilm-rules-and-policy-for-strict-ingest-behavior.html[Example 5: ILM rules and policy for Strict ingest behavior]
 
 == Balanced
 
@@ -50,4 +50,4 @@ image::../media/ingest_object_lifecycle.png[Diagram showing how object ingest oc
 
 .Related information
 
-xref:how-objects-are-ingested.adoc[How objects are ingested]
+link:how-objects-are-ingested.html[How objects are ingested]

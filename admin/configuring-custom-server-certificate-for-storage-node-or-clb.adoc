@@ -48,8 +48,8 @@ NOTE: After uploading a new certificate, allow up to one day for any related cer
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]
 
-xref:configuring-s3-api-endpoint-domain-names.adoc[Configuring S3 API endpoint domain names]
+link:configuring-s3-api-endpoint-domain-names.html[Configuring S3 API endpoint domain names]

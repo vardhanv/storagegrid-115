@@ -57,7 +57,7 @@ For an explanation of the information on each panel, click the help icon image:.
 
 .Related information
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 == Alerts menu
 
@@ -75,9 +75,9 @@ From the Alerts menu, you can do the following:
 
 .Related information
 
-xref:monitoring-and-managing-alerts.adoc[Monitoring and managing alerts]
+link:monitoring-and-managing-alerts.html[Monitoring and managing alerts]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 == Nodes page
 
@@ -89,9 +89,9 @@ image::../media/nodes_menu.png[nodes page main]
 
 .Related information
 
-xref:viewing-nodes-page.adoc[Viewing the Nodes page]
+link:viewing-nodes-page.html[Viewing the Nodes page]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 == Tenant Accounts page
 
@@ -104,11 +104,11 @@ image::../media/tenants_menu_and_page.png[Tenants Menu and Page]
 
 .Related information
 
-xref:managing-tenants-and-client-connections.adoc[Managing tenants and client connections]
+link:managing-tenants-and-client-connections.html[Managing tenants and client connections]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 == ILM menu
 
@@ -119,9 +119,9 @@ image::../media/ilm_menu_and_page.png[ILM Menu and Page]
 
 .Related information
 
-xref:using-information-lifecycle-management.adoc[Using information lifecycle management]
+link:using-information-lifecycle-management.html[Using information lifecycle management]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
 == Configuration menu
 
@@ -132,19 +132,19 @@ image::../media/configuration_menu.png[Configuration Menu]
 
 .Related information
 
-xref:configuring-network-settings.adoc[Configuring network settings]
+link:configuring-network-settings.html[Configuring network settings]
 
-xref:managing-tenants-and-client-connections.adoc[Managing tenants and client connections]
+link:managing-tenants-and-client-connections.html[Managing tenants and client connections]
 
-xref:reviewing-audit-messages.adoc[Reviewing audit messages]
+link:reviewing-audit-messages.html[Reviewing audit messages]
 
-xref:controlling-storagegrid-access.adoc[Controlling StorageGRID access]
+link:controlling-storagegrid-access.html[Controlling StorageGRID access]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
 == Maintenance menu
 
@@ -179,21 +179,21 @@ System tasks you can perform from the Maintenance menu include:
 
 .Related information
 
-xref:performing-maintenance-procedures.adoc[Performing maintenance procedures]
+link:performing-maintenance-procedures.html[Performing maintenance procedures]
 
-xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
+link:downloading-recovery-package.html[Downloading the Recovery Package]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 
 == Support menu
 
@@ -220,15 +220,15 @@ From the Alarms (legacy) section of the Support menu, you can review current, hi
 
 .Related information
 
-xref:storagegrid-architecture-and-network-topology.adoc[StorageGRID architecture and network topology]
+link:storagegrid-architecture-and-network-topology.html[StorageGRID architecture and network topology]
 
-xref:storagegrid-attributes.adoc[StorageGRID attributes]
+link:storagegrid-attributes.html[StorageGRID attributes]
 
-xref:using-storagegrid-support-options.adoc[Using StorageGRID support options]
+link:using-storagegrid-support-options.html[Using StorageGRID support options]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 == Help menu
 
@@ -240,4 +240,4 @@ image::../media/help_menu.png[Help Menu]
 .Related information
 
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

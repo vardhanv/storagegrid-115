@@ -36,6 +36,6 @@ image::../media/ping_test_passed.png[Screen shot of ping test results in Storage
 
 .Related information
 
-xref:configuring-network-links-sg5700.adoc[Configuring network links (SG5700)]
+link:configuring-network-links-sg5700.html[Configuring network links (SG5700)]
 
-xref:changing-mtu-setting.adoc[Changing the MTU setting]
+link:changing-mtu-setting.html[Changing the MTU setting]

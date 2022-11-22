@@ -44,6 +44,6 @@ image::../media/sg6060_front_panel_service_led_off.jpg[Front identify LED - off]
 
 .Related information
 
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
-xref:accessing-bmc-interface-sg1000.adoc[Accessing the BMC interface]
+link:accessing-bmc-interface-sg1000.html[Accessing the BMC interface]
