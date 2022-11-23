@@ -32,10 +32,11 @@ audit.log
 ----
 .Steps
 . Log in to an Admin Node:
- .. Enter the following command: `ssh admin@_primary_Admin_Node_IP_`
+ .. Enter the following command: +
+  `ssh admin@_primary_Admin_Node_IP_`
  .. Enter the password listed in the `Passwords.txt` file.
 . Go to the directory containing the audit log files:
-----
-cd /var/local/audit/export
-----
++
+`cd /var/local/audit/export`
+
 . View the current or a saved audit log file, as required.

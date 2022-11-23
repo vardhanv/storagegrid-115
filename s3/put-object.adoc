@@ -90,13 +90,14 @@ NOTE: An ILM rule cannot use both a *User Defined Creation Time* for the Referen
  ** `x-amz-object-lock-legal-hold`
 
 link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
+
 * SSE request headers:
  ** `x-amz-server-side-encryption`
  ** `x-amz-server-side-encryption-customer-key-MD5`
  ** `x-amz-server-side-encryption-customer-key`
  ** `x-amz-server-side-encryption-customer-algorithm`
 
-link:s3-rest-api-supported-operations-and-limitations.html[s3-rest-api-supported-operations-and-limitations]
+link:s3-rest-api-supported-operations-and-limitations.html[S3 REST API supported operations and limitations]
 
 == Unsupported request headers
 

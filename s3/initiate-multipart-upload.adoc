@@ -63,13 +63,14 @@ NOTE: Adding `creation-time` as user-defined metadata is not allowed if you are 
  ** `x-amz-object-lock-legal-hold`
 
 link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
+
 * SSE request headers:
  ** `x-amz-server-side-encryption`
  ** `x-amz-server-side-encryption-customer-key-MD5`
  ** `x-amz-server-side-encryption-customer-key`
  ** `x-amz-server-side-encryption-customer-algorithm`
 
-link:s3-rest-api-supported-operations-and-limitations.html[s3-rest-api-supported-operations-and-limitations]
+link:s3-rest-api-supported-operations-and-limitations.html[S3 REST API supported operations and limitations]
 
 NOTE: For information on how StorageGRID handles UTF-8 characters, see the documentation for PUT Object.
 

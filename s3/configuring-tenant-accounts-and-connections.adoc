@@ -243,9 +243,8 @@ aws s3api --endpoint-url https://10.96.101.17:10443
 ----
 +
 If the bucket is created successfully, the location of the bucket is returned, as seen in the following example:
-----
-"Location": "/testbucket"
-----
++
+`"Location": "/testbucket"`
 
 . Upload an object.
 +
