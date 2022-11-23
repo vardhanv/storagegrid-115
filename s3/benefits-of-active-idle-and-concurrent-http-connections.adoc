@@ -17,6 +17,8 @@ You can identify the performance benefits for the following types of HTTP connec
 * Active HTTP connections
 * Concurrent HTTP connections
 
+.Related information
+
 * link:benefits-of-keeping-idle-http-connections-open.html[Benefits of keeping idle HTTP connections open]
 * link:benefits-of-active-http-connections.html[Benefits of active HTTP connections]
 * link:benefits-of-concurrent-http-connections.html[Benefits of concurrent HTTP connections]

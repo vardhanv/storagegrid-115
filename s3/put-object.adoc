@@ -88,8 +88,9 @@ NOTE: An ILM rule cannot use both a *User Defined Creation Time* for the Referen
  ** `x-amz-object-lock-mode`
  ** `x-amz-object-lock-retain-until-date`
  ** `x-amz-object-lock-legal-hold`
-
++
 link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
+
 * SSE request headers:
  ** `x-amz-server-side-encryption`
  ** `x-amz-server-side-encryption-customer-key-MD5`

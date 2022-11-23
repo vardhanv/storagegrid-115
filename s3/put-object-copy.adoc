@@ -52,8 +52,9 @@ You can specify `REPLACE` to overwrite the existing tags when copying the object
  ** `x-amz-object-lock-mode`
  ** `x-amz-object-lock-retain-until-date`
  ** `x-amz-object-lock-legal-hold`
-
++
 link:s3-rest-api-supported-operations-and-limitations.html[Using S3 Object Lock]
+
 * SSE request headers:
  ** `x-amz-copy-source​-server-side​-encryption​-customer-algorithm`
  ** `x-amz-copy-source​-server-side-encryption-customer-key`
