@@ -41,4 +41,4 @@ You must also restore any pre-existing client access to the audit share. For mor
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

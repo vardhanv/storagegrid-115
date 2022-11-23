@@ -11,11 +11,11 @@ summary: 'This section describes how StorageGRID supports operations for multipa
 [.lead]
 This section describes how StorageGRID supports operations for multipart uploads.
 
-* xref:list-multipart-uploads.adoc[List multipart uploads]
-* xref:initiate-multipart-upload.adoc[Initiate Multipart Upload]
-* xref:upload-part.adoc[Upload Part]
-* xref:upload-part-copy.adoc[Upload Part - Copy]
-* xref:complete-multipart-upload.adoc[Complete Multipart Upload]
+* link:list-multipart-uploads.html[List multipart uploads]
+* link:initiate-multipart-upload.html[Initiate Multipart Upload]
+* link:upload-part.html[Upload Part]
+* link:upload-part-copy.html[Upload Part - Copy]
+* link:complete-multipart-upload.html[Complete Multipart Upload]
 
 The following conditions and notes apply to all multipart upload operations:
 
@@ -37,23 +37,23 @@ The following conditions and notes apply to all multipart upload operations:
 a|
 List Multipart Uploads
 a|
-See xref:s3-rest-api-supported-operations-and-limitations.adoc[List Multipart Uploads]
+See link:s3-rest-api-supported-operations-and-limitations.html[List Multipart Uploads]
 a|
 Initiate Multipart Upload
 a|
-See xref:s3-rest-api-supported-operations-and-limitations.adoc[Initiate Multipart Upload]
+See link:s3-rest-api-supported-operations-and-limitations.html[Initiate Multipart Upload]
 a|
 Upload Part
 a|
-See xref:s3-rest-api-supported-operations-and-limitations.adoc[Upload Part]
+See link:s3-rest-api-supported-operations-and-limitations.html[Upload Part]
 a|
 Upload Part - Copy
 a|
-See xref:s3-rest-api-supported-operations-and-limitations.adoc[Upload Part - Copy]
+See link:s3-rest-api-supported-operations-and-limitations.html[Upload Part - Copy]
 a|
 Complete Multipart Upload
 a|
-See xref:s3-rest-api-supported-operations-and-limitations.adoc[Complete Multipart Upload]
+See link:s3-rest-api-supported-operations-and-limitations.html[Complete Multipart Upload]
 a|
 Abort Multipart Upload
 a|
@@ -67,6 +67,6 @@ Implemented with all Amazon S3 REST API behavior
 |===
 .Related information
 
-xref:consistency-controls.adoc[Consistency controls]
+link:consistency-controls.html[Consistency controls]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using server-side encryption]
+link:s3-rest-api-supported-operations-and-limitations.html[Using server-side encryption]

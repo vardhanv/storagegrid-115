@@ -15,7 +15,7 @@ From Step 3 (Revise ILM Policy) of the Decommission Site wizard, you can determi
 
 You have a good understanding of how ILM works and you are familiar with creating storage pools, Erasure Coding profiles, ILM rules, and simulating and activating an ILM policy.
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
 .About this task
 
@@ -43,7 +43,7 @@ image::../media/decommission_site_step_3_revise_ilm_policy.png[Decommission Site
 
 . If no rules are listed, select *Next* to go to Step 4 (Remove ILM References)
 +
-xref:step-4-remove-ilm-references.adoc[Step 4: Remove ILM References]
+link:step-4-remove-ilm-references.html[Step 4: Remove ILM References]
 
 . If one or more ILM rules are listed in the table, select the link next to *Active Policy Name*.
 +

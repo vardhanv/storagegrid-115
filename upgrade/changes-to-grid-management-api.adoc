@@ -50,4 +50,4 @@ The alert rule ID "ApplianceStorageShelvesPowerSupplyDegraded" has been renamed 
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

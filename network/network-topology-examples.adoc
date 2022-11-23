@@ -17,6 +17,6 @@ If you specify that a node's Client Network interface is untrusted, configure a 
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:network-port-reference.adoc[Network port reference]
+link:network-port-reference.html[Network port reference]

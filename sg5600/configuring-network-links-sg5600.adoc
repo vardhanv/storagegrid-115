@@ -161,4 +161,4 @@ NOTE: You might lose your connection if you made changes to the network or link 
 
 .Related information
 
-xref:port-bond-modes-for-e5600sg-controller-ports.adoc[Port bond modes for the E5600SG controller ports]
+link:port-bond-modes-for-e5600sg-controller-ports.html[Port bond modes for the E5600SG controller ports]

@@ -23,7 +23,7 @@ IMPORTANT: Refer to the E-Series instructions only when directed or if you need 
 
 * You have physically located the storage appliance where you are replacing the controller in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 .About this task
 

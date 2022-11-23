@@ -22,6 +22,6 @@ image::../media/object_lifecycle.png[diagram showing the life of an object as de
 
 .Related informatiom
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:using-information-lifecycle-management.adoc[Using information lifecycle management]
+link:using-information-lifecycle-management.html[Using information lifecycle management]

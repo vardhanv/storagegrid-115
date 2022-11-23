@@ -48,6 +48,6 @@ Changes might take up to 15 minutes to take effect because of caching.
 
 .Related information
 
-xref:creating-groups-for-s3-tenant.adoc[Creating groups for an S3 tenant]
+link:creating-groups-for-s3-tenant.html[Creating groups for an S3 tenant]
 
-xref:creating-groups-for-swift-tenant.adoc[Creating groups for a Swift tenant]
+link:creating-groups-for-swift-tenant.html[Creating groups for a Swift tenant]

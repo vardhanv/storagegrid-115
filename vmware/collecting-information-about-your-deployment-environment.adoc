@@ -63,6 +63,6 @@ You must collect information to configure your grid:
 
 .Related information
 
-xref:how-grid-nodes-discover-primary-admin-node.adoc[How grid nodes discover the primary Admin Node]
+link:how-grid-nodes-discover-primary-admin-node.html[How grid nodes discover the primary Admin Node]
 
-xref:storage-and-performance-requirements.adoc[Storage and performance requirements]
+link:storage-and-performance-requirements.html[Storage and performance requirements]

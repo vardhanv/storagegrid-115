@@ -11,14 +11,14 @@ summary: 'Learn about StorageGRID architecture and networking topologies. Become
 [.lead]
 Learn about StorageGRID architecture and networking topologies. Become familiar with the requirements for network configuration and provisioning.
 
-* xref:storagegrid-networking-overview.adoc[StorageGRID networking overview]
+* link:storagegrid-networking-overview.html[StorageGRID networking overview]
 
-* xref:networking-requirements-and-guidelines.adoc[Networking requirements and guidelines]
+* link:networking-requirements-and-guidelines.html[Networking requirements and guidelines]
 
-* xref:deployment-specific-networking-requirements.adoc[Deployment-specific networking considerations]
+* link:deployment-specific-networking-requirements.html[Deployment-specific networking considerations]
 
-* xref:network-installation-and-provisioning.adoc[Network installation and provisioning]
+* link:network-installation-and-provisioning.html[Network installation and provisioning]
 
-* xref:post-installation-guidelines.adoc[Post-installation guidelines]
+* link:post-installation-guidelines.html[Post-installation guidelines]
 
-* xref:network-port-reference.adoc[Network port reference]
+* link:network-port-reference.html[Network port reference]

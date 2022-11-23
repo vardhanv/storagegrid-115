@@ -104,10 +104,10 @@ IMPORTANT: The entire grid must be shut down at once, so that all nodes are down
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:changing-nodes-network-configuration.adoc[Changing a node's network configuration]
+link:changing-nodes-network-configuration.html[Changing a node's network configuration]
 
-xref:adding-to-or-changing-subnet-lists-on-grid-network.adoc[Adding to or changing subnet lists on the Grid Network]
+link:adding-to-or-changing-subnet-lists-on-grid-network.html[Adding to or changing subnet lists on the Grid Network]
 
-xref:shutting-down-grid-node.adoc[Shutting down a grid node]
+link:shutting-down-grid-node.html[Shutting down a grid node]

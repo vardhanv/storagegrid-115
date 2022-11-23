@@ -28,7 +28,7 @@ IMPORTANT: Do not include the default All Sites site in a storage pool that will
 
 * If you have more than one storage grade, do not create a storage pool that includes different storage grades at a single site.
 +
-xref:guidelines-for-creating-storage-pools.adoc[Guidelines for creating storage pools]
+link:guidelines-for-creating-storage-pools.html[Guidelines for creating storage pools]
 
 .Steps
 
@@ -79,4 +79,4 @@ The new storage pool is added to the list.
 
 .Related information
 
-xref:guidelines-for-creating-storage-pools.adoc[Guidelines for creating storage pools]
+link:guidelines-for-creating-storage-pools.html[Guidelines for creating storage pools]

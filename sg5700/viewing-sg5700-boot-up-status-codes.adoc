@@ -69,8 +69,8 @@ In the sequence, the first set of numbers is the DHCP-assigned IP address for th
 
 .Related information
 
-xref:status-indicators-on-e5700sg-controller.adoc[Status indicators on the E5700SG controller]
+link:status-indicators-on-e5700sg-controller.html[Status indicators on the E5700SG controller]
 
-xref:troubleshooting-hardware-installation.adoc[Troubleshooting the hardware installation]
+link:troubleshooting-hardware-installation.html[Troubleshooting the hardware installation]
 
 https://library.netapp.com/ecmdocs/ECMLP2588751/html/frameset.html[E5700 and E2800 System Monitoring Guide^]

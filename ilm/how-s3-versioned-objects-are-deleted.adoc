@@ -23,6 +23,6 @@ To free space when deleting versioned objects, you must do one of the following:
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:example-4-ilm-rules-and-policy-for-s3-versioned-objects.adoc[Example 4: ILM rules and policy for S3 versioned objects]
+link:example-4-ilm-rules-and-policy-for-s3-versioned-objects.html[Example 4: ILM rules and policy for S3 versioned objects]

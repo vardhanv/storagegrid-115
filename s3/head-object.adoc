@@ -116,10 +116,10 @@ If a `versionId` subresource is not specified, the operation fetches the most re
 
 .Related information
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Using server-side encryption]
+link:s3-rest-api-supported-operations-and-limitations.html[Using server-side encryption]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:post-object-restore.adoc[POST Object restore]
+link:post-object-restore.html[POST Object restore]
 
-xref:s3-operations-tracked-in-audit-logs.adoc[S3 operations tracked in the audit logs]
+link:s3-operations-tracked-in-audit-logs.html[S3 operations tracked in the audit logs]

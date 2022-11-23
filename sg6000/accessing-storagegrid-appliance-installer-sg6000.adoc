@@ -68,10 +68,10 @@ After accessing the StorageGRID Appliance Installer:
 
 * Verify that the StorageGRID Appliance Installer version on the appliance matches the software version installed on your StorageGRID system. Upgrade StorageGRID Appliance Installer, if necessary.
 +
-xref:verifying-and-upgrading-storagegrid-appliance-installer-version.adoc[Verifying and upgrading the StorageGRID Appliance Installer version]
+link:verifying-and-upgrading-storagegrid-appliance-installer-version.html[Verifying and upgrading the StorageGRID Appliance Installer version]
 
 * Review any messages displayed on the StorageGRID Appliance Installer Home page and configure the link configuration and the IP configuration, as required.
 
 .Related information
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]

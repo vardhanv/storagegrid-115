@@ -37,6 +37,6 @@ This graph provides a 3-minute moving average of the number of error responses r
 
 .Related information
 
-xref:monitoring-load-balancing-operations.adoc[Monitoring load balancing operations]
+link:monitoring-load-balancing-operations.html[Monitoring load balancing operations]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

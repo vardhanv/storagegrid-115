@@ -25,4 +25,4 @@ If the non-primary Admin Node you are recovering is currently set as the preferr
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

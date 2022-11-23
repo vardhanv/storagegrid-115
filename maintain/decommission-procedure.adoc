@@ -23,6 +23,6 @@ If a site contains a mixture of connected (image:../media/icon_alert_green_check
 
 .Related information
 
-xref:grid-node-decommissioning.adoc[Grid node decommissioning]
+link:grid-node-decommissioning.html[Grid node decommissioning]
 
-xref:site-decommissioning.adoc[Site decommissioning]
+link:site-decommissioning.html[Site decommissioning]

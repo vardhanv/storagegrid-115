@@ -41,6 +41,6 @@ image::../media/metadata_space_after_expansion.png[]
 
 *Related information*
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

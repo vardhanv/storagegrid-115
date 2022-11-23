@@ -188,10 +188,10 @@ NOTE: If you use only one storage volume for a Storage Node and you assign 4 TB 
 
 For details, go to the instructions for administering StorageGRID and search for "`managing object metadata storage.`"
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 .Related information
 
-xref:node-container-migration-requirements.adoc[Node container migration requirements]
+link:node-container-migration-requirements.html[Node container migration requirements]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

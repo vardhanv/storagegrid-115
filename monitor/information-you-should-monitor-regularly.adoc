@@ -13,14 +13,14 @@ StorageGRID is a fault-tolerant, distributed storage system that is designed to 
 
 A busy system generates large amounts of information. This section provides guidance about the most important information to monitor on an ongoing basis. This section contains the following sub-sections:
 
-* xref:monitoring-system-health.adoc[Monitoring system health]
-* xref:monitoring-storage-capacity.adoc[Monitoring storage capacity]
-* xref:monitoring-information-lifecycle-management.adoc[Monitoring information lifecycle management]
-* xref:monitoring-performance-networking-and-system-resources.adoc[Monitoring performance, networking, and system resources]
-* xref:monitoring-tenant-activity.adoc[Monitoring tenant activity]
-* xref:monitoring-archival-capacity.adoc[Monitoring archival capacity]
-* xref:monitoring-load-balancing-operations.adoc[Monitoring load balancing operations]
-* xref:applying-hotfixes-or-upgrading-software-if-necessary.adoc[Applying hotfixes or upgrading software if necessary]
+* link:monitoring-system-health.html[Monitoring system health]
+* link:monitoring-storage-capacity.html[Monitoring storage capacity]
+* link:monitoring-information-lifecycle-management.html[Monitoring information lifecycle management]
+* link:monitoring-performance-networking-and-system-resources.html[Monitoring performance, networking, and system resources]
+* link:monitoring-tenant-activity.html[Monitoring tenant activity]
+* link:monitoring-archival-capacity.html[Monitoring archival capacity]
+* link:monitoring-load-balancing-operations.html[Monitoring load balancing operations]
+* link:applying-hotfixes-or-upgrading-software-if-necessary.html[Applying hotfixes or upgrading software if necessary]
 
 [options="header"]
 |===

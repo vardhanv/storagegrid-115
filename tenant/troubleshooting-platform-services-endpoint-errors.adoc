@@ -61,12 +61,12 @@ When StorageGRID validates a platform services endpoint, it confirms that the en
 
 For additional information about troubleshooting platform services, see the instructions for administering StorageGRID.
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 .Related information
 
-xref:creating-platform-services-endpoint.adoc[Creating a platform services endpoint]
+link:creating-platform-services-endpoint.html[Creating a platform services endpoint]
 
-xref:testing-connection-for-platform-services-endpoint.adoc[Testing the connection for a platform services endpoint]
+link:testing-connection-for-platform-services-endpoint.html[Testing the connection for a platform services endpoint]
 
-xref:editing-platform-services-endpoint.adoc[Editing a platform services endpoint]
+link:editing-platform-services-endpoint.html[Editing a platform services endpoint]

@@ -50,4 +50,4 @@ All weekly, user-triggered, and event-triggered messages are sent using the sele
 
 .Related information
 
-xref:configuring-admin-proxy-settings.adoc[Configuring Admin proxy settings]
+link:configuring-admin-proxy-settings.html[Configuring Admin proxy settings]

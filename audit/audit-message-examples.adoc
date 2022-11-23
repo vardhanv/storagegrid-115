@@ -77,6 +77,6 @@ ATIM records the time, in microseconds, since the beginning of the UNIX epoch. I
 
 .Related information
 
-xref:sput-s3-put.adoc[SPUT: S3 PUT]
+link:sput-s3-put.html[SPUT: S3 PUT]
 
-xref:common-elements-in-audit-messages.adoc[Common elements in audit messages]
+link:common-elements-in-audit-messages.html[Common elements in audit messages]

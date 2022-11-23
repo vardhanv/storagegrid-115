@@ -74,8 +74,8 @@ NOTE: To manage a full Storage Node, see the instructions for administering Stor
 
 .Related information
 
-xref:troubleshooting-storagegrid-system.adoc[Troubleshooting the Storage Status (SSTS) alarm]
+link:troubleshooting-storagegrid-system.html[Troubleshooting the Storage Status (SSTS) alarm]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

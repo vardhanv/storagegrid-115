@@ -43,4 +43,4 @@ image::../media/metrics_page_grafana.png[Metrics Page Grafana]
 
 .Related information
 
-xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
+link:commonly-used-prometheus-metrics.html[Commonly used Prometheus metrics]

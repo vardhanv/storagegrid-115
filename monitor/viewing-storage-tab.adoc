@@ -29,8 +29,8 @@ image::../media/nodes_page_storage_tables.png[Nodes Page Storage Tables]
 
 .Related information
 
-xref:monitoring-storage-capacity-for-entire-grid.adoc[Monitoring storage capacity for the entire grid]
+link:monitoring-storage-capacity-for-entire-grid.html[Monitoring storage capacity for the entire grid]
 
-xref:monitoring-storage-capacity-for-each-storage-node.adoc[Monitoring storage capacity for each Storage Node]
+link:monitoring-storage-capacity-for-each-storage-node.html[Monitoring storage capacity for each Storage Node]
 
-xref:monitoring-object-metadata-capacity-for-each-storage-node.adoc[Monitoring object metadata capacity for each Storage Node]
+link:monitoring-object-metadata-capacity-for-each-storage-node.html[Monitoring object metadata capacity for each Storage Node]

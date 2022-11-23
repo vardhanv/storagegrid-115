@@ -13,4 +13,4 @@ You must complete the following steps to prepare your physical or virtual hosts 
 
 .Related information
 
-xref:automating-installation-and-configuration-of-storagegrid-host-service.adoc[Automating the installation and configuration of the StorageGRID host service]
+link:automating-installation-and-configuration-of-storagegrid-host-service.html[Automating the installation and configuration of the StorageGRID host service]

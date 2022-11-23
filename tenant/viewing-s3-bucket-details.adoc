@@ -51,14 +51,14 @@ image::../media/bucket_details_page.png[Bucket Details Page]
 
 .Related information
 
-xref:changing-consistency-level.adoc[Changing the consistency level]
+link:changing-consistency-level.html[Changing the consistency level]
 
-xref:enabling-or-disabling-last-access-time-updates.adoc[Enabling or disabling last access time updates]
+link:enabling-or-disabling-last-access-time-updates.html[Enabling or disabling last access time updates]
 
-xref:configuring-cross-origin-resource-sharing-cors.adoc[Configuring Cross-Origin Resource Sharing (CORS)]
+link:configuring-cross-origin-resource-sharing-cors.html[Configuring Cross-Origin Resource Sharing (CORS)]
 
-xref:configuring-cloudmirror-replication.adoc[Configuring CloudMirror replication]
+link:configuring-cloudmirror-replication.html[Configuring CloudMirror replication]
 
-xref:configuring-event-notifications.adoc[Configuring event notifications]
+link:configuring-event-notifications.html[Configuring event notifications]
 
-xref:configuring-search-integration-service.adoc[Configuring the search integration service]
+link:configuring-search-integration-service.html[Configuring the search integration service]

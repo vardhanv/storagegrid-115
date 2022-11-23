@@ -42,30 +42,30 @@ NOTE: Audit export through CIFS/Samba has been deprecated and will be removed in
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../release-notes/index.adoc[Release notes]
+link:../release-notes/index.html[Release notes]
 
-xref:../harden/index.adoc[System hardening]
+link:../harden/index.html[System hardening]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]

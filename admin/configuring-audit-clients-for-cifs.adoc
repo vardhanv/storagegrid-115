@@ -15,4 +15,4 @@ NOTE: Audit export through CIFS/Samba has been deprecated and will be removed in
 
 .Related information
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]

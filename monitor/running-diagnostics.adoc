@@ -65,6 +65,6 @@ image::../media/support_diagnostics_prometheus_png.png[Support Diagnostics Prome
 
 .Related information
 
-xref:reviewing-support-metrics.adoc[Reviewing support metrics]
+link:reviewing-support-metrics.html[Reviewing support metrics]
 
-xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
+link:commonly-used-prometheus-metrics.html[Commonly used Prometheus metrics]

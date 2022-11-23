@@ -15,7 +15,7 @@ Remove the controller cover to access internal components for maintenance.
 
 Remove the controller from the cabinet or rack to access the top cover.
 
-xref:removing-sg6000-cn-controller-from-cabinet-or-rack.adoc[Removing the SG6000-CN controller from a cabinet or rack]
+link:removing-sg6000-cn-controller-from-cabinet-or-rack.html[Removing the SG6000-CN controller from a cabinet or rack]
 
 .Steps
 
@@ -28,4 +28,4 @@ IMPORTANT: Wrap the strap end of an ESD wristband around your wrist and secure t
 
 .Related information
 
-xref:removing-fibre-channel-hba.adoc[Removing the Fibre Channel HBA]
+link:removing-fibre-channel-hba.html[Removing the Fibre Channel HBA]

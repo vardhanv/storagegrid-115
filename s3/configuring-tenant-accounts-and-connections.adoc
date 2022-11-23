@@ -34,9 +34,9 @@ IMPORTANT: S3 tenant users can create and manage S3 buckets with the Tenant Mana
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 == How client connections can be configured
 A grid administrator makes configuration choices that affect how S3 clients connect to StorageGRID to store and retrieve data. The specific information you need to make a connection depends upon the configuration that was chosen.
@@ -68,7 +68,7 @@ For more information about each option, see the instructions for administering S
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 === Summary: IP addresses and ports for client connections
 Client applications connect to StorageGRID using the IP address of a grid node and the port number of a service on that node. If high availability (HA) groups are configured, client applications can connect using the virtual IP address of the HA group.
@@ -171,7 +171,7 @@ It is possible to configure a DNS name for the IP address that clients use to co
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 === Deciding to use HTTPS or HTTP connections
 When client connections are made using a Load Balancer endpoint, connections must be made using the protocol (HTTP or HTTPS) that was specified for that endpoint. To use HTTP for client connections to Storage Nodes or to the CLB service on Gateway Nodes, you must enable its use.
@@ -186,9 +186,9 @@ If the *Enable HTTP Connection* option is selected, clients must use different p
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:benefits-of-active-idle-and-concurrent-http-connections.adoc[Benefits of active, idle, and concurrent HTTP connections]
+link:benefits-of-active-idle-and-concurrent-http-connections.html[Benefits of active, idle, and concurrent HTTP connections]
 
 == Endpoint domain names for S3 requests
 Before you can use S3 domain names for client requests, a StorageGRID administrator must configure the system to accept connections that use S3 domain names in S3 path-style and S3 virtual hosted-style requests.
@@ -217,9 +217,9 @@ After these steps have been completed, you can use virtual hosted-style requests
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:configuring-security-for-rest-api.adoc[Configuring security for the REST API]
+link:configuring-security-for-rest-api.html[Configuring security for the REST API]
 
 == Testing your S3 REST API configuration
 You can use the Amazon Web Services Command Line Interface (AWS CLI) to test your connection to the system and to verify that you can read and write objects to the system.

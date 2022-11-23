@@ -154,7 +154,7 @@ If an AMQS alarm is triggered, check the load on the system--if there have been 
 
 If the alarm persists and increases in severity, view a chart of the queue size. If the number is steadily increasing over hours or days, the audit load has likely exceeded the audit capacity of the system. Reduce the client operation rate or decrease the number of audit messages logged by changing the audit level to Error or Off. See "`Changing audit message levels`" in _Understanding audit messages_.
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
 a|
 AOTE
@@ -419,7 +419,7 @@ Check the status of Cassandra:
 
 This alarm might also indicate that the metadata store (Cassandra database) for a Storage Node requires rebuilding.
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting the Services: Status - Cassandra (SVST) alarm]
 
 If the problem persists, contact technical support.
 
@@ -464,9 +464,9 @@ If this alarm reaches the 100% threshold, you must stop ingesting objects and ad
 
 Once new Storage Nodes are added, the system automatically rebalances object metadata across all Storage Nodes, and the alarm clears.
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Low metadata storage alert]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting the Low metadata storage alert]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
 a|
 CLBA
@@ -675,7 +675,7 @@ Lost objects represent a loss of data. The Lost Objects attribute is incremented
 
 Investigate LOST (LOST Object) alarms immediately. If the problem persists, contact technical support.
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting lost and missing object data]
 
 a|
 MCEP
@@ -689,7 +689,7 @@ Triggered when the certificate used for accessing the management interface is ab
 . Go to *Configuration* > *Server Certificates*.
 . In the Management Interface Server Certificate section, upload a new certificate.
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 a|
 MINQ
@@ -700,7 +700,7 @@ NMS
 a|
 Check the network connections of the servers hosting the NMS service and the external mail server. Also confirm that the email server configuration is correct.
 
-xref:managing-alarms.adoc[Configuring email server settings for alarms (legacy system)]
+link:managing-alarms.html[Configuring email server settings for alarms (legacy system)]
 
 a|
 MINS
@@ -711,7 +711,7 @@ BNMS
 a|
 A minor alarm is triggered if the NMS service is unable to connect to the mail server. Check the network connections of the servers hosting the NMS service and the external mail server. Also confirm that the email server configuration is correct.
 
-xref:managing-alarms.adoc[Configuring email server settings for alarms (legacy system)]
+link:managing-alarms.html[Configuring email server settings for alarms (legacy system)]
 
 a|
 MISS
@@ -773,7 +773,7 @@ The following can be causes of NRER alarms:
 * High link error rates
 * NIC ring buffer overrun
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Network Receive Error (NRER) alarm]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting the Network Receive Error (NRER) alarm]
 
 a|
 NRLY
@@ -1073,7 +1073,7 @@ Triggered when the certificate used for accessing storage API endpoints is about
 . Go to *Configuration* > *Server Certificates*.
 . In the Object Storage API Service Endpoints Server Certificate section, upload a new certificate.
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 a|
 SCHR
@@ -1218,7 +1218,7 @@ If the value of Storage Status is Volume(s) Unavailable, a part of the storage i
 
 If the value of Storage Status is Error, contact technical support.
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting the Storage Status (SSTS) alarm]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting the Storage Status (SSTS) alarm]
 
 a|
 SVST

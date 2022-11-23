@@ -35,4 +35,4 @@ Sample interface configuration files for this per-host networking configuration 
 
 .Related information
 
-xref:example-etc-network-interfaces.adoc[Example /etc/network/interfaces]
+link:example-etc-network-interfaces.html[Example /etc/network/interfaces]

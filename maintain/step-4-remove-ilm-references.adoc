@@ -39,7 +39,7 @@ Any ILM rules that are listed still refer to the site but are not used in any po
  ** The unused *EC larger objects* rules uses the Raleigh site in the *All 3 Sites* Erasure Coding profile.
  ** If no ILM rules are listed, select *Next* to go to *Step 5 (Resolve Node Conflicts)*.
 +
-xref:step-5-resolve-node-conflicts.adoc[Step 5: Resolve Node Conflicts (and start decommission)]
+link:step-5-resolve-node-conflicts.html[Step 5: Resolve Node Conflicts (and start decommission)]
 +
 NOTE: When StorageGRID decommissions the site, it will automatically deactivate any unused Erasure Coding profiles that refer to the site, and it will automatically delete any unused storage pools that refer to the site. The system-default All Storage Nodes storage pool is removed because it uses the All Sites site.
 

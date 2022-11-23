@@ -39,7 +39,7 @@ The time when the object was last retrieved (read or viewed).
 
 *Note:* To use this option, updates to Last Access Time must be enabled for the S3 bucket or Swift container.
 
-xref:using-last-access-time-in-ilm-rules.adoc[Using Last Access Time in ILM rules]
+link:using-last-access-time-in-ilm-rules.html[Using Last Access Time in ILM rules]
 a|
 Noncurrent Time
 a|
@@ -170,14 +170,14 @@ Step 3 (Define Ingest Behavior) appears.
 
 .Related information
 
-xref:what-ilm-placement-instructions-are.adoc[What ILM rule placement instructions are]
+link:what-ilm-placement-instructions-are.html[What ILM rule placement instructions are]
 
-xref:example-4-ilm-rules-and-policy-for-s3-versioned-objects.adoc[Example 4: ILM rules and policy for S3 versioned objects]
+link:example-4-ilm-rules-and-policy-for-s3-versioned-objects.html[Example 4: ILM rules and policy for S3 versioned objects]
 
-xref:why-you-should-not-use-single-copy-replication.adoc[Why you should not use single-copy replication]
+link:why-you-should-not-use-single-copy-replication.html[Why you should not use single-copy replication]
 
-xref:managing-objects-with-s3-object-lock.adoc[Managing objects with S3 Object Lock]
+link:managing-objects-with-s3-object-lock.html[Managing objects with S3 Object Lock]
 
-xref:using-storage-pool-as-temporary-location-deprecated.adoc[Using a storage pool as a temporary location (deprecated)]
+link:using-storage-pool-as-temporary-location-deprecated.html[Using a storage pool as a temporary location (deprecated)]
 
-xref:step-3-of-3-define-ingest-behavior.adoc[Step 3 of 3: Define ingest behavior]
+link:step-3-of-3-define-ingest-behavior.html[Step 3 of 3: Define ingest behavior]

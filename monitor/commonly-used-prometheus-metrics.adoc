@@ -75,7 +75,7 @@ storagegrid_content_objects_lost
 a|
 The total number of objects this service detects as missing from the StorageGRID system. Action should be taken to determine the cause of the loss and if recovery is possible. 
 
-xref:../troubleshoot/troubleshooting-storagegrid-system.adoc[Troubleshooting lost and missing object data]
+link:../troubleshoot/troubleshooting-storagegrid-system.html[Troubleshooting lost and missing object data]
 
 a|
 storagegrid_http_sessions_incoming_attempted

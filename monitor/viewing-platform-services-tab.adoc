@@ -19,4 +19,4 @@ For more information about S3 platform services, including troubleshooting detai
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

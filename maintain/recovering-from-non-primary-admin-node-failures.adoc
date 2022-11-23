@@ -13,14 +13,14 @@ You must complete the following tasks to recover from a non-primary Admin Node f
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
 .Steps
 
-* xref:copying-audit-logs-from-failed-non-primary-admin-node.adoc[Copying audit logs from the failed non-primary Admin Node]
-* xref:replacing-non-primary-admin-node.adoc[Replacing a non-primary Admin Node]
-* xref:selecting-start-recovery-to-configure-non-primary-admin-node.adoc[Selecting Start Recovery to configure a non-primary Admin Node]
-* xref:restoring-audit-log-on-recovered-non-primary-admin-node.adoc[Restoring the audit log on the recovered non-primary Admin Node]
-* xref:resetting-preferred-sender-on-recovered-non-primary-admin-node.adoc[Resetting the preferred sender on the recovered non-primary Admin Node]
-* xref:restoring-admin-node-database-non-primary-admin-node.adoc[Restoring the Admin Node database when recovering a non-primary Admin Node]
-* xref:restoring-prometheus-metrics-non-primary-admin-node.adoc[Restoring Prometheus metrics when recovering a non-primary Admin Node]
+* link:copying-audit-logs-from-failed-non-primary-admin-node.html[Copying audit logs from the failed non-primary Admin Node]
+* link:replacing-non-primary-admin-node.html[Replacing a non-primary Admin Node]
+* link:selecting-start-recovery-to-configure-non-primary-admin-node.html[Selecting Start Recovery to configure a non-primary Admin Node]
+* link:restoring-audit-log-on-recovered-non-primary-admin-node.html[Restoring the audit log on the recovered non-primary Admin Node]
+* link:resetting-preferred-sender-on-recovered-non-primary-admin-node.html[Resetting the preferred sender on the recovered non-primary Admin Node]
+* link:restoring-admin-node-database-non-primary-admin-node.html[Restoring the Admin Node database when recovering a non-primary Admin Node]
+* link:restoring-prometheus-metrics-non-primary-admin-node.html[Restoring Prometheus metrics when recovering a non-primary Admin Node]

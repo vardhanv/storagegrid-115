@@ -30,8 +30,8 @@ StorageGRID manages the certificates used for load balancer endpoints separately
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]
 
-xref:configuring-load-balancer-endpoints.adoc[Configuring load balancer endpoints]
+link:configuring-load-balancer-endpoints.html[Configuring load balancer endpoints]

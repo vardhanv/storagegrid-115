@@ -33,8 +33,8 @@ image::../media/seven_segment_display_codes_for_e2800.gif[Seven-Segment Display 
 
 https://library.netapp.com/ecmdocs/ECMLP2588751/html/frameset.html[E5700 and E2800 System Monitoring Guide^]
 
-xref:troubleshooting-hardware-installation.adoc[Troubleshooting the hardware installation]
+link:troubleshooting-hardware-installation.html[Troubleshooting the hardware installation]
 
 https://mysupport.netapp.com/site/global/dashboard[NetApp Support^]
 
-xref:powering-on-sg6000-cn-controller-and-verifying-operation.adoc[Powering on the SG6000-CN controller and verifying operation]
+link:powering-on-sg6000-cn-controller-and-verifying-operation.html[Powering on the SG6000-CN controller and verifying operation]

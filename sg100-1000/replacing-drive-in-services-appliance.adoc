@@ -15,7 +15,7 @@ The SSDs in the services appliance contain the StorageGRID operating system. Add
 
 * You have physically located the appliance where you are replacing the drive in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * You have verified which drive has failed by noting that its left LED is blinking amber.
 +

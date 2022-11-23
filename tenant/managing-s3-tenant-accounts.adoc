@@ -11,5 +11,5 @@ summary: 'You can use the Tenant Manager to manage S3 access keys and to create 
 [.lead]
 You can use the Tenant Manager to manage S3 access keys and to create and manage S3 buckets.
 
-* xref:managing-s3-access-keys.adoc[Managing S3 access keys]
-* xref:managing-s3-buckets.adoc[Managing S3 buckets]
+* link:managing-s3-access-keys.html[Managing S3 access keys]
+* link:managing-s3-buckets.html[Managing S3 buckets]

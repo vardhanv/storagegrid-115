@@ -41,14 +41,14 @@ image::../media/ilm_example_rule_2_copies_tenant_a.png[Example ILM Rule 2 Copies
 
 .Related information
 
-xref:data-protection-options-for-ingest.adoc[Data-protection options for ingest]
+link:data-protection-options-for-ingest.html[Data-protection options for ingest]
 
-xref:what-storage-pool-is.adoc[What a storage pool is]
+link:what-storage-pool-is.html[What a storage pool is]
 
-xref:what-cloud-storage-pool-is.adoc[What a Cloud Storage Pool is]
+link:what-cloud-storage-pool-is.html[What a Cloud Storage Pool is]
 
-xref:how-objects-are-stored-replication-erasure-coding.adoc[How objects are stored (replication or erasure coding)]
+link:how-objects-are-stored-replication-erasure-coding.html[How objects are stored (replication or erasure coding)]
 
-xref:what-ilm-rule-filtering-is.adoc[What ILM rule filtering is]
+link:what-ilm-rule-filtering-is.html[What ILM rule filtering is]
 
-xref:what-ilm-placement-instructions-are.adoc[What ILM rule placement instructions are]
+link:what-ilm-placement-instructions-are.html[What ILM rule placement instructions are]

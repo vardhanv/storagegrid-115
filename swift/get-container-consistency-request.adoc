@@ -89,4 +89,4 @@ x-ntap-sg-consistency: strong-site
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

@@ -27,15 +27,15 @@ Setting up a key management server includes the following high-level steps.
 a|
 Access the KMS software and add a client for StorageGRID to each KMS or KMS cluster.
 a|
-xref:kms-configuring-storagegrid-as-client.adoc[Configuring StorageGRID as a client in the KMS]
+link:kms-configuring-storagegrid-as-client.html[Configuring StorageGRID as a client in the KMS]
 a|
 Obtain the required information for the StorageGRID client on the KMS.
 a|
-xref:kms-configuring-storagegrid-as-client.adoc[Configuring StorageGRID as a client in the KMS]
+link:kms-configuring-storagegrid-as-client.html[Configuring StorageGRID as a client in the KMS]
 a|
 Add the KMS to the Grid Manager, assign it to a single site or to a default group of sites, upload the required certificates, and save the KMS configuration.
 a|
-xref:kms-adding.adoc[Adding a key management server (KMS)]
+link:kms-adding.html[Adding a key management server (KMS)]
 |===
 
 == Setting up the appliance
@@ -53,10 +53,10 @@ IMPORTANT: You cannot enable the *Node Encryption* setting after an appliance is
 
 For details, refer to the following:
 
-* xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
-* xref:../sg6000/index.adoc[SG6000 storage appliances]
-* xref:../sg5700/index.adoc[SG5700 storage appliances]
-* xref:../sg5600/index.adoc[SG5600 storage appliances]
+* link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
+* link:../sg6000/index.html[SG6000 storage appliances]
+* link:../sg5700/index.html[SG5700 storage appliances]
+* link:../sg5600/index.html[SG5600 storage appliances]
 
 == Key management encryption process (occurs automatically)
 

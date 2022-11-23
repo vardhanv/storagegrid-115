@@ -43,8 +43,8 @@ Verify that the proposed topology that will result from the decommissioning proc
 
 .Related information
 
-xref:consolidating-storage-nodes.adoc[Consolidating Storage Nodes]
+link:consolidating-storage-nodes.html[Consolidating Storage Nodes]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

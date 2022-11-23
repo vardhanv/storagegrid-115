@@ -58,4 +58,4 @@ For more information on planning a storage expansion, see the instructions for e
 
 .Related information
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

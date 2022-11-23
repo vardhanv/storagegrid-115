@@ -53,4 +53,4 @@ If the service fails to restart, contact technical support.
 
 .Related information
 
-xref:removing-donotstart-file-for-service.adoc[Removing a DoNotStart file for a service]
+link:removing-donotstart-file-for-service.html[Removing a DoNotStart file for a service]

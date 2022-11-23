@@ -102,11 +102,11 @@ For information about the metrics, see the instructions for monitoring and troub
 
 .Related information
 
-xref:using-storagegrid-security-certificates.adoc[Using StorageGRID security certificates]
+link:using-storagegrid-security-certificates.html[Using StorageGRID security certificates]
 
-xref:configuring-custom-server-certificate-for-grid-manager-tenant-manager.adoc[Configuring a custom server certificate for the Grid Manager and the Tenant Manager]
+link:configuring-custom-server-certificate-for-grid-manager-tenant-manager.html[Configuring a custom server certificate for the Grid Manager and the Tenant Manager]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 == Editing administrator client certificates
 

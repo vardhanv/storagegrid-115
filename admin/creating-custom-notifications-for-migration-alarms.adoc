@@ -29,4 +29,4 @@ Note that Global Custom alarms override Default alarms.
 
 .Related information
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

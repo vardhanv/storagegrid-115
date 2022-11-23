@@ -63,4 +63,4 @@ The specified configuration settings are validated and applied to your StorageGR
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

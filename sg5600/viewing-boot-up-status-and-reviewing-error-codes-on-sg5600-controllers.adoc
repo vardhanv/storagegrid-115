@@ -23,6 +23,6 @@ The status and error codes for the E5600SG controller are not the same as those 
 
 .Related information
 
-xref:e5600sg-controller-seven-segment-display-codes.adoc[E5600SG controller seven-segment display codes]
+link:e5600sg-controller-seven-segment-display-codes.html[E5600SG controller seven-segment display codes]
 
 http://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61765[NetApp Documentation: E2700 Series^]

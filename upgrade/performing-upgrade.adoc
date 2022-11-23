@@ -25,13 +25,13 @@ You are aware of the following:
 * You must complete the upgrade on the same hypervisor platform you started with.
 
 .Steps
-. xref:linux-installing-rpm-or-deb-package-on-all-hosts.adoc[Linux: Installing the RPM or DEB package on all hosts]
-. xref:starting-upgrade.adoc[Starting the upgrade]
-. xref:upgrading-grid-nodes-and-completing-upgrade.adoc[Upgrading grid nodes and completing the upgrade]
-. xref:increasing-metadata-reserved-space-setting.adoc[Increasing the Metadata Reserved Space setting]
+. link:linux-installing-rpm-or-deb-package-on-all-hosts.html[Linux: Installing the RPM or DEB package on all hosts]
+. link:starting-upgrade.html[Starting the upgrade]
+. link:upgrading-grid-nodes-and-completing-upgrade.html[Upgrading grid nodes and completing the upgrade]
+. link:increasing-metadata-reserved-space-setting.html[Increasing the Metadata Reserved Space setting]
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:estimating-time-to-complete-upgrade.adoc[Estimating the time to complete an upgrade]
+link:estimating-time-to-complete-upgrade.html[Estimating the time to complete an upgrade]

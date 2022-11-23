@@ -30,4 +30,4 @@ A confirmation message is displayed indicating that synchronization started succ
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

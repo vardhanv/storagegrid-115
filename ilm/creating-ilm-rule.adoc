@@ -19,11 +19,11 @@ ILM rules allow you to manage the placement of object data over time. To create 
 * If you want the rule to filter objects on last access time metadata, Last Access Time updates must be enabled by bucket for S3 or by container for Swift.
 * If you are creating replicated copies, you must have configured any storage pools or Cloud Storage Pools you plan to use.
 * If you are creating erasure-coded copies, you must have configured an Erasure Coding profile.
-* You must be familiar with the xref:data-protection-options-for-ingest.adoc[data-protection options for ingest].
+* You must be familiar with the link:data-protection-options-for-ingest.html[data-protection options for ingest].
 
-* If you need to create a compliant rule for use with S3 Object Lock, you must be familiar with the  xref:requirements-for-s3-object-lock.adoc[requirements for S3 Object Lock].
+* If you need to create a compliant rule for use with S3 Object Lock, you must be familiar with the  link:requirements-for-s3-object-lock.html[requirements for S3 Object Lock].
 
-NOTE: To create the default ILM rule for a policy, use this procedure instead: xref:creating-default-ilm-rule.adoc[Creating a default ILM rule].
+NOTE: To create the default ILM rule for a policy, use this procedure instead: link:creating-default-ilm-rule.html[Creating a default ILM rule].
 
 
 .About this task
@@ -52,16 +52,16 @@ Step 1 (Define Basics) of the Create ILM Rule wizard appears. You use the Define
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]
 
-xref:configuring-erasure-coding-profiles.adoc[Configuring Erasure Coding profiles]
+link:configuring-erasure-coding-profiles.html[Configuring Erasure Coding profiles]
 
-xref:configuring-storage-pools.adoc[Configuring storage pools]
+link:configuring-storage-pools.html[Configuring storage pools]
 
-xref:using-cloud-storage-pools.adoc[Using Cloud Storage Pools]
+link:using-cloud-storage-pools.html[Using Cloud Storage Pools]
 
-xref:data-protection-options-for-ingest.adoc[Data-protection options for ingest]
+link:data-protection-options-for-ingest.html[Data-protection options for ingest]
 
-xref:managing-objects-with-s3-object-lock.adoc[Managing objects with S3 Object Lock]
+link:managing-objects-with-s3-object-lock.html[Managing objects with S3 Object Lock]

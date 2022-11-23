@@ -23,4 +23,4 @@ If you are interested in automating all or part of your StorageGRID deployment, 
 
 .Related information
 
-xref:automating-installation.adoc[Automating the installation]
+link:automating-installation.html[Automating the installation]

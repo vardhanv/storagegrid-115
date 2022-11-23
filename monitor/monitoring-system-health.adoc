@@ -53,8 +53,8 @@ Appears if there is an issue with the software license for this StorageGRID syst
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:managing-alerts.adoc[Setting up email notifications for alerts]
+link:managing-alerts.html[Setting up email notifications for alerts]
 
-xref:using-snmp-monitoring.adoc[Using SNMP monitoring]
+link:using-snmp-monitoring.html[Using SNMP monitoring]

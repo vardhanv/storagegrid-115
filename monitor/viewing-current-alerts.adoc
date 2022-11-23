@@ -97,6 +97,6 @@ A dialog box for the alert appears. See the instructions for viewing a specific 
 
 .Related information
 
-xref:viewing-specific-alert.adoc[Viewing a specific alert]
+link:viewing-specific-alert.html[Viewing a specific alert]
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]

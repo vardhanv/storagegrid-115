@@ -29,14 +29,14 @@ The following considerations and restrictions apply when decommissioning Storage
 
 .Related information
 
-xref:restoring-object-data-to-storage-volume-if-required.adoc[Restoring object data to a storage volume, if required]
+link:restoring-object-data-to-storage-volume-if-required.html[Restoring object data to a storage volume, if required]
 
-xref:understanding-adc-service-quorum.adoc[Understanding the ADC quorum]
+link:understanding-adc-service-quorum.html[Understanding the ADC quorum]
 
-xref:reviewing-ilm-policy-and-storage-configuration.adoc[Reviewing the ILM policy and storage configuration]
+link:reviewing-ilm-policy-and-storage-configuration.html[Reviewing the ILM policy and storage configuration]
 
-xref:decommissioning-disconnected-storage-nodes.adoc[Decommissioning disconnected Storage Nodes]
+link:decommissioning-disconnected-storage-nodes.html[Decommissioning disconnected Storage Nodes]
 
-xref:consolidating-storage-nodes.adoc[Consolidating Storage Nodes]
+link:consolidating-storage-nodes.html[Consolidating Storage Nodes]
 
-xref:decommissioning-multiple-storage-nodes.adoc[Decommissioning multiple Storage Nodes]
+link:decommissioning-multiple-storage-nodes.html[Decommissioning multiple Storage Nodes]

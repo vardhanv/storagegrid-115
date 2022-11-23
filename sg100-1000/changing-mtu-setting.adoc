@@ -15,7 +15,7 @@ You can change the MTU setting that you assigned when you configured IP addresse
 
 The appliance has been placed maintenance mode.
 
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .Steps
 
@@ -40,4 +40,4 @@ image::../media/node_rejoin_grid_confirmation.png[Appliance node rejoined grid]
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

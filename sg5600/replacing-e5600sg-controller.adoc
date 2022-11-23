@@ -20,7 +20,7 @@ http://mysupport.netapp.com/[mysupport.netapp.com^]
 * E5600 documentation on the Support Site
 * The appliance has been placed maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 

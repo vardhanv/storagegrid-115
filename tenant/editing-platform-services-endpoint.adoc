@@ -49,4 +49,4 @@ NOTE: You cannot change an endpoint's URN after the endpoint has been created.
 
 .Related information
 
-xref:creating-platform-services-endpoint.adoc[Creating a platform services endpoint]
+link:creating-platform-services-endpoint.html[Creating a platform services endpoint]

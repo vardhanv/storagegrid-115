@@ -49,8 +49,8 @@ Step 2 (Define Placements) appears.
 
 .Related information
 
-xref:what-ilm-rule-filtering-is.adoc[What ILM rule filtering is]
+link:what-ilm-rule-filtering-is.html[What ILM rule filtering is]
 
-xref:using-advanced-filters-in-ilm-rules.adoc[Using advanced filters in ILM rules]
+link:using-advanced-filters-in-ilm-rules.html[Using advanced filters in ILM rules]
 
-xref:step-2-of-3-define-placements.adoc[Step 2 of 3: Define placements]
+link:step-2-of-3-define-placements.html[Step 2 of 3: Define placements]

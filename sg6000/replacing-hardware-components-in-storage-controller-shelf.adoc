@@ -16,7 +16,7 @@ If a hardware problem occurs, you might need to replace a component in the stora
 * You have the E-Series hardware replacement procedure.
 * You have physically located the storage appliance where you are replacing storage shelf hardware components in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 .About this task
 
@@ -60,4 +60,4 @@ E-Series: Replace drive drawer (60-drive)
 
 http://mysupport.netapp.com/info/web/ECMP1658252.html[NetApp E-Series Systems Documentation Site^]
 
-xref:replacing-storage-controller-sg6000.adoc[Replacing a storage controller]
+link:replacing-storage-controller-sg6000.html[Replacing a storage controller]

@@ -21,6 +21,6 @@ If you choose to use the CLB service, you should consider configuring link costs
 
 .Related information
 
-xref:what-link-costs-are.adoc[What link costs are]
+link:what-link-costs-are.html[What link costs are]
 
-xref:updating-link-costs.adoc[Updating link costs]
+link:updating-link-costs.html[Updating link costs]

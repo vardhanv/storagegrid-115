@@ -61,6 +61,6 @@ NOTE: Select the `.zip` file if you are running Windows on the service laptop.
 
 .Related information
 
-xref:linux-installing-rpm-or-deb-package-on-all-hosts.adoc[Linux: Installing the RPM or DEB package on all hosts]
+link:linux-installing-rpm-or-deb-package-on-all-hosts.html[Linux: Installing the RPM or DEB package on all hosts]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

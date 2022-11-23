@@ -108,4 +108,4 @@ StorageGRID is running.
 
 .Related information
 
-xref:accessing-bmc-interface-sg1000.adoc[Accessing the BMC interface]
+link:accessing-bmc-interface-sg1000.html[Accessing the BMC interface]

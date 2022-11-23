@@ -13,13 +13,13 @@ The StorageGRID system implements the Simple Storage Service API (API Version 20
 
 The StorageGRID system supports both virtual hosted-style requests and path-style requests.
 
-* xref:authenticating-requests.adoc[Authenticating requests]
-* xref:operations-on-the-service.adoc[Operations on the service]
-* xref:operations-on-buckets.adoc[Operations on buckets]
-* xref:custom-operations-on-buckets.adoc[Custom operations on buckets]
-* xref:operations-on-objects.adoc[Operations on objects]
-* xref:operations-for-multipart-uploads.adoc[Operations for multipart uploads]
-* xref:error-responses.adoc[Error responses]
+* link:authenticating-requests.html[Authenticating requests]
+* link:operations-on-the-service.html[Operations on the service]
+* link:operations-on-buckets.html[Operations on buckets]
+* link:custom-operations-on-buckets.html[Custom operations on buckets]
+* link:operations-on-objects.html[Operations on objects]
+* link:operations-for-multipart-uploads.html[Operations for multipart uploads]
+* link:error-responses.html[Error responses]
 
 == Date handling
 The StorageGRID implementation of the S3 REST API only supports valid HTTP date formats.

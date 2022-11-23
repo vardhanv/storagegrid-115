@@ -19,4 +19,4 @@ By adding new capacity before removing existing Storage Nodes, you ensure a more
 
 .Related information
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

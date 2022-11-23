@@ -15,7 +15,7 @@ You can check and temporarily change the domain name system (DNS) servers that a
 
 The appliance has been placed maintenance mode.
 
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 

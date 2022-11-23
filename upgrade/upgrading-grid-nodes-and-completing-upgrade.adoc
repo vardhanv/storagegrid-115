@@ -58,7 +58,7 @@ When all grid nodes have been upgraded, the *Upgrade Grid Nodes* task is shown a
 +
 For example, if you are upgrading to StorageGRID 11.5, you can now enable S3 Object Lock, configure a key management server, or increase the Metadata Reserved Space setting.
 +
-xref:increasing-metadata-reserved-space-setting.adoc[Increasing the Metadata Reserved Space setting]
+link:increasing-metadata-reserved-space-setting.html[Increasing the Metadata Reserved Space setting]
 
 . Periodically monitor the progress of the *Upgrade Database* task.
 +
@@ -103,6 +103,6 @@ See the recovery and maintenance instructions for information about applying hot
 
 .Related information
 
-xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
+link:downloading-recovery-package.html[Downloading the Recovery Package]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

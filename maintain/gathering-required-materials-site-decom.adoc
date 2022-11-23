@@ -32,6 +32,6 @@ If available, obtain any documentation that describes the system's current topol
 |===
 .Related information
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]
 
-xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
+link:downloading-recovery-package.html[Downloading the Recovery Package]

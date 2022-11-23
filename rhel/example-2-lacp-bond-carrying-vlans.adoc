@@ -33,4 +33,4 @@ Sample interface configuration files for this per-host networking configuration 
 
 .Related information
 
-xref:example-etc-sysconfig-network-scripts.adoc[Example /etc/sysconfig/network-scripts]
+link:example-etc-sysconfig-network-scripts.html[Example /etc/sysconfig/network-scripts]

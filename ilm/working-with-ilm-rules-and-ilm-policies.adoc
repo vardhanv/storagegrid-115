@@ -49,7 +49,7 @@ image::../media/ilm_rule_historical.png[ILM Rule Historical]
 
 .Related information
 
-xref:creating-ilm-policy.adoc[Creating an ILM policy]
+link:creating-ilm-policy.html[Creating an ILM policy]
 
 == Editing an ILM rule
 
@@ -97,9 +97,9 @@ image::../media/ilm_rule_historical.png[ILM Rule Historical]
 
 .Related information
 
-xref:creating-ilm-rule.adoc[Creating an ILM rule]
+link:creating-ilm-rule.html[Creating an ILM rule]
 
-xref:using-advanced-filters-in-ilm-rules.adoc[Using advanced filters in ILM rules]
+link:using-advanced-filters-in-ilm-rules.html[Using advanced filters in ILM rules]
 
 == Cloning an ILM rule
 
@@ -136,9 +136,9 @@ The new ILM rule is created.
 
 .Related information
 
-xref:working-with-ilm-rules-and-ilm-policies.adoc[Working with ILM rules and ILM policies]
+link:working-with-ilm-rules-and-ilm-policies.html[Working with ILM rules and ILM policies]
 
-xref:using-advanced-filters-in-ilm-rules.adoc[Using advanced filters in ILM rules]
+link:using-advanced-filters-in-ilm-rules.html[Using advanced filters in ILM rules]
 
 == Viewing the ILM policy activity queue
 

@@ -24,6 +24,6 @@ The four-character codes used throughout this chapter are the ATYP values found 
 
 .Related information
 
-xref:audit-messages-list.adoc[Audit messages]
+link:audit-messages-list.html[Audit messages]
 
-xref:changing-audit-message-levels.adoc[Changing audit message levels]
+link:changing-audit-message-levels.html[Changing audit message levels]

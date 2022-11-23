@@ -61,6 +61,6 @@ The number of sessions should be roughly equal across all Storage Nodes.
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:viewing-load-balancer-tab.adoc[Viewing the Load Balancer tab]
+link:viewing-load-balancer-tab.html[Viewing the Load Balancer tab]

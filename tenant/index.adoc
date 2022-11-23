@@ -11,10 +11,10 @@ summary: 'Learn how to use a StorageGRID tenant account.'
 [.lead]
 Learn how to use a StorageGRID tenant account.
 
-* xref:using-tenant-manager.adoc[Using the Tenant Manager]
+* link:using-tenant-manager.html[Using the Tenant Manager]
 
-* xref:managing-system-access-for-tenant-users.adoc[Managing system access for tenant users]
+* link:managing-system-access-for-tenant-users.html[Managing system access for tenant users]
 
-* xref:managing-s3-tenant-accounts.adoc[Managing S3 tenant accounts]
+* link:managing-s3-tenant-accounts.html[Managing S3 tenant accounts]
 
-* xref:managing-s3-platform-services.adoc[Managing S3 platform services]
+* link:managing-s3-platform-services.html[Managing S3 platform services]

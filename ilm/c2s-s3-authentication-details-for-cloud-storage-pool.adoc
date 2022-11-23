@@ -54,4 +54,4 @@ See the instructions for troubleshooting Cloud Storage Pools, resolve the issue,
 
 .Related information
 
-xref:troubleshooting-cloud-storage-pools.adoc[Troubleshooting Cloud Storage Pools]
+link:troubleshooting-cloud-storage-pools.html[Troubleshooting Cloud Storage Pools]

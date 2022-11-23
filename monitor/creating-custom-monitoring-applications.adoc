@@ -21,4 +21,4 @@ The details of how to implement a custom monitoring application is beyond the sc
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

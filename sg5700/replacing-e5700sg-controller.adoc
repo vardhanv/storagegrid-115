@@ -21,7 +21,7 @@ IMPORTANT: Use the E-Series instructions for reference only if you need more det
 * You have labels to identify each cable that is connected to the controller.
 * The appliance has been placed maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 

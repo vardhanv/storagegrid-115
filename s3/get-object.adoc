@@ -104,10 +104,10 @@ In these cases:
 
 .Related information
 
-xref:using-server-side-encryption.adoc[Using server-side encryption]
+link:using-server-side-encryption.html[Using server-side encryption]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:post-object-restore.adoc[POST Object restore]
+link:post-object-restore.html[POST Object restore]
 
-xref:s3-operations-tracked-in-audit-logs.adoc[S3 operations tracked in the audit logs]
+link:s3-operations-tracked-in-audit-logs.html[S3 operations tracked in the audit logs]

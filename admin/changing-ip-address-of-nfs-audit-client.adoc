@@ -14,6 +14,6 @@ summary: ''
 
 .Related information
 
-xref:adding-nfs-audit-client-to-audit-share.adoc[Adding an NFS audit client to an audit share]
+link:adding-nfs-audit-client-to-audit-share.html[Adding an NFS audit client to an audit share]
 
-xref:removing-nfs-audit-client-from-audit-share.adoc[Removing an NFS audit client from the audit share]
+link:removing-nfs-audit-client-from-audit-share.html[Removing an NFS audit client from the audit share]

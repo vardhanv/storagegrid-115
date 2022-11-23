@@ -54,4 +54,4 @@ The new key is listed on the Access keys tab of the user details page. Changes m
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

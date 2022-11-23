@@ -13,5 +13,5 @@ You must ensure the network infrastructure can provide internal and external com
 
 Use the details provided for internal grid node communications and external communications to determine how to configure each required port.
 
-* xref:internal-grid-node-communications.adoc[Internal grid node communications]
-* xref:external-communications.adoc[External communications]
+* link:internal-grid-node-communications.html[Internal grid node communications]
+* link:external-communications.html[External communications]

@@ -67,6 +67,6 @@ Wait a few minutes, and try again.
 |===
 .Related information
 
-xref:../rhel/index.adoc[Install Red Hat Enterprise Linux or CentOS]
+link:../rhel/index.html[Install Red Hat Enterprise Linux or CentOS]
 
-xref:../ubuntu/index.adoc[Install Ubuntu or Debian]
+link:../ubuntu/index.html[Install Ubuntu or Debian]

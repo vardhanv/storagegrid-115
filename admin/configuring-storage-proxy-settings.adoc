@@ -53,6 +53,6 @@ If you need to disable a Storage proxy, deselect the *Enable Storage Proxy* chec
 
 .Related information
 
-xref:networking-and-ports-for-platform-services.adoc[Networking and ports for platform services]
+link:networking-and-ports-for-platform-services.html[Networking and ports for platform services]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

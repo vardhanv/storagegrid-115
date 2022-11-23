@@ -64,4 +64,4 @@ Behaves the same as the *Read-after-new-write* consistency level, but only provi
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

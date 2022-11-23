@@ -117,8 +117,8 @@ The inter-relationship between consistency levels and ILM rules can be complex. 
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:storagegrid-s3-rest-api-operations.adoc[GET Bucket consistency request]
+link:storagegrid-s3-rest-api-operations.html[GET Bucket consistency request]
 
-xref:storagegrid-s3-rest-api-operations.adoc[PUT Bucket consistency request]
+link:storagegrid-s3-rest-api-operations.html[PUT Bucket consistency request]

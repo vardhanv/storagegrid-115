@@ -49,4 +49,4 @@ Some web browsers and S3 or Swift clients do not accept certificates with a vali
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

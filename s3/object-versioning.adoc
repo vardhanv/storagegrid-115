@@ -31,4 +31,4 @@ See the instructions for managing objects with information lifecycle management 
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

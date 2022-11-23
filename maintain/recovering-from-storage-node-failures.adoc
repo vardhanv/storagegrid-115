@@ -26,7 +26,7 @@ This includes the case where a Storage Node fails while recovery of another Stor
 
 Technical support will assess your situation and develop a recovery plan.
 
-xref:how-site-recovery-is-performed-by-technical-support.adoc[How site recovery is performed by technical support]
+link:how-site-recovery-is-performed-by-technical-support.html[How site recovery is performed by technical support]
 
 Recovering more than one Storage Node (or more than one Storage Node within 15 days) might affect the integrity of the Cassandra database, which can cause data loss.
 

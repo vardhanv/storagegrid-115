@@ -23,15 +23,15 @@ NOTE: Leave the StorageGRID Appliance Installer open after you complete initial 
 
 * You have optionally enabled node encryption for the target appliance.
 * You have optionally set the RAID mode for the target appliance (storage appliances only).
-* xref:considerations-and-requirements-for-appliance-node-cloning.adoc[Considerations and requirements for appliance node cloning]
+* link:considerations-and-requirements-for-appliance-node-cloning.html[Considerations and requirements for appliance node cloning]
 +
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 +
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 +
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 +
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
 You should clone only one appliance node at a time to maintain StorageGRID network performance and data availability.
 
@@ -39,7 +39,7 @@ You should clone only one appliance node at a time to maintain StorageGRID netwo
 
 . Place the source node you are cloning into maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 . From the StorageGRID Appliance Installer on the source node, in the Installation section of the Home page, select *Enable Cloning*.
 +
@@ -63,7 +63,7 @@ If issues exist that prevent cloning, *Start Cloning* is not enabled and issues 
 +
 When *Start Cloning* is enabled, the *Current state* indicates the StorageGRID network that was selected for cloning traffic, along with information about using that network connection.
 +
-xref:considerations-and-requirements-for-appliance-node-cloning.adoc[Considerations and requirements for appliance node cloning]
+link:considerations-and-requirements-for-appliance-node-cloning.html[Considerations and requirements for appliance node cloning]
 
 . Select *Start Cloning* on the source node.
 . Monitor the cloning progress using the StorageGRID Appliance Installer on either the source or target node.
@@ -94,7 +94,7 @@ When cloning successfully completes:
 * The target node exits maintenance mode and joins StorageGRID, replacing the source node.
 * The source appliance is in a pre-installed state, as if you had prepared it for reinstallation.
 +
-xref:preparing-appliance-for-reinstallation-platform-replacement-only.adoc[Preparing an appliance for reinstallation (platform replacement only)]
+link:preparing-appliance-for-reinstallation-platform-replacement-only.html[Preparing an appliance for reinstallation (platform replacement only)]
 
 NOTE: If the appliance does not rejoin the grid, go to the StorageGRID Appliance Installer Home page for the source node, select *Advanced* > *Reboot Controller*, and then select *Reboot into Maintenance Mode*. After the source node reboots in maintenance mode, repeat the node cloning procedure.
 

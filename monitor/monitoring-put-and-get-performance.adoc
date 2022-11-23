@@ -30,4 +30,4 @@ When analyzing results, look at the average time required to satisfy a request, 
 
 .Related information
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]

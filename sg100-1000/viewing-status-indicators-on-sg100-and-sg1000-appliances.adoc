@@ -94,6 +94,6 @@ Blue (blinking): drive is being accessed
 |===
 .Related information
 
-xref:troubleshooting-hardware-installation-sg100-and-sg1000.adoc[Troubleshooting the hardware installation]
+link:troubleshooting-hardware-installation-sg100-and-sg1000.html[Troubleshooting the hardware installation]
 
-xref:configuring-bmc-interface-sg1000.adoc[Configuring the BMC interface]
+link:configuring-bmc-interface-sg1000.html[Configuring the BMC interface]

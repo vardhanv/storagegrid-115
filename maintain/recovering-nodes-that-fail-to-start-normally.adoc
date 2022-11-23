@@ -21,4 +21,4 @@ IMPORTANT: After issuing the `storagegrid node force-recovery _node-name_` comma
 
 .Related information
 
-xref:whats-next-performing-additional-recovery-steps-if-required.adoc[What's next: Performing additional recovery steps, if required]
+link:whats-next-performing-additional-recovery-steps-if-required.html[What's next: Performing additional recovery steps, if required]

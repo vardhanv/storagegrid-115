@@ -15,7 +15,7 @@ Reinstall the controller into a cabinet or rack when hardware maintenance is com
 
 You have reinstalled the controller cover.
 
-xref:reinstalling-sg6000-cn-controller-cover.adoc[Reinstalling the SG6000-CN controller cover]
+link:reinstalling-sg6000-cn-controller-cover.html[Reinstalling the SG6000-CN controller cover]
 
 .Steps
 
@@ -36,14 +36,14 @@ image::../media/sg6060_rack_retaining_screws.png[SG6060 rack retaining screws]
 +
 IMPORTANT: To prevent degraded performance, do not twist, fold, pinch, or step on the cables.
 +
-xref:cabling-appliance-sg6000.adoc[Cabling the appliance (SG6000)]
+link:cabling-appliance-sg6000.html[Cabling the appliance (SG6000)]
 
 . Reconnect the controller power cables.
 +
-xref:connecting-power-cords-and-applying-power-sg6000.adoc[Connecting power cords and applying power (SG6000)]
+link:connecting-power-cords-and-applying-power-sg6000.html[Connecting power cords and applying power (SG6000)]
 
 .After you finish
 
 The controller can be restarted.
 
-xref:powering-on-sg6000-cn-controller-and-verifying-operation.adoc[Powering on the SG6000-CN controller and verifying operation]
+link:powering-on-sg6000-cn-controller-and-verifying-operation.html[Powering on the SG6000-CN controller and verifying operation]

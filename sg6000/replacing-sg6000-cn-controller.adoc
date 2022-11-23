@@ -17,7 +17,7 @@ You might need to replace the SG6000-CN controller if it is not functioning opti
 * You have labels to identify each cable that is connected to the controller.
 * You have physically located the controller to replace in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 .About this task
 
@@ -29,7 +29,7 @@ NOTE: If you are replacing the controller before installing StorageGRID software
 
 . If the SG6000-CN controller is functioning sufficiently to allow for a controlled shutdown, shut down the SG6000-CN controller.
 +
-xref:shutting-down-sg6000-cn-controller.adoc[Shutting down the SG6000-CN controller]
+link:shutting-down-sg6000-cn-controller.html[Shutting down the SG6000-CN controller]
 +
 The green Cache Active LED on the back of the E2800 controller is on when cached data needs to be written to the drives. You must wait for this LED to turn off.
 
@@ -61,12 +61,12 @@ IMPORTANT: To prevent degraded performance, do not twist, fold, pinch, or step o
 +
 If the node controller IP address is not valid or is not in the expected range, reconfigure the IP address as described in the recovery and maintenance instructions.
 +
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
 .Related information
 
-xref:sg6000-cn-installing-into-cabinet-or-rack.adoc[SG6000-CN: Installing into a cabinet or rack]
+link:sg6000-cn-installing-into-cabinet-or-rack.html[SG6000-CN: Installing into a cabinet or rack]
 
-xref:viewing-status-indicators-and-buttons-on-sg6000-cn-controller.adoc[Viewing status indicators and buttons on the SG6000-CN controller]
+link:viewing-status-indicators-and-buttons-on-sg6000-cn-controller.html[Viewing status indicators and buttons on the SG6000-CN controller]
 
-xref:viewing-boot-up-codes-for-sg6000-cn-controller.adoc[Viewing boot-up codes for the SG6000-CN controller]
+link:viewing-boot-up-codes-for-sg6000-cn-controller.html[Viewing boot-up codes for the SG6000-CN controller]

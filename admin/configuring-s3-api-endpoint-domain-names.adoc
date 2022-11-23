@@ -67,12 +67,12 @@ Now, when clients use the endpoint `bucket.s3.company.com`, the DNS server resol
 
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:viewing-ip-addresses.adoc[Viewing IP addresses]
+link:viewing-ip-addresses.html[Viewing IP addresses]
 
-xref:creating-high-availability-group.adoc[Creating a high availability group]
+link:creating-high-availability-group.html[Creating a high availability group]
 
-xref:configuring-custom-server-certificate-for-storage-node-or-clb.adoc[Configuring a custom server certificate for connections to the Storage Node or the CLB service]
+link:configuring-custom-server-certificate-for-storage-node-or-clb.html[Configuring a custom server certificate for connections to the Storage Node or the CLB service]
 
-xref:configuring-load-balancer-endpoints.adoc[Configuring load balancer endpoints]
+link:configuring-load-balancer-endpoints.html[Configuring load balancer endpoints]

@@ -21,4 +21,4 @@ IMPORTANT: If an entire StorageGRID site has failed, contact technical support. 
 
 .Related information
 
-xref:how-site-recovery-is-performed-by-technical-support.adoc[How site recovery is performed by technical support]
+link:how-site-recovery-is-performed-by-technical-support.html[How site recovery is performed by technical support]

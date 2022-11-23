@@ -11,10 +11,10 @@ summary: 'Learn the StorageGRID system audit logs and see a list of all audit me
 [.lead]
 Learn the StorageGRID system audit logs and see a list of all audit messages.
 
-* xref:audit-message-overview.adoc[Audit message overview]
+* link:audit-message-overview.html[Audit message overview]
 
-* xref:audit-file-and-message-formats.adoc[Audit log file and message formats]
+* link:audit-file-and-message-formats.html[Audit log file and message formats]
 
-* xref:audit-messages-and-object-lifecycle.adoc[Audit messages and the object lifecycle]
+* link:audit-messages-and-object-lifecycle.html[Audit messages and the object lifecycle]
 
-* xref:audit-messages-main.adoc[Audit messages]
+* link:audit-messages-main.html[Audit messages]

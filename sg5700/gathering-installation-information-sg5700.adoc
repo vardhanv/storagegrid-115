@@ -299,8 +299,8 @@ a|
 |===
 .Related information
 
-xref:reviewing-appliance-network-connections-sg5700.adoc[Reviewing appliance network connections]
+link:reviewing-appliance-network-connections-sg5700.html[Reviewing appliance network connections]
 
-xref:port-bond-modes-for-e5700sg-controller-ports.adoc[Port bond modes for E5700SG controller ports]
+link:port-bond-modes-for-e5700sg-controller-ports.html[Port bond modes for E5700SG controller ports]
 
-xref:configuring-hardware-sg5712-60.adoc[Configuring the hardware]
+link:configuring-hardware-sg5712-60.html[Configuring the hardware]

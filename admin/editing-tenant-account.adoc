@@ -56,6 +56,6 @@ NOTE: If the *Uses Own Identity Source* check box is:
 
 .Related information
 
-xref:managing-platform-services-for-s3-tenant-accounts.adoc[Managing platform services for S3 tenant accounts]
+link:managing-platform-services-for-s3-tenant-accounts.html[Managing platform services for S3 tenant accounts]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

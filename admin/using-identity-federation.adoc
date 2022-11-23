@@ -97,13 +97,13 @@ image::../media/ldap_config_active_directory.png[Identity Federation page showin
 
 .Related information
 
-xref:supported-ciphers-for-outgoing-tls-connections.adoc[Supported ciphers for outgoing TLS connections]
+link:supported-ciphers-for-outgoing-tls-connections.html[Supported ciphers for outgoing TLS connections]
 
-xref:requirements-for-sso.adoc[Requirements for using single sign-on]
+link:requirements-for-sso.html[Requirements for using single sign-on]
 
-xref:creating-tenant-account.adoc[Creating a tenant account]
+link:creating-tenant-account.html[Creating a tenant account]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
 === Guidelines for configuring an OpenLDAP server
 
@@ -179,4 +179,4 @@ Before you disable identity federation, you should be aware of the following:
 
 .Related information
 
-xref:disabling-single-sign-on.adoc[Disabling single sign-on]
+link:disabling-single-sign-on.html[Disabling single sign-on]

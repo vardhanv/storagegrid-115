@@ -44,4 +44,4 @@ If you want to retry the recovery after resetting the procedure, you must restor
 
 .Related information
 
-xref:preparing-appliance-for-reinstallation-platform-replacement-only.adoc[Preparing an appliance for reinstallation (platform replacement only)]
+link:preparing-appliance-for-reinstallation-platform-replacement-only.html[Preparing an appliance for reinstallation (platform replacement only)]

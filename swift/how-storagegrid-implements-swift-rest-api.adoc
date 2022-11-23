@@ -29,8 +29,8 @@ StorageGRID also allows you to control consistency on a per container basis. You
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:get-container-consistency-request.adoc[GET container consistency request]
+link:get-container-consistency-request.html[GET container consistency request]
 
-xref:put-container-consistency-request.adoc[PUT container consistency request]
+link:put-container-consistency-request.html[PUT container consistency request]

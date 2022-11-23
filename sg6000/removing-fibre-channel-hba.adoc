@@ -16,15 +16,15 @@ You might need to replace the Fibre Channel host bus adapter (HBA) in the SG6000
 * You have the correct replacement Fibre Channel HBA.
 * You have determined which SG6000-CN controller contains the Fibre Channel HBA to replace.
 +
-xref:verifying-fibre-channel-hba-to-replace.adoc[Verifying the Fibre Channel HBA to replace]
+link:verifying-fibre-channel-hba-to-replace.html[Verifying the Fibre Channel HBA to replace]
 
 * You have physically located the SG6000-CN controller where you are replacing the Fibre Channel HBA in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * You have removed the controller cover.
 +
-xref:removing-sg6000-cn-controller-cover.adoc[Removing the SG6000-CN controller cover]
+link:removing-sg6000-cn-controller-cover.html[Removing the SG6000-CN controller cover]
 
 .About this task
 
@@ -54,14 +54,14 @@ There are two adapters in the riser assembly: a Fibre Channel HBA and an Etherne
 
 Install the replacement Fibre Channel HBA.
 
-xref:reinstalling-fibre-channel-hba.adoc[Reinstalling the Fibre Channel HBA]
+link:reinstalling-fibre-channel-hba.html[Reinstalling the Fibre Channel HBA]
 
 .Related information
 
-xref:reinstalling-fibre-channel-hba.adoc[Reinstalling the Fibre Channel HBA]
+link:reinstalling-fibre-channel-hba.html[Reinstalling the Fibre Channel HBA]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

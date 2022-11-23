@@ -13,13 +13,13 @@ Alerts allow you to monitor various events and conditions within your StorageGRI
 
 .Related information
 
-xref:viewing-current-alerts.adoc[Viewing current alerts]
+link:viewing-current-alerts.html[Viewing current alerts]
 
-xref:viewing-resolved-alerts.adoc[Viewing resolved alerts]
+link:viewing-resolved-alerts.html[Viewing resolved alerts]
 
-xref:viewing-specific-alert.adoc[Viewing a specific alert]
+link:viewing-specific-alert.html[Viewing a specific alert]
 
-xref:alerts-reference.adoc[Alerts reference]
+link:alerts-reference.html[Alerts reference]
 
 == What alerts are
 The alert system provides an easy-to-use interface for detecting, evaluating, and resolving the issues that can occur during StorageGRID operation.
@@ -86,7 +86,7 @@ Whether this alert rule is currently enabled or disabled. The conditions for dis
 
 .Related information
 
-xref:alerts-reference.adoc[Alerts reference]
+link:alerts-reference.html[Alerts reference]
 
 === Creating custom alert rules
 You can create custom alert rules to define your own conditions for triggering alerts.
@@ -173,9 +173,9 @@ The dialog box closes, and the new custom alert rule appears in the Alert Rules 
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
+link:commonly-used-prometheus-metrics.html[Commonly used Prometheus metrics]
 
 https://prometheus.io/docs/querying/basics/[Prometheus: Query basics]
 
@@ -270,9 +270,9 @@ If you edited a default alert rule, *Default** appears in the Type column. If yo
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:commonly-used-prometheus-metrics.adoc[Commonly used Prometheus metrics]
+link:commonly-used-prometheus-metrics.html[Commonly used Prometheus metrics]
 
 https://prometheus.io/docs/querying/basics/[Prometheus: Query basics]
 
@@ -354,13 +354,13 @@ NOTE: Trap and inform notifications are also sent when certain alarms (legacy sy
 
 .Related information
 
-xref:using-snmp-monitoring.adoc[Using SNMP monitoring]
+link:using-snmp-monitoring.html[Using SNMP monitoring]
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:alarms-that-generate-snmp-notifications.adoc[Alarms that generate SNMP notifications (legacy system)]
+link:alarms-that-generate-snmp-notifications.html[Alarms that generate SNMP notifications (legacy system)]
 
 === Setting up email notifications for alerts
 If you want email notifications to be sent when alerts occur, you must provide information about your SMTP server. You must also enter email addresses for the recipients of alert notifications.
@@ -481,9 +481,9 @@ The email settings are saved.
 
 .Related information
 
-xref:managing-alerts.adoc[Troubleshooting alert email notifications]
+link:managing-alerts.html[Troubleshooting alert email notifications]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
 === Information included in alert email notifications
 After you configure the SMTP email server, email notifications are sent to the designated recipients when an alert is triggered, unless the alert rule is suppressed by a silence.
@@ -518,7 +518,7 @@ The hostname of the Admin Node that sent the notification.
 |===
 .Related information
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]
 
 === How StorageGRID groups alerts in email notifications
 To prevent an excessive number of email notifications from being sent when alerts are triggered, StorageGRID attempts to group multiple alerts in the same notification.
@@ -594,7 +594,7 @@ Technical support can use the information in the logs to help determine what wen
 
 .Related information
 
-xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+link:collecting-log-files-and-system-data.html[Collecting log files and system data]
 
 == Silencing alert notifications
 Optionally, you can configure silences to temporarily suppress alert notifications.
@@ -688,4 +688,4 @@ a|
 
 .Related information
 
-xref:configuring-snmp-agent.adoc[Configuring the SNMP agent]
+link:configuring-snmp-agent.html[Configuring the SNMP agent]

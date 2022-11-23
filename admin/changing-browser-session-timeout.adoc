@@ -46,6 +46,6 @@ The new setting does not affect currently signed in users. Users must sign in ag
 
 .Related information
 
-xref:how-sso-works.adoc[How single sign-on works]
+link:how-sso-works.html[How single sign-on works]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]

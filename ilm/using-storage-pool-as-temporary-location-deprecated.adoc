@@ -17,4 +17,4 @@ NOTE: If you select the Strict ingest behavior (Step 3 of the Create ILM Rule wi
 
 .Related information
 
-xref:data-protection-options-for-ingest.adoc[Data-protection options for ingest]
+link:data-protection-options-for-ingest.html[Data-protection options for ingest]

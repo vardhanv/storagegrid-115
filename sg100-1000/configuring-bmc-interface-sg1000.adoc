@@ -13,8 +13,8 @@ The user interface for the baseboard management controller (BMC) on the services
 
 .Steps
 
-* xref:changing-root-password-for-bmc-interface-sg1000.adoc[Changing the root password for the BMC interface]
-* xref:setting-ip-address-for-bmc-management-port-sg1000.adoc[Setting the IP address for the BMC management port]
-* xref:accessing-bmc-interface-sg1000.adoc[Accessing the BMC interface]
-* xref:configuring-snmp-settings-for-sg1000.adoc[Configuring SNMP settings for the services appliance]
-* xref:setting-up-email-notifications-for-alerts.adoc[Setting up email notifications for alerts]
+* link:changing-root-password-for-bmc-interface-sg1000.html[Changing the root password for the BMC interface]
+* link:setting-ip-address-for-bmc-management-port-sg1000.html[Setting the IP address for the BMC management port]
+* link:accessing-bmc-interface-sg1000.html[Accessing the BMC interface]
+* link:configuring-snmp-settings-for-sg1000.html[Configuring SNMP settings for the services appliance]
+* link:setting-up-email-notifications-for-alerts.html[Setting up email notifications for alerts]

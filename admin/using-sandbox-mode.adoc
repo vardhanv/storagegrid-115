@@ -71,4 +71,4 @@ image::../media/sso_sandbox_mode_enabled.gif[SSO Sandbox Mode Enabled]
 
 .Related information
 
-xref:requirements-for-sso.adoc[Requirements for using single sign-on]
+link:requirements-for-sso.html[Requirements for using single sign-on]

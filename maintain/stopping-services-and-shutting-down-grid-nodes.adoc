@@ -24,7 +24,7 @@ NOTE: If a single host includes more than one grid node, do not shut down the ho
 
 NOTE: If required, you can migrate nodes from one Linux host to another to perform host maintenance without impacting the functionality or availability of your grid.
 
-xref:linux-migrating-grid-node-to-new-host.adoc[Linux: Migrating a grid node to a new host]
+link:linux-migrating-grid-node-to-new-host.html[Linux: Migrating a grid node to a new host]
 
 .Steps
 
@@ -80,8 +80,8 @@ The StorageGRID grid has now been shut down.
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]

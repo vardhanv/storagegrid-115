@@ -23,4 +23,4 @@ Perform this procedure only if you are recovering a failed node that was hosted 
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]

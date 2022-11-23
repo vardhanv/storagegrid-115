@@ -224,8 +224,8 @@ And because object metadata capacity controls the maximum object count, when one
 
 * To learn how to monitor the object metadata capacity for each Storage Node:
 +
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]
 
 * To increase the object metadata capacity for your system, you must add new Storage Nodes:
 +
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

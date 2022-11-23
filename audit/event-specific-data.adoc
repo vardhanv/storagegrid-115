@@ -29,6 +29,6 @@ The `ATYP` element (underlined in the example) identifies which event generated 
 
 .Related information
 
-xref:common-elements-in-audit-messages.adoc[Common elements in audit messages]
+link:common-elements-in-audit-messages.html[Common elements in audit messages]
 
-xref:audit-messages-main.adoc[Audit messages]
+link:audit-messages-main.html[Audit messages]

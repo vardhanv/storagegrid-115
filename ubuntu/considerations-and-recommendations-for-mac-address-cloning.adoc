@@ -42,7 +42,7 @@ NOTE: If you do not want to use MAC address cloning and would rather allow all i
 
 To enable MAC cloning, see the instructions for creating node configuration files.
 
-xref:creating-node-configuration-files.adoc[Creating node configuration files]
+link:creating-node-configuration-files.html[Creating node configuration files]
 
 == MAC cloning example
 

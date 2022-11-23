@@ -11,20 +11,20 @@ summary: 'Learn how to apply a hotfix; recover a failed grid node; decommission 
 [.lead]
 Learn how to apply a hotfix; recover a failed grid node; decommission grid nodes and sites; and recover objects in the case of a system failure.
 
-* xref:introduction-to-storagegrid-recovery-and-maintenance.adoc[Introduction to StorageGRID recovery and maintenance]
+* link:introduction-to-storagegrid-recovery-and-maintenance.html[Introduction to StorageGRID recovery and maintenance]
 
-* xref:storagegrid-hotfix-procedure.adoc[StorageGRID hotfix procedure]
+* link:storagegrid-hotfix-procedure.html[StorageGRID hotfix procedure]
 
-* xref:grid-node-recovery-procedures.adoc[Grid node recovery procedures]
+* link:grid-node-recovery-procedures.html[Grid node recovery procedures]
 
-* xref:how-site-recovery-is-performed-by-technical-support.adoc[How site recovery is performed by technical support]
+* link:how-site-recovery-is-performed-by-technical-support.html[How site recovery is performed by technical support]
 
-* xref:decommission-procedure.adoc[Decommission procedure]
+* link:decommission-procedure.html[Decommission procedure]
 
-* xref:network-maintenance-procedures.adoc[Network maintenance procedures]
+* link:network-maintenance-procedures.html[Network maintenance procedures]
 
-* xref:host-level-and-middleware-procedures.adoc[Host-level and middleware procedures]
+* link:host-level-and-middleware-procedures.html[Host-level and middleware procedures]
 
-* xref:grid-node-procedures.adoc[Grid node procedures]
+* link:grid-node-procedures.html[Grid node procedures]
 
-* xref:appliance-node-cloning.adoc[Appliance node cloning]
+* link:appliance-node-cloning.html[Appliance node cloning]

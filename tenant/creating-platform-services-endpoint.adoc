@@ -27,7 +27,7 @@ NOTE: If you plan to use a bucket hosted on a StorageGRID system as an endpoint 
 
  ** Unique Resource Name (URN)
 +
-xref:specifying-urn-for-platform-services-endpoint.adoc[Specifying the URN for a platform services endpoint]
+link:specifying-urn-for-platform-services-endpoint.html[Specifying the URN for a platform services endpoint]
 
  ** Authentication credentials (if required):
   *** Access Key: Access key ID and secret access key
@@ -140,10 +140,10 @@ After you have configured an endpoint, you can use its URN to configure a platfo
 
 .Related information
 
-xref:specifying-urn-for-platform-services-endpoint.adoc[Specifying the URN for a platform services endpoint]
+link:specifying-urn-for-platform-services-endpoint.html[Specifying the URN for a platform services endpoint]
 
-xref:configuring-cloudmirror-replication.adoc[Configuring CloudMirror replication]
+link:configuring-cloudmirror-replication.html[Configuring CloudMirror replication]
 
-xref:configuring-event-notifications.adoc[Configuring event notifications]
+link:configuring-event-notifications.html[Configuring event notifications]
 
-xref:configuring-search-integration-service.adoc[Configuring the search integration service]
+link:configuring-search-integration-service.html[Configuring the search integration service]

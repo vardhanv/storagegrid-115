@@ -88,4 +88,4 @@ m|./debs/extras/ansible
 
 .Related information
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]

@@ -173,6 +173,6 @@ NOTE: You might lose your connection if you made changes to the network or link 
 
 .Related information
 
-xref:port-bond-modes-for-sg6000-cn-controller.adoc[Port bond modes for the SG6000-CN controller]
+link:port-bond-modes-for-sg6000-cn-controller.html[Port bond modes for the SG6000-CN controller]
 
-xref:configuring-storagegrid-ip-addresses-sg6000.adoc[Configuring StorageGRID IP addresses]
+link:configuring-storagegrid-ip-addresses-sg6000.html[Configuring StorageGRID IP addresses]

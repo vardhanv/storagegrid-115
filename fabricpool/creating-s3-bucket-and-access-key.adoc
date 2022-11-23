@@ -19,8 +19,8 @@ These instructions describe how to use the StorageGRID Tenant Manager to create 
 
 To learn more:
 
-* xref:../tenant/index.adoc[Use a tenant account]
-* xref:../s3/index.adoc[Use S3]
+* link:../tenant/index.html[Use a tenant account]
+* link:../s3/index.html[Use S3]
 
 .Steps
 . Sign in to the Tenant Manager.

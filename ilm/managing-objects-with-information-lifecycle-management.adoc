@@ -13,10 +13,10 @@ You manage the objects in a StorageGRID system by configuring information lifecy
 
 Designing and implementing ILM rules and the ILM policy requires careful planning. You must understand your operational requirements, the topology of your StorageGRID system, your object protection needs, and the available storage types. Then, you must determine how you want different types of objects to be copied, distributed, and stored.
 
-* xref:how-ilm-operates-throughout-objects-life.adoc[How ILM operates throughout an object's life]
-* xref:what-ilm-policy-is.adoc[What an ILM policy is]
-* xref:what-ilm-rule-is.adoc[What an ILM rule is]
-* xref:creating-storage-grades-storage-pools-ec-profiles-regions.adoc[Creating storage grades, storage pools, EC profiles, and regions]
-* xref:creating-ilm-rule.adoc[Creating an ILM rule]
-* xref:creating-ilm-policy.adoc[Creating an ILM policy]
-* xref:working-with-ilm-rules-and-ilm-policies.adoc[Working with ILM rules and ILM policies]
+* link:how-ilm-operates-throughout-objects-life.html[How ILM operates throughout an object's life]
+* link:what-ilm-policy-is.html[What an ILM policy is]
+* link:what-ilm-rule-is.html[What an ILM rule is]
+* link:creating-storage-grades-storage-pools-ec-profiles-regions.html[Creating storage grades, storage pools, EC profiles, and regions]
+* link:creating-ilm-rule.html[Creating an ILM rule]
+* link:creating-ilm-policy.html[Creating an ILM policy]
+* link:working-with-ilm-rules-and-ilm-policies.html[Working with ILM rules and ILM policies]

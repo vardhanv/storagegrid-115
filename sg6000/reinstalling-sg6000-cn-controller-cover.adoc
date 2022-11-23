@@ -31,4 +31,4 @@ If the cover is not fully seated, you might not be able to slide the SG6000-CN c
 
 Reinstall the controller in the cabinet or rack.
 
-xref:reinstalling-sg6000-cn-controller-into-cabinet-or-rack.adoc[Reinstalling the SG6000-CN controller into a cabinet or rack]
+link:reinstalling-sg6000-cn-controller-into-cabinet-or-rack.html[Reinstalling the SG6000-CN controller into a cabinet or rack]

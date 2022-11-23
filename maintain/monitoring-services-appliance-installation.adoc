@@ -43,11 +43,11 @@ image:../media/monitor_reinstallation_primary_admin.png[screenshot of 5th phase 
 |===
 | Type of recovery| Reference
 |Gateway Node
-|xref:selecting-start-recovery-to-configure-gateway-node.adoc[Selecting Start Recovery to configure a Gateway Node]
+|link:selecting-start-recovery-to-configure-gateway-node.html[Selecting Start Recovery to configure a Gateway Node]
 
 |Non-primary Admin Node
-|xref:selecting-start-recovery-to-configure-non-primary-admin-node.adoc[Selecting Start Recovery to configure a non-primary Admin Node]
+|link:selecting-start-recovery-to-configure-non-primary-admin-node.html[Selecting Start Recovery to configure a non-primary Admin Node]
 
 |Primary Admin Node
-|xref:configuring-replacement-primary-admin-node.adoc[Configuring the replacement primary Admin Node]
+|link:configuring-replacement-primary-admin-node.html[Configuring the replacement primary Admin Node]
 |===

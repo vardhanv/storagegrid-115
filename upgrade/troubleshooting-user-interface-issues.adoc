@@ -27,4 +27,4 @@ Clearing the cache removes outdated resources used by the previous version of St
 
 .Related information
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]

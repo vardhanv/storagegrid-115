@@ -13,6 +13,6 @@ You can use SANtricity Storage Manager to monitor the status of the storage disk
 
 .Steps
 
-* xref:setting-ip-address-for-e2700-controller.adoc[Setting the IP address for the E2700 controller]
-* xref:adding-appliance-to-santricity-storage-manager.adoc[Adding the appliance to SANtricity Storage Manager]
-* xref:setting-up-santricity-storage-manager.adoc[Setting up SANtricity Storage Manager]
+* link:setting-ip-address-for-e2700-controller.html[Setting the IP address for the E2700 controller]
+* link:adding-appliance-to-santricity-storage-manager.html[Adding the appliance to SANtricity Storage Manager]
+* link:setting-up-santricity-storage-manager.html[Setting up SANtricity Storage Manager]

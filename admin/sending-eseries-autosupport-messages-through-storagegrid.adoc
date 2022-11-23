@@ -25,7 +25,7 @@ Configure a special proxy server address in SANtricity System Manager to cause t
 
 If you want to configure the Admin proxy server in Grid Manager, see the instructions for configuring Admin proxy settings.
 
-xref:configuring-admin-proxy-settings.adoc[Configuring Admin proxy settings]
+link:configuring-admin-proxy-settings.html[Configuring Admin proxy settings]
 
 [NOTE]
 ====

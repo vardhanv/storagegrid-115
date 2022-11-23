@@ -32,11 +32,11 @@ You might see one or more of the following links:
 
 a|
 
-* xref:monitoring-node-connection-states.adoc[Monitoring node connection states]
-* xref:viewing-current-alerts.adoc[Viewing current alerts]
-* xref:viewing-resolved-alerts.adoc[Viewing resolved alerts]
-* xref:viewing-legacy-alarms.adoc[Viewing legacy alarms]
-* xref:../admin/index.adoc[Administer StorageGRID]
+* link:monitoring-node-connection-states.html[Monitoring node connection states]
+* link:viewing-current-alerts.html[Viewing current alerts]
+* link:viewing-resolved-alerts.html[Viewing resolved alerts]
+* link:viewing-legacy-alarms.html[Viewing legacy alarms]
+* link:../admin/index.html[Administer StorageGRID]
 
 |===
 
@@ -60,8 +60,8 @@ a|
 
 a|
 
-* xref:viewing-storage-tab.adoc[Viewing the Storage tab]
-* xref:monitoring-storage-capacity.adoc[Monitoring storage capacity]
+* link:viewing-storage-tab.html[Viewing the Storage tab]
+* link:monitoring-storage-capacity.html[Monitoring storage capacity]
 
 |===
 
@@ -86,8 +86,8 @@ a|
 
 a|
 
-* xref:viewing-ilm-tab.adoc[Viewing the ILM tab]
-* xref:../admin/index.adoc[Administer StorageGRID].
+* link:viewing-ilm-tab.html[Viewing the ILM tab]
+* link:../admin/index.html[Administer StorageGRID].
 
 |===
 
@@ -108,8 +108,8 @@ a|
 
 a|
 
-* xref:viewing-objects-tab.adoc[Viewing the Objects tab]
-* xref:../s3/index.adoc[Use S3]
-* xref:../swift/index.adoc[Use Swift]
+* link:viewing-objects-tab.html[Viewing the Objects tab]
+* link:../s3/index.html[Use S3]
+* link:../swift/index.html[Use Swift]
 
 |===

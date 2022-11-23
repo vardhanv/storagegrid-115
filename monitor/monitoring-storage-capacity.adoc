@@ -17,4 +17,4 @@ You can view storage capacity information for the entire grid, for each site, an
 
 .Related information
 
-xref:viewing-storage-tab.adoc[Viewing the Storage tab]
+link:viewing-storage-tab.html[Viewing the Storage tab]

@@ -25,6 +25,6 @@ In the case where object data without copies is lost, there is no recovery solut
 
 .Related information
 
-xref:troubleshooting-storagegrid-system.adoc[Investigating lost objects]
+link:troubleshooting-storagegrid-system.html[Investigating lost objects]
 
-xref:troubleshooting-storagegrid-system.adoc[Resetting lost and missing object counts]
+link:troubleshooting-storagegrid-system.html[Resetting lost and missing object counts]

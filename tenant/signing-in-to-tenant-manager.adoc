@@ -83,6 +83,6 @@ NOTE: If SSO is enabled for the StorageGRID system, you cannot change your passw
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]

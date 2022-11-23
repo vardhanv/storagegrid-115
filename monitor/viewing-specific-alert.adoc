@@ -116,6 +116,6 @@ IMPORTANT: Be careful when deciding to edit an alert rule. If you change trigger
 
 .Related information
 
-xref:managing-alerts.adoc[Silencing alert notifications]
+link:managing-alerts.html[Silencing alert notifications]
 
-xref:managing-alerts.adoc[Editing an alert rule]
+link:managing-alerts.html[Editing an alert rule]

@@ -39,4 +39,4 @@ NOTE: If an intermediate CA issued the StorageGRID certificate, you must provide
 
 .Related information
 
-xref:../fabricpool/index.adoc[Configure StorageGRID for FabricPool]
+link:../fabricpool/index.html[Configure StorageGRID for FabricPool]

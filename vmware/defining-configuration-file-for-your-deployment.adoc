@@ -17,6 +17,6 @@ You specify the information needed to deploy virtual grid nodes for StorageGRID 
 . Open `deploy-vsphere-ovftool.ini`.
 . Enter all of the information required to deploy VMware virtual grid nodes.
 +
-See xref:configuration-file-settings.adoc[Configuration file settings] for information.
+See link:configuration-file-settings.html[Configuration file settings] for information.
 
 . When you have entered and verified all of the necessary information, save and close the file.

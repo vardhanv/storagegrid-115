@@ -34,4 +34,4 @@ For more information about changing ILM when adding a new site, see the example 
 
 *Related information*
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

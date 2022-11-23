@@ -87,4 +87,4 @@ The Trap Destinations tab allows you to define one or more destinations for Stor
 
 .Related information
 
-xref:configuring-snmp-agent.adoc[Configuring the SNMP agent]
+link:configuring-snmp-agent.html[Configuring the SNMP agent]

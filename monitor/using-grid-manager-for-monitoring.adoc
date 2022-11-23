@@ -11,6 +11,6 @@ summary: 'The Grid Manager is the most important tool for monitoring your Storag
 [.lead]
 The Grid Manager is the most important tool for monitoring your StorageGRID system. This section introduces the Grid Manager Dashboard and provides detailed information about the Nodes pages.
 
-* xref:web-browser-requirements.adoc[Web browser requirements]
-* xref:viewing-dashboard.adoc[Viewing the Dashboard]
-* xref:viewing-nodes-page.adoc[Viewing the Nodes page]
+* link:web-browser-requirements.html[Web browser requirements]
+* link:viewing-dashboard.html[Viewing the Dashboard]
+* link:viewing-nodes-page.html[Viewing the Nodes page]

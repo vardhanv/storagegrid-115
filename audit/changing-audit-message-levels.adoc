@@ -75,12 +75,12 @@ NOTE: Audit protocol request headers are logged only if the audit level for *Cli
 
 .Related information
 
-xref:system-audit-messages.adoc[System audit messages]
+link:system-audit-messages.html[System audit messages]
 
-xref:object-storage-audit-messages.adoc[Object storage audit messages]
+link:object-storage-audit-messages.html[Object storage audit messages]
 
-xref:management-audit-message.adoc[Management audit message]
+link:management-audit-message.html[Management audit message]
 
-xref:client-read-audit-messages.adoc[Client read audit messages]
+link:client-read-audit-messages.html[Client read audit messages]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

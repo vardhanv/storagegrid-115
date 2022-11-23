@@ -15,11 +15,11 @@ Use one of the following procedures based on the version of SANtricity OS curren
 
 * If the storage controller is using SANtricity OS 08.42.20.00 (11.42) or newer, use the Grid Manager to perform the upgrade.
 +
-xref:upgrading-santricity-os-on-storage-controllers-using-grid-manager-sg6000.adoc[Upgrading SANtricity OS on the storage controllers using the Grid Manager]
+link:upgrading-santricity-os-on-storage-controllers-using-grid-manager-sg6000.html[Upgrading SANtricity OS on the storage controllers using the Grid Manager]
 
 * If the storage controller is using a SANtricity OS version older than 08.42.20.00 (11.42), use maintenance mode to perform the upgrade.
 +
-xref:upgrading-santricity-os-on-storage-controllers-using-maintenance-mode-sg6000.adoc[Upgrading SANtricity OS on the storage controllers using maintenance mode]
+link:upgrading-santricity-os-on-storage-controllers-using-maintenance-mode-sg6000.html[Upgrading SANtricity OS on the storage controllers using maintenance mode]
 
 IMPORTANT: When upgrading the SANtricity OS for your storage appliance, you must follow the instructions in the StorageGRID documentation. If you use any other instructions, your appliance could become inoperable.
 
@@ -29,4 +29,4 @@ https://mysupport.netapp.com/matrix[NetApp Interoperability Matrix Tool^]
 
 https://mysupport.netapp.com/site/products/all/details/eseries-santricityos/downloads-tab[NetApp Downloads: SANtricity OS^]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

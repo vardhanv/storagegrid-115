@@ -52,4 +52,4 @@ image::../media/delete_bucket_not_empty_message.png[Delete Bucket Not Empty Mess
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

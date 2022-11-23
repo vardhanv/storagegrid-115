@@ -18,7 +18,7 @@ To increase storage capacity, you can add one or two expansion shelves to an SG6
 * You have the expansion shelf and two SAS cables for each expansion shelf.
 * You have physically located the storage appliance where you are adding the expansion shelf in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 .About this task
 
@@ -36,15 +36,15 @@ Completing the procedure for one or two expansion shelves should take one hour o
 
 . Follow the instructions for installing 60-drive shelves into a cabinet or rack.
 +
-xref:sg6060-installing-60-drive-shelves-into-cabinet-or-rack.adoc[SG6060: Installing 60-drive shelves into a cabinet or rack]
+link:sg6060-installing-60-drive-shelves-into-cabinet-or-rack.html[SG6060: Installing 60-drive shelves into a cabinet or rack]
 
 . Follow the instructions for installing the drives.
 +
-xref:sg6060-installing-drives.adoc[SG6060: Installing the drives]
+link:sg6060-installing-drives.html[SG6060: Installing the drives]
 
 . From the Grid Manager, place the SG6000-CN controller into maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 . Connect each expansion shelf to the E2860 controller shelf as shown in the diagram.
 +
@@ -156,10 +156,10 @@ image::../media/storage_shelves_after_expansion.png[Storage Shelves After Expans
 
 .Related information
 
-xref:unpacking-boxes-sg6000.adoc[Unpacking the boxes (SG6000)]
+link:unpacking-boxes-sg6000.html[Unpacking the boxes (SG6000)]
 
-xref:sg6060-installing-60-drive-shelves-into-cabinet-or-rack.adoc[SG6060: Installing 60-drive shelves into a cabinet or rack]
+link:sg6060-installing-60-drive-shelves-into-cabinet-or-rack.html[SG6060: Installing 60-drive shelves into a cabinet or rack]
 
-xref:sg6060-installing-drives.adoc[SG6060: Installing the drives]
+link:sg6060-installing-drives.html[SG6060: Installing the drives]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

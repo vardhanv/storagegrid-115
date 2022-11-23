@@ -61,6 +61,6 @@ The name of the external S3 bucket or Azure container that was created for the C
 
 . Complete the Service Endpoint, Authentication and Server Verification sections of the page, based on the selected provider type.
 
-* xref:s3-authentication-details-for-cloud-storage-pool.adoc[S3: Specifying authentication details for a Cloud Storage Pool]
-* xref:c2s-s3-authentication-details-for-cloud-storage-pool.adoc[C2S S3: Specifying authentication details for a Cloud Storage Pool]
-* xref:azure-authentication-details-for-cloud-storage-pool.adoc[Azure: Specifying authentication details for a Cloud Storage Pool]
+* link:s3-authentication-details-for-cloud-storage-pool.html[S3: Specifying authentication details for a Cloud Storage Pool]
+* link:c2s-s3-authentication-details-for-cloud-storage-pool.html[C2S S3: Specifying authentication details for a Cloud Storage Pool]
+* link:azure-authentication-details-for-cloud-storage-pool.html[Azure: Specifying authentication details for a Cloud Storage Pool]

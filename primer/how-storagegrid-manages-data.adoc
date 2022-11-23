@@ -11,6 +11,6 @@ summary: 'As you begin working with the StorageGRID system, it is helpful to und
 [.lead]
 As you begin working with the StorageGRID system, it is helpful to understand how the StorageGRID system manages data.
 
-* xref:what-object-is.adoc[What an object is]
-* xref:how-object-data-is-protected.adoc[How object data is protected]
-* xref:life-of-object.adoc[The life of an object]
+* link:what-object-is.html[What an object is]
+* link:how-object-data-is-protected.html[How object data is protected]
+* link:life-of-object.html[The life of an object]

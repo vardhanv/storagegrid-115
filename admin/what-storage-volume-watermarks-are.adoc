@@ -49,4 +49,4 @@ The value of the Storage Volume Read-Write Watermark must be greater than the va
 
 .Related information
 
-xref:managing-full-storage-nodes.adoc[Managing full Storage Nodes]
+link:managing-full-storage-nodes.html[Managing full Storage Nodes]

@@ -105,6 +105,6 @@ The ORLM audit message can be issued a number of times for a single object. For 
 
 .Related information
 
-xref:object-ingest-transactions.adoc[Object ingest transactions]
+link:object-ingest-transactions.html[Object ingest transactions]
 
-xref:object-delete-transactions.adoc[Object delete transactions]
+link:object-delete-transactions.html[Object delete transactions]

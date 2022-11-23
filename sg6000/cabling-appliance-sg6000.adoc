@@ -159,6 +159,6 @@ Do not use management port 2 (P2) on the storage controllers (the RJ-45 port on 
 
 .Related information
 
-xref:port-bond-modes-for-sg6000-cn-controller.adoc[Port bond modes for the SG6000-CN controller]
+link:port-bond-modes-for-sg6000-cn-controller.html[Port bond modes for the SG6000-CN controller]
 
-xref:reinstalling-sg6000-cn-controller-into-cabinet-or-rack.adoc[Reinstalling the SG6000-CN controller into a cabinet or rack]
+link:reinstalling-sg6000-cn-controller-into-cabinet-or-rack.html[Reinstalling the SG6000-CN controller into a cabinet or rack]

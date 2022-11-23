@@ -32,6 +32,6 @@ After the global S3 Object Lock setting has been enabled, tenants can perform th
 
 .Related information
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]

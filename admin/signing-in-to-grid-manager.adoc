@@ -91,18 +91,18 @@ If you have signed in to one Admin Node, you can access other Admin Nodes withou
 
 .Related information
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]
 
-xref:controlling-access-through-firewalls.adoc[Controlling access through firewalls]
+link:controlling-access-through-firewalls.html[Controlling access through firewalls]
 
-xref:configuring-server-certificates.adoc[Configuring server certificates]
+link:configuring-server-certificates.html[Configuring server certificates]
 
-xref:configuring-sso.adoc[Configuring single sign-on]
+link:configuring-sso.html[Configuring single sign-on]
 
-xref:managing-admin-groups.adoc[Managing admin groups]
+link:managing-admin-groups.html[Managing admin groups]
 
-xref:managing-high-availability-groups.adoc[Managing high availability groups]
+link:managing-high-availability-groups.html[Managing high availability groups]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../monitor/index.adoc[Monitor & troubleshoot]
+link:../monitor/index.html[Monitor & troubleshoot]

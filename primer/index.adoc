@@ -11,9 +11,9 @@ summary: ''
 [.lead]
 Learn the basics of a NetApp StorageGRID system.
 
-* xref:about-storagegrid.adoc[About StorageGRID]
-* xref:storagegrid-architecture-and-network-topology.adoc[StorageGRID architecture and network topology]
-* xref:how-storagegrid-manages-data.adoc[How StorageGRID manages data]
-* xref:exploring-grid-manager.adoc[Exploring the Grid Manager]
-* xref:exploring-tenant-manager.adoc[Exploring the Tenant Manager]
-* xref:using-storagegrid.adoc[Using StorageGRID]
+* link:about-storagegrid.html[About StorageGRID]
+* link:storagegrid-architecture-and-network-topology.html[StorageGRID architecture and network topology]
+* link:how-storagegrid-manages-data.html[How StorageGRID manages data]
+* link:exploring-grid-manager.html[Exploring the Grid Manager]
+* link:exploring-tenant-manager.html[Exploring the Tenant Manager]
+* link:using-storagegrid.html[Using StorageGRID]

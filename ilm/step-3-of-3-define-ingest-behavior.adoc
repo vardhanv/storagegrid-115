@@ -56,10 +56,10 @@ The ILM rule is saved. The rule does not become active until it is added to an I
 
 .Related information
 
-xref:data-protection-options-for-ingest.adoc[Data-protection options for ingest]
+link:data-protection-options-for-ingest.html[Data-protection options for ingest]
 
-xref:advantages-disadvantages-of-ingest-options.adoc[Advantages, disadvantages, and limitations of the data-protection options]
+link:advantages-disadvantages-of-ingest-options.html[Advantages, disadvantages, and limitations of the data-protection options]
 
-xref:example-5-ilm-rules-and-policy-for-strict-ingest-behavior.adoc[Example 5: ILM rules and policy for Strict ingest behavior]
+link:example-5-ilm-rules-and-policy-for-strict-ingest-behavior.html[Example 5: ILM rules and policy for Strict ingest behavior]
 
-xref:creating-ilm-policy.adoc[Creating an ILM policy]
+link:creating-ilm-policy.html[Creating an ILM policy]

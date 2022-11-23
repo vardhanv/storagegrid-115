@@ -77,6 +77,6 @@ Users who do not have this permission do not see the *Platform services endpoint
 |===
 .Related information
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
 
-xref:../swift/index.adoc[Use Swift]
+link:../swift/index.html[Use Swift]

@@ -15,7 +15,7 @@ If you are using FabricPool to tier data to StorageGRID, you must understand the
 ====
 FabricPool has no knowledge of StorageGRID ILM rules or policies. Data loss can occur if the StorageGRID ILM policy is misconfigured.
 
-To learn more: xref:../ilm/index.adoc[Manage objects with ILM]
+To learn more: link:../ilm/index.html[Manage objects with ILM]
 ====
 
 == ILM guidelines for FabricPool data

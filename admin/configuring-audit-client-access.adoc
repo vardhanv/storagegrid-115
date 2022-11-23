@@ -21,8 +21,8 @@ NOTE: Audit export through CIFS/Samba has been deprecated and will be removed in
 
 .Related information
 
-xref:what-admin-node-is.adoc[What an Admin Node is]
+link:what-admin-node-is.html[What an Admin Node is]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]

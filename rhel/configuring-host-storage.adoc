@@ -15,9 +15,9 @@ You must allocate block storage volumes to each host.
 
 You have reviewed the following topics, which provide information you need to accomplish this task:
 
-xref:storage-and-performance-requirements.adoc[Storage and performance requirements]
+link:storage-and-performance-requirements.html[Storage and performance requirements]
 
-xref:node-container-migration-requirements.adoc[Node container migration requirements]
+link:node-container-migration-requirements.html[Node container migration requirements]
 
 .About this task
 
@@ -93,4 +93,4 @@ NOTE: If you are setting up shared storage to support StorageGRID node migration
 
 .Related information
 
-xref:installing-docker.adoc[Installing Docker]
+link:installing-docker.html[Installing Docker]

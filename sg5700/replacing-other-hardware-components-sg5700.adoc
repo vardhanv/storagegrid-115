@@ -16,7 +16,7 @@ You might need to replace a controller battery, drive, fan, or power supply, in 
 * You have the E-Series hardware replacement procedure.
 * The appliance has been placed maintenance mode if the component replacement procedure requires that you shut down the appliance.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 
@@ -63,6 +63,6 @@ Replacing a drive drawer in E2860 shelves
 |===
 .Related information
 
-xref:replacing-e2800-controller.adoc[Replacing the E2800 controller]
+link:replacing-e2800-controller.html[Replacing the E2800 controller]
 
 http://mysupport.netapp.com/info/web/ECMP1658252.html[NetApp E-Series Systems Documentation Site^]

@@ -11,16 +11,16 @@ summary: 'To deploy virtual grid nodes on Red Hat Enterprise Linux or CentOS hos
 [.lead]
 To deploy virtual grid nodes on Red Hat Enterprise Linux or CentOS hosts, you create node configuration files for all nodes, validate the files, and start the StorageGRID host service, which starts the nodes. If you need to deploy any StorageGRID appliance Storage Nodes, see the installation and maintenance instructions for the appliance after you have deployed all virtual nodes.
 
-* xref:creating-node-configuration-files.adoc[Creating node configuration files]
-* xref:validating-storagegrid-configuration.adoc[Validating the StorageGRID configuration]
-* xref:starting-storagegrid-host-service.adoc[Starting the StorageGRID host service]
+* link:creating-node-configuration-files.html[Creating node configuration files]
+* link:validating-storagegrid-configuration.html[Validating the StorageGRID configuration]
+* link:starting-storagegrid-host-service.html[Starting the StorageGRID host service]
 
 .Related information
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]

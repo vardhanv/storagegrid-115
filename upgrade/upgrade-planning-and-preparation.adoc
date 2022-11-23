@@ -12,11 +12,11 @@ summary: 'You must plan the upgrade of your StorageGRID system to ensure that th
 You must plan the upgrade of your StorageGRID system to ensure that the system is ready for the upgrade, and that the upgrade can be completed with minimal disruption.
 
 .Steps
-. xref:estimating-time-to-complete-upgrade.adoc[Estimating the time to complete an upgrade]
-. xref:how-your-system-is-affected-during-upgrade.adoc[How your system is affected during the upgrade]
-. xref:impact-of-upgrade-on-groups-and-user-accounts.adoc[Impact of an upgrade on groups and user accounts]
-. xref:verifying-installed-version-of-storagegrid.adoc[Verifying the installed version of StorageGRID]
-. xref:obtaining-required-materials-for-software-upgrade.adoc[Obtaining the required materials for a software upgrade]
-. xref:downloading-storagegrid-upgrade-files.adoc[Downloading the StorageGRID upgrade files]
-. xref:downloading-recovery-package.adoc[Downloading the Recovery Package]
-. xref:checking-systems-condition-before-upgrading-software.adoc[Checking the system's condition before upgrading software]
+. link:estimating-time-to-complete-upgrade.html[Estimating the time to complete an upgrade]
+. link:how-your-system-is-affected-during-upgrade.html[How your system is affected during the upgrade]
+. link:impact-of-upgrade-on-groups-and-user-accounts.html[Impact of an upgrade on groups and user accounts]
+. link:verifying-installed-version-of-storagegrid.html[Verifying the installed version of StorageGRID]
+. link:obtaining-required-materials-for-software-upgrade.html[Obtaining the required materials for a software upgrade]
+. link:downloading-storagegrid-upgrade-files.html[Downloading the StorageGRID upgrade files]
+. link:downloading-recovery-package.html[Downloading the Recovery Package]
+. link:checking-systems-condition-before-upgrading-software.html[Checking the system's condition before upgrading software]

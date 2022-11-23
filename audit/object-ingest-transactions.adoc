@@ -27,7 +27,7 @@ An S3 PUT ingest transaction has completed successfully.
 a|
 CBID, S3BK, S3KY
 a|
-xref:sput-s3-put.adoc[SPUT: S3 PUT]
+link:sput-s3-put.html[SPUT: S3 PUT]
 a|
 ORLM
 a|
@@ -37,7 +37,7 @@ The ILM policy has been satisfied for this object.
 a|
 CBID
 a|
-xref:orlm-object-rules-met.adoc[ORLM: Object Rules Met]
+link:orlm-object-rules-met.html[ORLM: Object Rules Met]
 |===
 
 == Swift ingest audit messages
@@ -54,7 +54,7 @@ A Swift PUT ingest transaction has successfully completed.
 a|
 CBID, WCON, WOBJ
 a|
-xref:wput-swift-put.adoc[WPUT: Swift PUT]
+link:wput-swift-put.html[WPUT: Swift PUT]
 a|
 ORLM
 a|
@@ -64,5 +64,5 @@ The ILM policy has been satisfied for this object.
 a|
 CBID
 a|
-xref:orlm-object-rules-met.adoc[ORLM: Object Rules Met]
+link:orlm-object-rules-met.html[ORLM: Object Rules Met]
 |===

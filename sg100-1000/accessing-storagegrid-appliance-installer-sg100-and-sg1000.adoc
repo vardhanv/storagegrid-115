@@ -75,4 +75,4 @@ image::../media/appliance_installer_home_services_appliance.png[Appliance Instal
 
 .Related information
 
-xref:web-browser-requirements.adoc[Web browser requirements]
+link:web-browser-requirements.html[Web browser requirements]

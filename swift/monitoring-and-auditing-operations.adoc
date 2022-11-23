@@ -83,7 +83,7 @@ audit.log
 
 .Related information
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
 === Swift operations tracked in the audit logs
 
@@ -112,10 +112,10 @@ See _Understanding audit messages_ for details about the information tracked for
 
 .Related information
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]
 
-xref:account-operations.adoc[Account operations]
+link:account-operations.html[Account operations]
 
-xref:container-operations.adoc[Container operations]
+link:container-operations.html[Container operations]
 
-xref:object-operations.adoc[Object operations]
+link:object-operations.html[Object operations]

@@ -171,4 +171,4 @@ IMPORTANT: The MTU value of the network must match the value configured on the s
 
 .Related information
 
-xref:changing-link-configuration-of-e5700sg-controller.adoc[Changing the link configuration of the E5700SG controller]
+link:changing-link-configuration-of-e5700sg-controller.html[Changing the link configuration of the E5700SG controller]

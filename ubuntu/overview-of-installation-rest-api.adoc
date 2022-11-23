@@ -35,4 +35,4 @@ The StorageGRID Installation API includes the following sections:
 
 .Related information
 
-xref:automating-installation.adoc[Automating the installation]
+link:automating-installation.html[Automating the installation]

@@ -15,11 +15,11 @@ Shut down the SG6000-CN controller to perform hardware maintenance.
 
 * You have physically located the SG6000-CN controller requiring maintenance in the data center.
 +
-xref:locating-controller-in-data-center.adoc[Locating the controller in a data center]
+link:locating-controller-in-data-center.html[Locating the controller in a data center]
 
 * The appliance has been placed maintenance mode.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 
@@ -58,7 +58,7 @@ image::../media/sg6060_rear_panel_power_led_on.jpg[SG6060 rear panel power LED]
  ** Use the controller BMC interface:
   ... Access the controller BMC interface.
 +
-xref:accessing-bmc-interface-sg6000.adoc[Accessing the BMC interface]
+link:accessing-bmc-interface-sg6000.html[Accessing the BMC interface]
 
   ... Select *Power Control*.
   ... Verify that the Power Actions indicates that the host is currently off.
@@ -67,4 +67,4 @@ image::../media/bmc_power_control_page_controller_off.png[BMC Power control page
 
 .Related information
 
-xref:removing-sg6000-cn-controller-from-cabinet-or-rack.adoc[Removing the SG6000-CN controller from a cabinet or rack]
+link:removing-sg6000-cn-controller-from-cabinet-or-rack.html[Removing the SG6000-CN controller from a cabinet or rack]

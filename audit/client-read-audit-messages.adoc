@@ -24,7 +24,7 @@ S3 GET: Logs a successful transaction to retrieve an object or list the objects 
 a|
 S3 client
 a|
-xref:sget-s3-get.adoc[SGET: S3 GET]
+link:sget-s3-get.html[SGET: S3 GET]
 a|
 SHEA
 a|
@@ -32,7 +32,7 @@ S3 HEAD: Logs a successful transaction to check for the existence of an object o
 a|
 S3 client
 a|
-xref:shea-s3-head.adoc[SHEA: S3 HEAD]
+link:shea-s3-head.html[SHEA: S3 HEAD]
 a|
 WGET
 a|
@@ -40,7 +40,7 @@ Swift GET: Logs a successful transaction to retrieve an object or list the objec
 a|
 Swift client
 a|
-xref:wget-swift-get.adoc[WGET: Swift GET]
+link:wget-swift-get.html[WGET: Swift GET]
 a|
 WHEA
 a|
@@ -48,5 +48,5 @@ Swift HEAD: Logs a successful transaction to check for the existence of an objec
 a|
 Swift client
 a|
-xref:whea-swift-head.adoc[WHEA: Swift HEAD]
+link:whea-swift-head.html[WHEA: Swift HEAD]
 |===

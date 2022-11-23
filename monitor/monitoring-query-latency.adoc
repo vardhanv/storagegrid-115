@@ -35,4 +35,4 @@ The example chart shows spikes in query latency during normal grid operation.
 
 .Related information
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]

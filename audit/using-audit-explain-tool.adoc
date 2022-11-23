@@ -91,4 +91,4 @@ NOTE: To reduce line lengths and to aid readability, timestamps are not shown by
 
 .Related information
 
-xref:sput-s3-put.adoc[SPUT: S3 PUT]
+link:sput-s3-put.html[SPUT: S3 PUT]

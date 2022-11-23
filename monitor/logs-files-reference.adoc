@@ -11,10 +11,10 @@ summary: 'The following sections list the logs used to capture events, diagnosti
 [.lead]
 The following sections list the logs used to capture events, diagnostic messages, and error conditions. You might be asked to collect log files and forward them to technical support to assist with troubleshooting.
 
-* xref:storagegrid-software-logs.adoc[StorageGRID software logs]
-* xref:deployment-and-maintenance-logs.adoc[Deployment and maintenance logs]
-* xref:logs-for-third-party-software.adoc[Logs for third-party software]
-* xref:about-bycast-log.adoc[About the bycast.log]
+* link:storagegrid-software-logs.html[StorageGRID software logs]
+* link:deployment-and-maintenance-logs.html[Deployment and maintenance logs]
+* link:logs-for-third-party-software.html[Logs for third-party software]
+* link:about-bycast-log.html[About the bycast.log]
 
 IMPORTANT: The tables in this section are for reference only. The logs are intended for advanced troubleshooting by technical support. Advanced techniques that involve reconstructing the problem history using the audit logs and the application log files are beyond the scope of this guide.
 
@@ -27,4 +27,4 @@ To access these logs, you can collect log files and system data (*Support* > *To
 
 .Related information
 
-xref:collecting-log-files-and-system-data.adoc[Collecting log files and system data]
+link:collecting-log-files-and-system-data.html[Collecting log files and system data]

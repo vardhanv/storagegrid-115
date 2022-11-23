@@ -58,7 +58,7 @@ After the appliance hardware has been installed and configured, you can deploy t
 a|
 Deploying an appliance Gateway or Admin Node in a new StorageGRID system
 a|
-xref:deploying-services-appliance-node.adoc[Deploying a services appliance node]
+link:deploying-services-appliance-node.html[Deploying a services appliance node]
 a|
 Adding an appliance Gateway or Admin Node to an existing StorageGRID system
 a|
@@ -71,14 +71,14 @@ Instructions for recovery and maintenance
 
 .Related information
 
-xref:preparing-for-installation-sg100-and-sg1000.adoc[Preparing for installation]
+link:preparing-for-installation-sg100-and-sg1000.html[Preparing for installation]
 
-xref:installing-hardware-sg100-and-sg1000.adoc[Installing the hardware]
+link:installing-hardware-sg100-and-sg1000.html[Installing the hardware]
 
-xref:configuring-storagegrid-connections-sg100-and-sg1000.adoc[Configuring StorageGRID connections]
+link:configuring-storagegrid-connections-sg100-and-sg1000.html[Configuring StorageGRID connections]
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

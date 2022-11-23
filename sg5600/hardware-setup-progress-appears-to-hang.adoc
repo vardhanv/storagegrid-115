@@ -47,9 +47,9 @@ E-Series documentation
 
 .Related information
 
-xref:e5600sg-controller-seven-segment-display-codes.adoc[E5600SG controller seven-segment display codes]
+link:e5600sg-controller-seven-segment-display-codes.html[E5600SG controller seven-segment display codes]
 
-xref:he-error-error-synchronizing-with-santricity-os-software.adoc[HE error: Error synchronizing with SANtricity OS Software]
+link:he-error-error-synchronizing-with-santricity-os-software.html[HE error: Error synchronizing with SANtricity OS Software]
 
 https://library.netapp.com/ecm/ecm_download_file/ECMLP2344477[E2700 Controller-Drive Tray and Related Drive Trays Installation Guide^]
 

@@ -46,4 +46,4 @@ The new firewall rules are immediately added and enforced. Existing client conne
 
 .Related information
 
-xref:configuring-load-balancer-endpoints.adoc[Configuring load balancer endpoints]
+link:configuring-load-balancer-endpoints.html[Configuring load balancer endpoints]

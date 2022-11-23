@@ -61,6 +61,6 @@ For procedures on how to manage a full Storage Node, see the instructions for ad
 
 .Related information
 
-xref:../expand/index.adoc[Expand your grid]
+link:../expand/index.html[Expand your grid]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]

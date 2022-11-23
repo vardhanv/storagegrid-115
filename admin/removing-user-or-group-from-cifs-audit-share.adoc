@@ -80,4 +80,4 @@ Press return to continue.
 
 .Related information
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]

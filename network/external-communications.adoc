@@ -450,18 +450,18 @@ Swift-related external traffic to Storage Nodes (HTTP).
 |===
 .Related information
 
-xref:internal-grid-node-communications.adoc[Internal grid node communications]
+link:internal-grid-node-communications.html[Internal grid node communications]
 
-xref:../rhel/index.adoc[Install Red Hat Enterprise Linux or CentOS]
+link:../rhel/index.html[Install Red Hat Enterprise Linux or CentOS]
 
-xref:../ubuntu/index.adoc[Install Ubuntu or Debian]
+link:../ubuntu/index.html[Install Ubuntu or Debian]
 
-xref:../vmware/index.adoc[Install VMware]
+link:../vmware/index.html[Install VMware]
 
-xref:../sg100-1000/index.adoc[SG100 & SG1000 services appliances]
+link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
-xref:../sg6000/index.adoc[SG6000 storage appliances]
+link:../sg6000/index.html[SG6000 storage appliances]
 
-xref:../sg5700/index.adoc[SG5700 storage appliances]
+link:../sg5700/index.html[SG5700 storage appliances]
 
-xref:../sg5600/index.adoc[SG5600 storage appliances]
+link:../sg5600/index.html[SG5600 storage appliances]

@@ -11,14 +11,14 @@ summary: 'You can use the Grid Manager to configure and manage StorageGRID netwo
 [.lead]
 You can use the Grid Manager to configure and manage StorageGRID networks and connections.
 
-See xref:configuring-client-connections.adoc[Configuring S3 and Swift client connections] to learn how to connect S3 or Swift clients.
+See link:configuring-client-connections.html[Configuring S3 and Swift client connections] to learn how to connect S3 or Swift clients.
 
-* xref:guidelines-for-storagegrid-networks.adoc[Guidelines for StorageGRID networks]
-* xref:viewing-ip-addresses.adoc[Viewing IP addresses]
-* xref:supported-ciphers-for-outgoing-tls-connections.adoc[Supported ciphers for outgoing TLS connections]
-* xref:changing-network-transfer-encryption.adoc[Changing network transfer encryption]
-* xref:configuring-server-certificates.adoc[Configuring server certificates]
-* xref:configuring-storage-proxy-settings.adoc[Configuring Storage proxy settings]
-* xref:configuring-admin-proxy-settings.adoc[Configuring Admin proxy settings]
-* xref:managing-traffic-classification-policies.adoc[Managing traffic classification policies]
-* xref:what-link-costs-are.adoc[What link costs are]
+* link:guidelines-for-storagegrid-networks.html[Guidelines for StorageGRID networks]
+* link:viewing-ip-addresses.html[Viewing IP addresses]
+* link:supported-ciphers-for-outgoing-tls-connections.html[Supported ciphers for outgoing TLS connections]
+* link:changing-network-transfer-encryption.html[Changing network transfer encryption]
+* link:configuring-server-certificates.html[Configuring server certificates]
+* link:configuring-storage-proxy-settings.html[Configuring Storage proxy settings]
+* link:configuring-admin-proxy-settings.html[Configuring Admin proxy settings]
+* link:managing-traffic-classification-policies.html[Managing traffic classification policies]
+* link:what-link-costs-are.html[What link costs are]

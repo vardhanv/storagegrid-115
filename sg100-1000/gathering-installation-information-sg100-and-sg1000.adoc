@@ -299,8 +299,8 @@ a|
 |===
 .Related information
 
-xref:sg100-and-sg1000-appliances-overview.adoc[SG100 and SG1000 appliances overview]
+link:sg100-and-sg1000-appliances-overview.html[SG100 and SG1000 appliances overview]
 
-xref:cabling-appliance-sg100-and-sg1000.adoc[Cabling the appliance SG100 and SG1000)]
+link:cabling-appliance-sg100-and-sg1000.html[Cabling the appliance SG100 and SG1000)]
 
-xref:configuring-storagegrid-ip-addresses-sg100-and-sg1000.adoc[Configuring StorageGRID IP addresses]
+link:configuring-storagegrid-ip-addresses-sg100-and-sg1000.html[Configuring StorageGRID IP addresses]

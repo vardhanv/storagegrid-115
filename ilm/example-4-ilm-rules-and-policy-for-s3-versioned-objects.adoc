@@ -19,9 +19,9 @@ NOTE: If you create ILM policies to manage noncurrent object versions, be aware 
 
 .Related information
 
-xref:how-s3-versioned-objects-are-deleted.adoc[How S3 versioned objects are deleted]
+link:how-s3-versioned-objects-are-deleted.html[How S3 versioned objects are deleted]
 
-xref:verifying-ilm-policy-with-object-metadata-lookup.adoc[Verifying an ILM policy with object metadata lookup]
+link:verifying-ilm-policy-with-object-metadata-lookup.html[Verifying an ILM policy with object metadata lookup]
 
 == ILM rule 1 for example 4: Save three copies for 10 years
 
@@ -105,4 +105,4 @@ NOTE: To simulate noncurrent object versions, you must use that version's UUID o
 
 .Related information
 
-xref:verifying-ilm-policy-with-object-metadata-lookup.adoc[Verifying an ILM policy with object metadata lookup]
+link:verifying-ilm-policy-with-object-metadata-lookup.html[Verifying an ILM policy with object metadata lookup]

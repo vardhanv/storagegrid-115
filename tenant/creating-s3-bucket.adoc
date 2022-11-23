@@ -17,7 +17,7 @@ You can use the Tenant Manager to create S3 buckets for object data. When you cr
 * You must belong to a user group that has the Manage All Buckets or the Root Access permission. These permissions override the permissions settings in group or bucket policies.
 * If you plan to create a bucket with S3 Object Lock, the global S3 Object Lock setting must have been enabled for the StorageGRID system and you must have reviewed the requirements for S3 Object Lock buckets and objects.
 +
-xref:using-s3-object-lock.adoc[Using S3 Object Lock]
+link:using-s3-object-lock.html[Using S3 Object Lock]
 
 .Steps
 . Select *STORAGE (S3)* > *Buckets*.
@@ -75,8 +75,8 @@ The bucket is created and added to the table on the Buckets page.
 
 .Related information
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]
 
-xref:understanding-tenant-management-api.adoc[Understanding the Tenant Management API]
+link:understanding-tenant-management-api.html[Understanding the Tenant Management API]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]

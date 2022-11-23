@@ -13,8 +13,8 @@ The user interface for the baseboard management controller (BMC) on the SG6000-C
 
 .Steps
 
-* xref:changing-root-password-for-bmc-interface-sg6000.adoc[Changing the root password for the BMC interface]
-* xref:setting-ip-address-for-bmc-management-port-sg6000.adoc[Setting the IP address for the BMC management port]
-* xref:accessing-bmc-interface-sg6000.adoc[Accessing the BMC interface]
-* xref:configuring-snmp-settings-for-sg6000-cn-controller.adoc[Configuring SNMP settings for the SG6000-CN controller]
-* xref:setting-up-email-notifications-for-alerts.adoc[Setting up email notifications for alerts]
+* link:changing-root-password-for-bmc-interface-sg6000.html[Changing the root password for the BMC interface]
+* link:setting-ip-address-for-bmc-management-port-sg6000.html[Setting the IP address for the BMC management port]
+* link:accessing-bmc-interface-sg6000.html[Accessing the BMC interface]
+* link:configuring-snmp-settings-for-sg6000-cn-controller.html[Configuring SNMP settings for the SG6000-CN controller]
+* link:setting-up-email-notifications-for-alerts.html[Setting up email notifications for alerts]

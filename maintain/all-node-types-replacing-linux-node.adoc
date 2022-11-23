@@ -17,8 +17,8 @@ This procedure is only performed as one step in the process of recovering softwa
 
 If more than one grid node is hosted on a physical or virtual Linux host, you can recover the grid nodes in any order. However, recovering a primary Admin Node first, if present, prevents the recovery of other grid nodes from stalling as they try to contact the primary Admin Node to register for recovery.
 
-. xref:deploying-new-linux-hosts.adoc[Deploying new Linux hosts]
-. xref:restoring-existing-nodes.adoc[Restoring grid nodes to the host]
+. link:deploying-new-linux-hosts.html[Deploying new Linux hosts]
+. link:restoring-existing-nodes.html[Restoring grid nodes to the host]
 . link:whats-next-performing-additional-recovery-steps-if-required.html[What's next: Performing additional recovery steps, if required]
 
 .Related information

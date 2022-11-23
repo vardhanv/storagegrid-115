@@ -23,6 +23,6 @@ If you are interested in automating all or part of your StorageGRID deployment, 
 
 .Related information
 
-xref:overview-of-installation-rest-api.adoc[Overview of the installation REST API]
+link:overview-of-installation-rest-api.html[Overview of the installation REST API]
 
-xref:automating-installation.adoc[Automating the installation]
+link:automating-installation.html[Automating the installation]

@@ -18,7 +18,7 @@ For storage controllers currently using SANtricity OS older than 08.42.20.00 (11
 +
 NOTE: Maintenance mode interrupts the connection to the storage controller.
 +
-xref:placing-appliance-into-maintenance-mode.adoc[Placing an appliance into maintenance mode]
+link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
 
 .About this task
 
@@ -50,4 +50,4 @@ image::../media/node_rejoin_grid_confirmation.png[Appliance node rejoined grid]
 
 https://mysupport.netapp.com/matrix[NetApp Interoperability Matrix Tool^]
 
-xref:upgrading-santricity-os-on-storage-controllers-using-grid-manager-sg6000.adoc[Upgrading SANtricity OS on the storage controllers using the Grid Manager]
+link:upgrading-santricity-os-on-storage-controllers-using-grid-manager-sg6000.html[Upgrading SANtricity OS on the storage controllers using the Grid Manager]

@@ -75,7 +75,7 @@ a|
 |===
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
 == Supported hashing and encryption algorithms for TLS libraries
 The StorageGRID system supports a limited set of cipher suites that client applications can use when establishing a Transport Layer Security (TLS) session.
@@ -117,4 +117,4 @@ TLS_RSA_WITH_AES_256_GCM_SHA384
 
 .Related information
 
-xref:configuring-tenant-accounts-and-connections.adoc[How client connections can be configured]
+link:configuring-tenant-accounts-and-connections.html[How client connections can be configured]

@@ -31,12 +31,12 @@ For more information about untrusted Client Networks, see the instructions for a
 
 .Related information
 
-xref:network-port-reference.adoc[Network port reference]
+link:network-port-reference.html[Network port reference]
 
-xref:../primer/index.adoc[Grid primer]
+link:../primer/index.html[Grid primer]
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../tenant/index.adoc[Use a tenant account]
+link:../tenant/index.html[Use a tenant account]
 
-xref:../ilm/index.adoc[Manage objects with ILM]
+link:../ilm/index.html[Manage objects with ILM]

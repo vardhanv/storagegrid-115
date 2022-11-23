@@ -29,4 +29,4 @@ Before you disable identity federation, you should be aware of the following:
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]

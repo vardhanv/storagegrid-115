@@ -41,8 +41,8 @@ Use the NetApp Interoperability Matrix Tool to get a list of supported versions.
 
 https://mysupport.netapp.com/site/products/all/details/storagegrid/downloads-tab[NetApp Downloads: StorageGRID^]
 
-xref:../upgrade/index.adoc[Upgrade software]
+link:../upgrade/index.html[Upgrade software]
 
-xref:../maintain/index.adoc[Maintain & recover]
+link:../maintain/index.html[Maintain & recover]
 
 https://mysupport.netapp.com/matrix[NetApp Interoperability Matrix Tool^]

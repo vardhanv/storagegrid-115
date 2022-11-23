@@ -13,9 +13,9 @@ You use the StorageGRID Key Management Server wizard to add each KMS or KMS clus
 
 .What you'll need
 
-* You must have reviewed the xref:kms-considerations-and-requirements.adoc[considerations and requirements for using a key management server].
+* You must have reviewed the link:kms-considerations-and-requirements.html[considerations and requirements for using a key management server].
 
-* You must have xref:kms-configuring-storagegrid-as-client.adoc[configured StorageGRID as a client in the KMS], and you must have the required information for each KMS or KMS cluster
+* You must have link:kms-configuring-storagegrid-as-client.html[configured StorageGRID as a client in the KMS], and you must have the required information for each KMS or KMS cluster
 
 * You must have the Root Access permission.
 * You must be signed in to the Grid Manager using a supported browser.
@@ -24,10 +24,10 @@ You use the StorageGRID Key Management Server wizard to add each KMS or KMS clus
 
 If possible, configure any site-specific key management servers before configuring a default KMS that applies to all sites not managed by another KMS. If you create the default KMS first, all node-encrypted appliances in the grid will be encrypted by the default KMS. If you want to create a site-specific KMS later, you must first copy the current version of the encryption key from the default KMS to the new KMS.
 
-xref:kms-considerations-for-changing-for-site.adoc[Considerations for changing the KMS for a site]
+link:kms-considerations-for-changing-for-site.html[Considerations for changing the KMS for a site]
 
 .Steps
 
-. xref:kms-adding-enter-kms-details.adoc[Step 1: Enter KMS Details]
-. xref:kms-adding-upload-server-certificate.adoc[Step 2: Upload Server Certificate]
-. xref:kms-adding-upload-client-certificates.adoc[Step 3: Upload Client Certificates]
+. link:kms-adding-enter-kms-details.html[Step 1: Enter KMS Details]
+. link:kms-adding-upload-server-certificate.html[Step 2: Upload Server Certificate]
+. link:kms-adding-upload-client-certificates.html[Step 3: Upload Client Certificates]

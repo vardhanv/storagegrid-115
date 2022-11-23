@@ -58,4 +58,4 @@ You can now select these regions from the *Location Constraint* list on the Adva
 
 .Related information
 
-xref:using-advanced-filters-in-ilm-rules.adoc[Using advanced filters in ILM rules]
+link:using-advanced-filters-in-ilm-rules.html[Using advanced filters in ILM rules]

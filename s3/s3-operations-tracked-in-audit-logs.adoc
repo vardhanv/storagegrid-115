@@ -39,6 +39,6 @@ Several bucket operations and object operations are tracked in the StorageGRID a
 
 .Related information
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on buckets]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on buckets]
 
-xref:s3-rest-api-supported-operations-and-limitations.adoc[Operations on objects]
+link:s3-rest-api-supported-operations-and-limitations.html[Operations on objects]

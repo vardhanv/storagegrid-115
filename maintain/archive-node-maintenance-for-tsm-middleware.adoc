@@ -179,6 +179,6 @@ NOTE: The `/proc/CMSI/Object_Lost` command is only valid for lost objects that a
 
 .Related information
 
-xref:../admin/index.adoc[Administer StorageGRID]
+link:../admin/index.html[Administer StorageGRID]
 
-xref:../audit/index.adoc[Review audit logs]
+link:../audit/index.html[Review audit logs]

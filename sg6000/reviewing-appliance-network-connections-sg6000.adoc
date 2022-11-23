@@ -23,10 +23,10 @@ NOTE: For detailed information about StorageGRID networks, see the _Grid Primer_
 
 .Related information
 
-xref:gathering-installation-information-sg6000.adoc[Gathering installation information (SG6000)]
+link:gathering-installation-information-sg6000.html[Gathering installation information (SG6000)]
 
-xref:cabling-appliance-sg6000.adoc[Cabling the appliance (SG6000)]
+link:cabling-appliance-sg6000.html[Cabling the appliance (SG6000)]
 
-xref:port-bond-modes-for-sg6000-cn-controller.adoc[Port bond modes for the SG6000-CN controller]
+link:port-bond-modes-for-sg6000-cn-controller.html[Port bond modes for the SG6000-CN controller]
 
-xref:../network/index.adoc[Network guidelines]
+link:../network/index.html[Network guidelines]

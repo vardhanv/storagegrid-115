@@ -15,9 +15,9 @@ The StorageGRID system supports most operations in the OpenStack Swift API. Befo
 
 The following Swift API operations are supported:
 
-* xref:account-operations.adoc[Account operations]
-* xref:container-operations.adoc[Container operations]
-* xref:object-operations.adoc[Object operations]
+* link:account-operations.html[Account operations]
+* link:container-operations.html[Container operations]
+* link:object-operations.html[Object operations]
 
 == Common response headers for all operations
 

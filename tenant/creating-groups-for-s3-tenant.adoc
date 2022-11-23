@@ -66,6 +66,6 @@ The group you created appears in the list of groups. Changes might take up to 15
 
 .Related information
 
-xref:tenant-management-permissions.adoc[Tenant management permissions]
+link:tenant-management-permissions.html[Tenant management permissions]
 
-xref:../s3/index.adoc[Use S3]
+link:../s3/index.html[Use S3]
