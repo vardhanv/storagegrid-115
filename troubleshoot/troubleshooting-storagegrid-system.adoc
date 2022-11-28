@@ -82,7 +82,7 @@ After you have defined the problem and have assessed its risk and impact, collec
 |Create timeline of recent changes
 |Changes to your StorageGRID system, its configuration, or its environment can cause new behavior.
 |
-* link:troubleshooting-storagegrid-system.html[Creating a timeline of recent changes]
+* <<creating-timeline-of-recent-changes,Creating a timeline of recent changes>>
 
 |Review alerts and alarms
 |Alerts and alarms can help you quickly determine the root cause of a problem by providing important clues as to the underlying issues that might be causing it.
@@ -95,8 +95,7 @@ Review alerts and alarms triggered in the past for additional insights.
 * link:../monitor/viewing-current-alerts.html[Viewing current alerts]
 * link:../monitor/viewing-legacy-alarms.html[Viewing legacy alarms]
 * link:../monitor/viewing-resolved-alerts.html[Viewing resolved alerts]
-* link:../monitor/managing-alarms.html[Reviewing historical alarms and alarm frequency (legacy system)]
-
+* link:../monitor/managing-alarms.html#reviewing-historical-alarms-and-alarm-frequency-legacy-system[Reviewing historical alarms and alarm frequency (legacy system)]
 |Monitor events
 |Events include any system error or fault events for a node, including errors such as network errors. Monitor events to learn more about issues or to help with troubleshooting.
 |
@@ -111,7 +110,7 @@ Review alerts and alarms triggered in the past for additional insights.
 |Establish baselines
 |Collect information about the normal levels of various operational values. These baseline values, and deviations from these baselines, can provide valuable clues.
 |
-* link:troubleshooting-storagegrid-system.html[Establishing baselines]
+* <<establishing-baselines,Establishing baselines>>
 
 |Perform ingest and retrieval tests
 |To troubleshoot performance issues with ingest and retrieval, use a workstation to store and retrieve objects. Compare results against those seen when using the client application.
@@ -135,6 +134,7 @@ Review alerts and alarms triggered in the past for additional insights.
 * link:../monitor/reviewing-support-metrics.html[Reviewing support metrics]
 |===
 
+[[creating-timeline-of-recent-changes]]
 ==== Creating a timeline of recent changes
 
 When a problem occurs, you should consider what has changed recently and when those changes occurred.
@@ -191,6 +191,7 @@ Here are some examples of potentially significant changes:
 * Have any configuration changes been made to the Archive Node?
 * Have any other changes been made to the StorageGRID system or its environment?
 
+[[establishing-baselines]]
 ==== Establishing baselines
 
 You can establish baselines for your system by recording the normal levels of various operational values. In the future, you can compare current values to these baselines to help detect and resolve abnormal values.

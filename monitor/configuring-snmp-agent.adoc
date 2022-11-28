@@ -50,7 +50,7 @@ The fields in this section are used for community-based authentication in SNMPv1
 
  .. In the *Default Trap Community* field, optionally enter the default community string you want to use for trap destinations.
 +
-As required, you can provide a different ("`custom`") community string when you define a specific trap destination in step <<select_trap_destination,Select_trap_destination>>.
+As required, you can provide a different ("`custom`") community string when you <<select_trap_destination,define a specific trap destination>>.
 +
 *Default Trap Community* can be a maximum of 32 characters and cannot contain whitespace characters.
 
@@ -146,8 +146,7 @@ The USM user is created and added to the table.
 +
 image::../media/snmp_other_config_usm_users_table.png[SNMP Other Config USM User Table]
 
-[#select_trap_destination, start=10]
-. In the Other Configurations section, select the Trap Destinations tab.
+. [[select_trap_destination]]In the Other Configurations section, select the Trap Destinations tab.
 +
 The Trap Destinations tab allows you to define one or more destinations for StorageGRID trap or inform notifications. When you enable the SNMP agent and click *Save*, StorageGRID starts sending notifications to each defined destination. Notifications are sent when alerts and alarms are triggered. Standard notifications are also sent for the supported MIB-II entities (for example, ifDown and coldStart).
 

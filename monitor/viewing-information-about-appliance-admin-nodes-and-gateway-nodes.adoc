@@ -82,7 +82,7 @@ Compute Controller Chassis Temperature
 a|
 The temperature status of the compute controller.
 |===
-[start=3}
+
  .. Confirm that all statuses are "`Nominal.`"
 +
 If a status is not "`Nominal,`" review any current alerts.

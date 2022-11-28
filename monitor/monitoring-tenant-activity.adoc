@@ -91,6 +91,7 @@ image::../media/traffic_classification_policies_main_screen_w_examples.png[Traff
  .. Analyze the graphs to determine how often the policy is limiting traffic and whether you need to adjust the policy.
 +
 To create, edit, or delete traffic classification policies, see the instructions for administering StorageGRID.
+
 . Optionally, use the audit log for more granular monitoring of a tenant's activities.
 +
 For instance, you can monitor the following types of information:
@@ -100,11 +101,9 @@ For instance, you can monitor the following types of information:
  ** The ILM rule applied to objects
  ** The source IP of client requests
 
-Audit logs are written to text files that you can analyze using your choice of log analysis tool. This allows you to better understand client activities, or to implement sophisticated chargeback and billing models.
++
+Audit logs are written to text files that you can analyze using your choice of log analysis tool. This allows you to better understand client activities, or to implement sophisticated chargeback and billing models. See the instructions for understanding audit messages for more information.
 
-See the instructions for understanding audit messages for more information.
-
-[start=8}
 . Optionally, use Prometheus metrics to report on tenant activity:
  ** In the Grid Manager, select *Support* > *Tools* > *Metrics*. You can use existing dashboards, such as S3 Overview, to review client activities.
 +
