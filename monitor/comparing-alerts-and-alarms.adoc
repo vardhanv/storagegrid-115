@@ -58,7 +58,9 @@ As required, additional information is provided in the StorageGRID documentation
 link:alerts-reference.html[Alerts reference]
 
 a|
-You can learn about an alarm by clicking the attribute name, or you can search for an alarm code in the StorageGRID documentation.link:alarms-reference.html[Alarms reference (legacy system)]
+You can learn about an alarm by clicking the attribute name, or you can search for an alarm code in the StorageGRID documentation.
+
+link:alarms-reference.html[Alarms reference (legacy system)]
 
 a|
 Where can I see a list of alerts or alarms have been resolved?
@@ -70,7 +72,9 @@ a|
 link:viewing-resolved-alerts.html[Viewing resolved alerts]
 
 a|
-Select *Support* > *Alarms (legacy)* > *Historical Alarms*. link:managing-alarms.html[Reviewing historical alarms and alarm frequency (legacy system)]
+Select *Support* > *Alarms (legacy)* > *Historical Alarms*.
+
+link:managing-alarms.html[Reviewing historical alarms and alarm frequency (legacy system)]
 
 a|
 Where do I manage the settings?

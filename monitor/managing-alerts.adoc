@@ -108,6 +108,8 @@ For example, to test the expression `node_memory_MemTotal_bytes < 24000000000`, 
 
 * Do not assume a custom alert is working unless you have validated that the alert is triggered when expected.
 
+.Steps
+
 . Select *Alerts* > *Alert Rules*.
 +
 The Alert Rules page appears.
@@ -492,29 +494,24 @@ Email notifications include the following information:
 
 image::../media/alerts_email_notification.png[Alerts Email Notification]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
 | Callout| Description
-a|
-1
-a|
-The name of the alert, followed by the number of active instances of this alert.
-a|
-2
-a|
-The description of the alert.
-a|
-3
-a|
-Any recommended actions for the alert.
-a|
-4
-a|
-Details about each active instance of the alert, including the node and site affected, the alert severity, the UTC time when the alert rule was triggered, and the name of the affected job and service.
-a|
-5
-a|
-The hostname of the Admin Node that sent the notification.
+
+|1
+|The name of the alert, followed by the number of active instances of this alert.
+
+|2
+|The description of the alert.
+
+|3
+|Any recommended actions for the alert.
+
+|4
+|Details about each active instance of the alert, including the node and site affected, the alert severity, the UTC time when the alert rule was triggered, and the name of the affected job and service.
+
+|5
+|The hostname of the Admin Node that sent the notification.
 |===
 .Related information
 

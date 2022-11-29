@@ -68,6 +68,8 @@ Critical
 a|
 The node is connected to the grid, but an abnormal condition exists that has stopped normal operations. You should address the issue immediately.
 |===
+
+[start=2]
 . To learn about the attribute that caused the alarm to be triggered, right click the attribute name in the table.
 . To view additional details about an alarm, click the service name in the table.
 +

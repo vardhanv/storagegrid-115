@@ -73,7 +73,7 @@ a|
 Storage Hardware
 a|
 The overall status of the storage controller hardware.        If SANtricity System Manager reports a status of Needs Attention for the storage hardware, the StorageGRID system also reports this value.
-+
+
 If the status is "`needs attention,`" first check the storage controller using SANtricity software. Then, ensure that no other alarms exist that apply to the compute controller.
 a|
 Storage Controller Failed Drive Count
@@ -138,7 +138,7 @@ Compute Controller Chassis Temperature
 a|
 The temperature status of the compute controller.
 |===
-
++
 [options="header"]
 |===
 | Column in the Storage Shelves table| Description
@@ -210,9 +210,9 @@ If a status is not "`Nominal,`" review any current alerts. You can also use SANt
 
 [start=4]
 . Select *Network* to view information for each network.
-
++
 The Network Traffic graph provides a summary of overall network traffic.
-
++
 image::../media/nodes_page_network_traffic_graph.gif[Nodes Page Network Traffic Graph]
 
  .. Review the Network Interfaces section.
