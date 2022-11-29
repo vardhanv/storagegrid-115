@@ -15,7 +15,7 @@ The appliance includes indicators that help you determine the status of the appl
 
 image::../media/sg6000_cn_front_indicators.gif[Front Indicators - SG1000]
 
-[options="header"]
+[cols="1a,3a,3a" options="header"]
 |===
 |  | Display| State
 a|

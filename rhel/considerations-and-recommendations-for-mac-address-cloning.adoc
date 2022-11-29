@@ -40,9 +40,7 @@ There are two use cases to consider with MAC cloning:
 
 NOTE: If you do not want to use MAC address cloning and would rather allow all interfaces to receive and transmit data for MAC addresses other than the ones assigned by the hypervisor, ensure that the security properties at the virtual switch and port group levels are set to *Accept* for Promiscuous Mode, MAC Address Changes, and Forged Transmits. The values set on the virtual switch can be overridden by the values at the port group level, so ensure that settings are the same in both places.
 
-To enable MAC cloning, see the instructions for creating node configuration files.
-
-link:creating-node-configuration-files.html[Creating node configuration files]
+To enable MAC cloning, see the link:creating-node-configuration-files.html[instructions for creating node configuration files].
 
 == MAC cloning example
 

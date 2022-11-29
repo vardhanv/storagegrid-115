@@ -15,10 +15,11 @@ After the StorageGRID Appliance Installer has started, you should periodically r
 
 image::../media/e5700sg_leds.gif[Status indicators on the E5700SG controller]
 
-[options="header"]
+[cols="1a,2a,3a" options="header"]
 |===
 |  | Display| Description
-a|
+
+|
 1
 a|
 Attention LED
@@ -79,7 +80,7 @@ During boot-up or after a hard reset of the appliance, the following occurs:
 
 During a normal boot-up of the appliance, the seven-segment display on the E5700SG controller shows the following codes in the order listed:
 
-[options="header"]
+[cols="1a,3a" options="header"]
 |===
 | Code| Indicates
 a|
@@ -127,7 +128,7 @@ StorageGRID is running.
 
 These codes represent error conditions that might be shown on the E5700SG controller as the appliance boots up. Additional two-digit hexadecimal codes are displayed if specific low-level hardware errors occur. If any of these codes persists for more than a second or two, or if you are unable to resolve the error by following one of the prescribed troubleshooting procedures, contact technical support.
 
-[options="header"]
+[cols="1a,3a" options="header"]
 |===
 | Code| Indicates
 a|

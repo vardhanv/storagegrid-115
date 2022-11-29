@@ -11,6 +11,7 @@ summary: 'Before you decommission a site, you must obtain the following material
 [.lead]
 Before you decommission a site, you must obtain the following materials.
 
+[options="header"]
 |===
 | Item| Notes
 a|

@@ -39,33 +39,3 @@ NOTE: If any Archive Nodes will use Tivoli Storage Manager as the external archi
 * Configure audit client access. You can configure access to the system for auditing purposes through an NFS or a CIFS file share. See the instructions for administering StorageGRID.
 
 NOTE: Audit export through CIFS/Samba has been deprecated and will be removed in a future StorageGRID release.
-
-.Related information
-
-link:../admin/index.html[Administer StorageGRID]
-
-link:../s3/index.html[Use S3]
-
-link:../swift/index.html[Use Swift]
-
-link:../ilm/index.html[Manage objects with ILM]
-
-link:../monitor/index.html[Monitor & troubleshoot]
-
-link:../maintain/index.html[Maintain & recover]
-
-link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
-
-link:../sg5600/index.html[SG5600 storage appliances]
-
-link:../sg5700/index.html[SG5700 storage appliances]
-
-link:../sg6000/index.html[SG6000 storage appliances]
-
-link:../release-notes/index.html[Release notes]
-
-link:../harden/index.html[System hardening]
-
-link:../audit/index.html[Review audit logs]
-
-link:../upgrade/index.html[Upgrade software]

@@ -9,7 +9,7 @@ summary: 'You must download the StorageGRID installation archives and extract th
 :imagesdir: ../media/
 
 [.lead]
-You must download the StorageGRID installation archives and extract the files..
+You must download the StorageGRID installation archives and extract the files.
 
 .Steps
 

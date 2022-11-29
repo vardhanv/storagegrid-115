@@ -15,13 +15,9 @@ You might need to replace the appliance if it is not functioning optimally or if
 
 * You have a replacement appliance with the same part number as the appliance you are replacing.
 * You have labels to identify each cable that is connected to the appliance.
-* You have physically located the appliance that you are replacing in the data center.
-+
-link:locating-controller-in-data-center.html[Locating the controller in a data center]
+* You have physically located the appliance that you are replacing in the data center. See link:locating-controller-in-data-center.html[Locating the controller in a data center].
 
-* The appliance has been placed maintenance mode.
-+
-link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
+* The appliance has been placed maintenance mode. See link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode].
 
 .About this task
 
