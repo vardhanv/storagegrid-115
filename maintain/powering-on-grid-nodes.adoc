@@ -11,8 +11,6 @@ summary: 'Follow this sequence to start up the grid nodes after a complete shutd
 [.lead]
 Follow this sequence to start up the grid nodes after a complete shutdown.
 
-.What you'll need
-
 CAUTION: If the entire grid has been shut down for more than 15 days, you must contact technical support before starting up any grid nodes. Do not attempt the recovery procedures that rebuild Cassandra data. Doing so might result in data loss.
 
 .About this task

@@ -23,7 +23,7 @@ link:../sg100-1000/index.html[SG100 & SG1000 services appliances]
 
 .Steps
 
-. Open your web browser and navigate to `https://primary_admin_node_ip`.
+. Open your web browser and navigate to `\https://primary_admin_node_ip`.
 +
 image::../media/install_or_recover_primary_admin_node.png[Install or recover Primary Admin Node]
 

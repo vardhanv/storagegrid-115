@@ -24,6 +24,7 @@ To resolve the isolation issue, you run a command line utility on each isolated 
 
 NOTE: If the multicast Domain Name System (mDNS) is disabled in the networks, the command line utility might have to be run on each isolated node.
 
+.Steps
 . Access the node and check `/var/local/log/dynip.log` for isolation messages.
 +
 For example:

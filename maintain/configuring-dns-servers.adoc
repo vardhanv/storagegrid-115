@@ -17,6 +17,7 @@ You can add, remove, and update domain name system (DNS) servers, so that you ca
 * You must have the Maintenance or Root Access permission.
 * You must have the IP addresses of the DNS servers to configure.
 
+.About this task
 Specifying DNS server information allows you to use fully qualified domain name (FQDN) hostnames rather than IP addresses for email or SNMP notifications and AutoSupport. Specifying at least two DNS servers is recommended.
 
 IMPORTANT: Provide between two to six IP addresses for DNS servers. In general, select DNS servers that each site can access locally in the event of network islanding. This is to ensure an islanded site continues to have access to the DNS service. After configuring the grid-wide DNS server list, you can further customize the DNS server list for each node.
