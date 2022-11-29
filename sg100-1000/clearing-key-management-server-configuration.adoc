@@ -51,9 +51,7 @@ image::../media/clear_kms.png[KMS clear configuration]
 IMPORTANT: If the KMS configuration is cleared, data on the appliance will be permanently deleted. This data is not recoverable.
 
 . At the bottom of the window, select *Clear KMS Key and Delete Data*.
-. If you are sure that you want to clear the KMS configuration, type +
-`*clear*` +
-and select *Clear KMS Key and Delete Data*.
+. If you are sure that you want to clear the KMS configuration, type `*clear*` and select *Clear KMS Key and Delete Data*.
 +
 image::../media/fde_disable_confirmation.png[KMS clear confirmation]
 +

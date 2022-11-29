@@ -28,7 +28,7 @@ When you install a StorageGRID appliance, you must connect the two controllers t
 
 image::../media/sg5760_connections.gif[Connections on SG5760 appliance]
 
-[options="header"]
+[cols="1a,2a,2a,3a" options="header"]
 |===
 |  | Port| Type of port| Function
 a|
