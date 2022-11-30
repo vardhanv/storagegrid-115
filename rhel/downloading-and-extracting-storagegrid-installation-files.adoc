@@ -37,7 +37,7 @@ NOTE: Use the `.zip` file if you are running Windows on the service laptop.
 +
 The files you need depend on your planned grid topology and how you will deploy your StorageGRID system.
 +
-NOTE: The paths listed in the table are relative to the top-level directory installed by the extracted installation archive
+NOTE: The paths listed in the table are relative to the top-level directory installed by the extracted installation archive.
 
 [cols="1a,2a" options="header" subs="specialcharacters,quotes"]
 |===

@@ -62,11 +62,11 @@ link:deploying-services-appliance-node.html[Deploying a services appliance node]
 a|
 Adding an appliance Gateway or Admin Node to an existing StorageGRID system
 a|
-Instructions for expanding a StorageGRID system
+link:../expand/index.html[Instructions for expanding a StorageGRID system]
 a|
 Deploying an appliance Gateway or Admin Node as part of a node recovery operation
 a|
-Instructions for recovery and maintenance
+link:../maintain/index.html[Instructions for recovery and maintenance]
 |===
 
 .Related information

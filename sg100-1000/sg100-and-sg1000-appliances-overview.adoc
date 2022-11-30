@@ -27,13 +27,13 @@ Both models of the services appliance provide the following features:
 
 This figure shows the front of the SG100 and the SG1000 with the bezel removed.
 
+image::../media/sg1000_front_with_ssds.png[Front with SSDs SG100 and SG1000]
+
 NOTE: From the front, the two appliances are identical except for the product name on the bezel.
 
 The two solid-state drives (SSDs), indicated by the orange outline, are used for storing the StorageGRID operating system and are mirrored using RAID1 for redundancy. When the SG100 or SG1000 services appliance is configured as an Admin Node, these drives are used to store audit logs, metrics, and database tables.
 
 The remaining drive slots are blank.
-
-image::../media/sg1000_front_with_ssds.png[Front with SSDs SG100 and SG1000]
 
 == Connectors on the rear of the SG100
 
@@ -41,53 +41,36 @@ This figure shows the connectors on the back of the SG100.
 
 image::../media/sg100_rear_connectors.png[Rear Connectors SG100]
 
-[options="header"]
+[cols="1a,2a,5a,4a" options="header"]
 |===
 |  | Port| Type| Use
-a|
-1
-a|
-Network ports 1-4
-a|
-10/25-GbE, based on cable or SFP transceiver type (SFP28 and SFP+ modules are supported), switch speed, and configured link speed
-a|
-Connect to the Grid Network and the Client Network for StorageGRID.
-a|
-2
-a|
-BMC management port
-a|
-1-GbE (RJ-45)
-a|
-Connect to the appliance baseboard management controller.
-a|
-3
-a|
-Diagnostic and support ports
-a|
+|1
+|Network ports 1-4
+|10/25-GbE, based on cable or SFP transceiver type (SFP28 and SFP+ modules are supported), switch speed, and configured link speed
+|Connect to the Grid Network and the Client Network for StorageGRID.
 
+|2
+|BMC management port
+|1-GbE (RJ-45)
+|Connect to the appliance baseboard management controller.
+
+|3
+|Diagnostic and support ports
+|
 * VGA
 * Serial, 115200 8-N-1
 * USB
+|Reserved for technical support use.
 
-a|
-Reserved for technical support use.
-a|
-4
-a|
-Admin Network port 1
-a|
-1-GbE (RJ-45)
-a|
-Connect the appliance to the Admin Network for StorageGRID.
-a|
-5
-a|
-Admin Network port 2
-a|
-1-GbE (RJ-45)
-a|
-Options:
+|4
+|Admin Network port 1
+|1-GbE (RJ-45)
+|Connect the appliance to the Admin Network for StorageGRID.
+
+|5
+|Admin Network port 2
+|1-GbE (RJ-45)
+|Options:
 
 * Bond with management port 1 for a redundant connection to the Admin Network for StorageGRID.
 * Leave disconnected and available for temporary local access (IP 169.254.0.1).
@@ -101,7 +84,7 @@ This figure shows the connectors on the back of the SG1000.
 
 image::../media/sg1000_rear_connectors.png[Rear Connectors SG1000]
 
-[options="header"]
+[cols="1a,2a,4a,4a" options="header"]
 |===
 |  | Port| Type| Use
 a|
