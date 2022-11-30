@@ -19,7 +19,7 @@ NOTE: If you need to make a temporary local connection to the SG6000-CN controll
 
 image::../media/sg6000_cn_bonded_managemente_ports.gif[1-GbE ports]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Network bond mode
 a|

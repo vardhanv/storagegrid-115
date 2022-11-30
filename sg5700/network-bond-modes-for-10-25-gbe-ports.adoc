@@ -17,7 +17,7 @@ Fixed mode is the default configuration for the 10/25-GbE networking ports.
 
 image::../media/e5700sg_fixed_port.gif[Ports used for Fixed port bond mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|
@@ -42,7 +42,7 @@ Aggregate port bond mode significantly increases the throughout for each Storage
 
 image::../media/e5700sg_aggregate_port.gif[Ports used for Aggregate port bond mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|

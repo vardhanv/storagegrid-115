@@ -33,7 +33,7 @@ The figures show how the four network ports are bonded in fixed port bond mode (
 
 image::../media/sg1000_fixed_port.png[SG1000 Fixed Port Bond Mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 
@@ -53,7 +53,7 @@ image::../media/sg100_aggregate_ports.png[Aggregate Port Bond Mode SG100]
 
 image::../media/sg1000_aggregate_ports.png[Aggregate Port Bond Mode SG1000]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 

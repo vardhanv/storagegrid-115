@@ -61,7 +61,7 @@ This figure shows the front of the SG6060, which includes a 1U compute controlle
 
 image::../media/sg6060_front_view_with_and_without_bezels.gif[SG6060 Front View]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|
@@ -85,7 +85,7 @@ This figure shows the back of the SG6060, including the compute and storage cont
 
 image::../media/sg6060_rear_view.gif[SG6060 Rear View]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|
@@ -113,7 +113,7 @@ This figure shows the back of the optional expansion shelf for the SG6060, inclu
 
 image::../media/de460c_expansion_shelf_rear_view.gif[Expansion Shelf Rear]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|

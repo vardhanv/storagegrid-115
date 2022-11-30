@@ -52,7 +52,7 @@ This drawing shows two expansion shelves. If you have only one, connect IOM A to
 +
 image::../media/expansion_shelves_connections_sg6060.png[SG6060 Expansion Shelf Connections]
 +
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|

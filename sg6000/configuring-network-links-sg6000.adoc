@@ -34,7 +34,7 @@ This figure shows how the four network ports are bonded in fixed port bond mode 
 
 image::../media/sg6000_cn_fixed_port.gif[Image showing how the network ports on the SG6000-CN controller are bonded in fixed mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|
@@ -50,7 +50,7 @@ This figure shows how the four network ports are bonded in aggregate port bond m
 
 image::../media/sg6000_cn_aggregate_port.gif[Image showing how the network ports on the SG6000-CN controller are bonded in aggregate mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|

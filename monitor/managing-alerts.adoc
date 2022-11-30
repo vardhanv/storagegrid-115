@@ -494,7 +494,7 @@ Email notifications include the following information:
 
 image::../media/alerts_email_notification.png[Alerts Email Notification]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 

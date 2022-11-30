@@ -33,7 +33,7 @@ This figure shows how the four 10/25-GbE ports are bonded in Fixed port bond mod
 
 image::../media/e5700sg_fixed_port.gif[Image showing how the 10/25-GbE ports on the E5700SG controller are bonded in fixed mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|
@@ -49,7 +49,7 @@ This figure shows how the four 10/25-GbE ports are bonded in Aggregate port bond
 
 image::../media/e5700sg_aggregate_port.gif[Image showing how the 10/25-GbE ports on the E5700SG controller are bonded in aggregate mode]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Which ports are bonded
 a|

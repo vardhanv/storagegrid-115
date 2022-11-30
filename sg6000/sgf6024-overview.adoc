@@ -47,7 +47,7 @@ This figure shows the front of the SGF6024, which includes a 1U compute controll
 
 image::../media/sgf6024_front_view_with_and_without_bezels.png[SG6024 Front Views]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|
@@ -71,7 +71,7 @@ This figure shows the back of the SGF6024, including the compute and storage con
 
 image::../media/sgf6024_rear_view.gif[SG6024 Rear]
 
-[cols="1a,9a" options="header"]
+[cols="1a,5a" options="header"]
 |===
 | | Description
 a|
