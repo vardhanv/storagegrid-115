@@ -496,7 +496,7 @@ image::../media/alerts_email_notification.png[Alerts Email Notification]
 
 [cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 
 |1
 |The name of the alert, followed by the number of active instances of this alert.
@@ -624,7 +624,7 @@ image::../media/alerts_create_silence.png[Alerts > Create Silence]
 
 . Select or enter the following information:
 +
-[options="header"]
+[cols="1a,3a" options="header"]
 |===
 | Field| Description
 a|
@@ -658,7 +658,7 @@ Which node or nodes you want this silence to apply to. You can suppress an alert
 . Click *Save*.
 . If you want to modify or end a silence before it expires, you can edit or remove it.
 +
-[options="header"]
+[cols="1a,3a" options="header"]
 |===
 | Option| Description
 a|

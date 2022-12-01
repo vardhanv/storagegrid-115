@@ -67,9 +67,9 @@ The SG5712 includes two controllers and two power-fan canisters.
 
 image::../media/sg5712_with_callouts.gif[Controllers and power-fan canisters in the SG5712 appliance]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|
@@ -94,9 +94,9 @@ The SG5760 includes two controllers, two fan canisters, and two power canisters.
 
 image::../media/sg5760_with_callouts.gif[Controllers, fan canisters, and power canisters in SG5760 appliance]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|

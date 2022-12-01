@@ -15,9 +15,9 @@ The SG5612 and SG5660 models of the StorageGRID appliance both include an E2700 
 
 image::../media/sg5612_2u_rear_view.gif[Back view of SG5612 with two controllers]
 
-[cols="1a,3a" options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|
@@ -34,9 +34,9 @@ The E2700 controller is above the E5600SG controller.
 
 image::../media/sg5660_4u_rear_view.gif[Back view of SG5660 with two controllers]
 
-[cols="1a,3a" options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|
@@ -51,9 +51,9 @@ E5600SG controller
 
 image::../media/sga_controller_2700_diagram_callouts.gif[E2700 diagram]
 
-[cols="1a,3a" options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|
@@ -86,9 +86,9 @@ NOTE: The two SAS ports labeled Drive Expansion (green) on the rear of the E2700
 
 image::../media/sga_controller_5600_diagram_callouts.gif[E5600 diagram]
 
-[cols="1a,3a" options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Description
+| | Description
 a|
 1
 a|

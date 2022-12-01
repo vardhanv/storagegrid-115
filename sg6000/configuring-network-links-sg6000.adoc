@@ -34,9 +34,9 @@ This figure shows how the four network ports are bonded in fixed port bond mode 
 
 image::../media/sg6000_cn_fixed_port.gif[Image showing how the network ports on the SG6000-CN controller are bonded in fixed mode]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
+| | Which ports are bonded
 a|
 C
 a|
@@ -50,9 +50,9 @@ This figure shows how the four network ports are bonded in aggregate port bond m
 
 image::../media/sg6000_cn_aggregate_port.gif[Image showing how the network ports on the SG6000-CN controller are bonded in aggregate mode]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
+| | Which ports are bonded
 a|
 1
 a|
@@ -62,7 +62,7 @@ The table summarizes the options for configuring the four network ports. The def
 
 * *Fixed (default) port bond mode*
 +
-[options="header"]
+[cols="1a,3a,3a" options="header"]
 |===
 | Network bond mode| Client Network disabled (default)| Client Network enabled
 a|
@@ -96,7 +96,7 @@ a|
 
 * *Aggregate port bond mode*
 +
-[options="header"]
+[cols="1a,3a,3a" options="header"]
 |===
 | Network bond mode| Client Network disabled (default)| Client Network enabled
 a|

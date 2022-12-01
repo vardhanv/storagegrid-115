@@ -26,9 +26,9 @@ This figure shows how the four 10-GbE ports are bonded in fixed port bond mode (
 
 image::../media/e5600sg_fixed_port.gif[Image showing how the 10-GbE ports on the E5600SG controller are bonded in fixed mode]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
+| | Which ports are bonded
 a|
 C
 a|
@@ -42,9 +42,9 @@ This figure shows how the four 10-GbE ports are bonded in aggregate port bond mo
 
 image::../media/e5600sg_aggregate_port.gif[Image showing how the 10-GbE ports on the E5600SG controller are bonded in aggregate mode]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
+| | Which ports are bonded
 a|
 1
 a|
@@ -54,7 +54,7 @@ The table summarizes the options for configuring the four 10-GbE ports. You only
 
 * *Fixed (default) port bond mode*
 +
-[options="header"]
+[cols="1a,3a,3a" options="header"]
 |===
 | Network bond mode| Client Network disabled (default)| Client Network enabled
 a|
@@ -88,7 +88,7 @@ a|
 
 * *Aggregate port bond mode*
 +
-[options="header"]
+[cols="1a,3a,3a" options="header"]
 |===
 | Network bond mode| Client Network disabled (default)| Client Network enabled
 a|

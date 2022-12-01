@@ -33,17 +33,15 @@ The figures show how the four network ports are bonded in fixed port bond mode (
 
 image::../media/sg1000_fixed_port.png[SG1000 Fixed Port Bond Mode]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
-a|
-C
-a|
-Ports 1 and 3 are bonded together for the Client Network, if this network is used.
-a|
-G
-a|
-Ports 2 and 4 are bonded together for the Grid Network.
+| | Which ports are bonded
+
+|C
+|Ports 1 and 3 are bonded together for the Client Network, if this network is used.
+
+|G
+|Ports 2 and 4 are bonded together for the Grid Network.
 |===
 This figure shows how the four network ports are bonded in aggregate port bond mode.
 
@@ -55,13 +53,12 @@ image::../media/sg100_aggregate_ports.png[Aggregate Port Bond Mode SG100]
 
 image::../media/sg1000_aggregate_ports.png[Aggregate Port Bond Mode SG1000]
 
-[options="header"]
+[cols="1a,5a" options="header"]
 |===
-| Callout| Which ports are bonded
-a|
-1
-a|
-All four ports are grouped in a single LACP bond, allowing all ports to be used for Grid Network and Client Network traffic.
+| | Which ports are bonded
+
+|1
+|All four ports are grouped in a single LACP bond, allowing all ports to be used for Grid Network and Client Network traffic.
 |===
 The table summarizes the options for configuring the four network ports. The default settings are shown in bold. You only need to configure the settings on the Link Configuration page if you want to use a non-default setting.
 
