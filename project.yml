@@ -1,9 +1,12 @@
 ---
 settings:
-  name: StorageGRID
+  name: "StorageGRID 11.5"
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
+    harmony_enabled: false
+    lipi_enabled: false
 sidebar:
+  
   
