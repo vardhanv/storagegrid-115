@@ -1,0 +1,19 @@
+---
+permalink: sg5600/setting-up-santricity-storage-manager.html
+sidebar: sidebar
+keywords: storagegrid, sg5600, storage node, storage appliance, SANtricity Storage Manager, SANtricity, Storage Manager, configure, configuring, setup, set up, setting up
+summary: 'After accessing SANtricity Storage Manager, you can use it to configure hardware settings. Typically, you configure these settings before deploying the appliance as a Storage Node in a StorageGRID system.'
+---
+= Setting up SANtricity Storage Manager
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+After accessing SANtricity Storage Manager, you can use it to configure hardware settings. Typically, you configure these settings before deploying the appliance as a Storage Node in a StorageGRID system.
+
+.Steps
+
+* link:configuring-autosupport.html[Configuring AutoSupport]
+* link:verifying-receipt-of-autosupport.html[Verifying receipt of AutoSupport]
+* link:configuring-email-and-snmp-trap-alert-notifications.html[Configuring email and SNMP trap alert notifications]
+* link:setting-passwords-for-santricity-storage-manager.html[Setting passwords for SANtricity Storage Manager]

@@ -1,0 +1,19 @@
+---
+permalink: maintain/hotfix-planning-and-preparation.html
+sidebar: sidebar
+keywords: storagegrid, hotfix
+summary: 'You must plan before applying a hotfix to ensure minimal disruption to your StorageGRID system.'
+---
+= Hotfix planning and preparation
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You must plan before applying a hotfix to ensure minimal disruption to your StorageGRID system.
+
+.Steps
+
+* link:how-your-system-is-affected-when-you-apply-hotfix.html[How your system is affected when you apply a hotfix]
+* link:obtaining-required-materials-for-hotfix.html[Obtaining the required materials for a hotfix]
+* link:downloading-hotfix-file.html[Downloading the hotfix file]
+* link:checking-systems-condition-before-applying-hotfix.html[Checking the system's condition before applying a hotfix]

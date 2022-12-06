@@ -1,0 +1,39 @@
+---
+permalink: maintain/grid-node-procedures.html
+sidebar: sidebar
+keywords: storagegrid, grid node procedure
+summary: 'You might need to perform procedures on a specific grid node. While you can perform a few of these procedures from Grid Manager, most of the procedures require you to access Server Manager from the node’s command line.'
+---
+= Grid node procedures
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You might need to perform procedures on a specific grid node. While you can perform a few of these procedures from Grid Manager, most of the procedures require you to access Server Manager from the node's command line.
+
+Server Manager runs on every grid node to supervise the starting and stopping of services and to ensure that services gracefully join and leave the StorageGRID system. Server Manager also monitors the services on every grid node and will automatically attempt to restart any services that report faults.
+
+IMPORTANT: You should access Server Manager only if technical support has directed you to do so.
+
+NOTE: You must close the current command shell session and log out after you are finished with Server Manager. Enter: `exit`
+
+.Choices
+
+* link:viewing-server-manager-status-and-version.html[Viewing Server Manager status and version]
+* link:viewing-current-status-of-all-services.html[Viewing current status of all services]
+* link:starting-server-manager-and-all-services.html[Starting Server Manager and all services]
+* link:restarting-server-manager-and-all-services.html[Restarting Server Manager and all services]
+* link:stopping-server-manager-and-all-services.html[Stopping Server Manager and all services]
+* link:viewing-current-status-of-service.html[Viewing current status of a service]
+* link:stopping-service.html[Stopping a service]
+* link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
+* link:forcing-service-to-terminate.html[Forcing a service to terminate]
+* link:starting-or-restarting-service.html[Starting or restarting a service]
+* link:removing-port-remaps.html[Removing port remaps]
+* link:removing-port-remaps-on-bare-metal-hosts.html[Removing port remaps on bare metal hosts]
+* link:rebooting-grid-node.html[Rebooting a grid node]
+* link:shutting-down-grid-node.html[Shutting down a grid node]
+* link:powering-down-host.html[Powering down a host]
+* link:powering-off-and-on-all-nodes-in-grid.html[Powering off and on all nodes in the grid]
+* link:using-donotstart-file.html[Using a DoNotStart file]
+* link:troubleshooting-server-manager.html[Troubleshooting Server Manager]

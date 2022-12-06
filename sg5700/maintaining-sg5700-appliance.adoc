@@ -1,0 +1,25 @@
+---
+permalink: sg5700/maintaining-sg5700-appliance.html
+sidebar: sidebar
+keywords: storagegrid, sg5700, storage node, storage appliance, maintain, maintaining, hardware, procedures, tasks
+summary: 'You might need to upgrade the SANtricity OS Software on the E2800 controller, change the Ethernet link configuration of the E5700SG controller, replace the E2800 controller or the E5700SG controller, or replace specific components. The procedures in this section assume that the appliance has already been deployed as a Storage Node in a StorageGRID system.'
+---
+= Maintaining the SG5700 appliance
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You might need to upgrade the SANtricity OS Software on the E2800 controller, change the Ethernet link configuration of the E5700SG controller, replace the E2800 controller or the E5700SG controller, or replace specific components. The procedures in this section assume that the appliance has already been deployed as a Storage Node in a StorageGRID system.
+
+.Steps
+
+* link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
+* link:upgrading-santricity-os-on-storage-controller.html[Upgrading SANtricity OS on the storage controller]
+* link:upgrading-drive-firmware-using-santricity-system-manager.html[Upgrading drive firmware using SANtricity System Manager]
+* link:replacing-e2800-controller.html[Replacing the E2800 controller]
+* link:replacing-e5700sg-controller.html[Replacing the E5700SG controller]
+* link:replacing-other-hardware-components-sg5700.html[Replacing other hardware components]
+* link:changing-link-configuration-of-e5700sg-controller.html[Changing the link configuration of the E5700SG controller]
+* link:changing-mtu-setting.html[Changing the MTU setting]
+* link:checking-dns-server-configuration.html[Checking the DNS server configuration]
+* link:monitoring-node-encryption-in-maintenance-mode.html[Monitoring node encryption in maintenance mode]

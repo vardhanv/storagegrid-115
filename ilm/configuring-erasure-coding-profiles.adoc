@@ -1,0 +1,16 @@
+---
+permalink: ilm/configuring-erasure-coding-profiles.html
+sidebar: sidebar
+keywords:
+summary: 'You configure Erasure Coding profiles by associating a storage pool with an erasure-coding scheme, such as 6+3. Then, when you configure the placement instructions for an ILM rule, you can select the Erasure Coding profile. If an object matches the rule, data and parity fragments are created and distributed to the storage locations in the storage pool according to the erasure-coding scheme.'
+---
+= Configuring Erasure Coding profiles
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You configure Erasure Coding profiles by associating a storage pool with an erasure-coding scheme, such as 6+3. Then, when you configure the placement instructions for an ILM rule, you can select the Erasure Coding profile. If an object matches the rule, data and parity fragments are created and distributed to the storage locations in the storage pool according to the erasure-coding scheme.
+
+* link:creating-erasure-coding-profile.html[Creating an Erasure Coding profile]
+* link:renaming-erasure-coding-profile.html[Renaming an Erasure Coding profile]
+* link:deactivating-erasure-coding-profile.html[Deactivating an Erasure Coding profile]

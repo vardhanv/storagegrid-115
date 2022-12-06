@@ -1,0 +1,54 @@
+---
+permalink: s3/index-old.txt
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= S3 (Simple Storage Service) Implementation Guide
+:icons: font
+:imagesdir: ../media/
+
+* link:support_for_s3_rest_api.html[Support for the S3 REST API]
+ ** link:changes_to_s3_rest_api_support.html[Changes to S3 REST API support]
+ ** link:supported_versions.html[Supported versions]
+ ** link:support_for_storagegrid_platform_services.html[Support for StorageGRID platform services]
+* link:configuring_tenant_accounts_and_connections.htmlconfiguring_tenant_accounts_and_connections[Configuring tenant accounts and connections]
+* link:how_storagegrid_implements_s3_rest_api.html[How StorageGRID implements the S3 REST API]
+ ** link:conflicting_client_requests.html[Conflicting client requests]
+ ** link:consistency_controls.html[Consistency controls]
+ ** link:how_storagegrid_ilm_rules_manage_objects.html[How StorageGRID ILM rules manage objects]
+ ** link:object_versioning.html[Object versioning]
+ ** link:recommendations_for_implementing_s3_rest_api.html[Recommendations for implementing the S3 REST API]
+* link:s3_rest_api_supported_operations_and_limitations.htmls3_rest_api_supported_operations_and_limitations[S3 REST API supported operations and limitations]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmldate_handling[Date handling]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmlcommon_request_headers[Common request headers]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmlcommon_response_headers[Common response headers]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmlauthenticating_requests[Authenticating requests]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmloperations_on_service[Operations on the service]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmloperations_on_buckets[Operations on buckets]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlcreating_s3_lifecycle_configuration[Creating an S3 lifecycle configuration]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmlcustom_operations_on_buckets[Custom operations on buckets]
+ ** link:s3_rest_api_supported_operations_and_limitations.htmloperations_on_objects[Operations on objects]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlusing_s3_object_lock[Using S3 Object Lock]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlusing_server_side_encryption[Using server-side encryption]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlget_object[GET Object]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlhead_object[HEAD Object]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlpost_object_restore[POST Object restore]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlput_object[PUT Object]
+  *** link:s3_rest_api_supported_operations_and_limitations.htmlput_object_copy[PUT Object - Copy]
+* link:storagegrid_s3_rest_api_operations.htmlstoragegrid_s3_rest_api_operations[StorageGRID S3 REST API operations]
+* link:bucket_and_group_access_policies.htmlbucket_and_group_access_policies[Bucket and group access policies]
+* link:configuring_security_for_rest_api.htmlconfiguring_security_for_rest_api[Configuring security for the REST API]
+* link:monitoring_and_auditing_operations.html[Monitoring and auditing operations]
+ ** link:monitoring_object_ingest_and_retrieval_rates.html[Monitoring object ingest and retrieval rates]
+ ** link:accessing_and_reviewing_audit_logs.html[Accessing and reviewing audit logs]
+  *** link:s3_operations_tracked_in_audit_logs.html[S3 operations tracked in the audit logs]
+* link:benefits_of_active_idle_and_concurrent_http_connections.html[Benefits of active, idle, and concurrent HTTP connections]
+ ** link:benefits_of_keeping_idle_http_connections_open.html[Benefits of keeping idle HTTP connections open]
+ ** link:benefits_of_active_http_connections.html[Benefits of active HTTP connections]
+ ** link:benefits_of_concurrent_http_connections.html[Benefits of concurrent HTTP connections]
+ ** link:separation_of_http_connection_pools_for_read_and_write_operations.html[Separation of HTTP connection pools for read and write operations]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

@@ -1,0 +1,16 @@
+---
+permalink: admin/configuring-global-settings-for-stored-objects.html
+sidebar: sidebar
+keywords:
+summary: 'You can use Grid Options to configure the settings for all of the objects stored in your StorageGRID system, including stored object compression, stored object encryption. and stored object hashing.'
+---
+= Configuring global settings for stored objects
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can use Grid Options to configure the settings for all of the objects stored in your StorageGRID system, including stored object compression, stored object encryption. and stored object hashing.
+
+* link:configuring-stored-object-compression.html[Configuring stored object compression]
+* link:configuring-stored-object-encryption.html[Configuring stored object encryption]
+* link:configuring-stored-object-hashing.html[Configuring stored object hashing]

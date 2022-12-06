@@ -1,0 +1,16 @@
+---
+permalink: ilm/index.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Manage objects with ILM
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn how to manage objects with information lifecycle rules and policies and how to use S3 Object Lock to comply with regulations for object retention.
+
+* link:managing-objects-with-information-lifecycle-management.html[Managing objects with information lifecycle management]
+* link:managing-objects-with-s3-object-lock.html[Managing objects with S3 Object Lock]
+* link:example-ilm-rules-and-policies.html[Example ILM rules and policies]

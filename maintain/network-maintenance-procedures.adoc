@@ -1,0 +1,20 @@
+---
+permalink: maintain/network-maintenance-procedures.html
+sidebar: sidebar
+keywords:
+summary: 'You can configure the list of subnets on the Grid Network or update IP addresses, DNS servers, or NTP servers for your StorageGRID system.'
+---
+= Network maintenance procedures
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can configure the list of subnets on the Grid Network or update IP addresses, DNS servers, or NTP servers for your StorageGRID system.
+
+.Choices
+
+* link:updating-subnets-for-grid-network.html[Updating subnets for the Grid Network]
+* link:configuring-ip-addresses.html[Configuring IP addresses]
+* link:configuring-dns-servers.html[Configuring DNS servers]
+* link:configuring-ntp-servers.html[Configuring NTP servers]
+* link:restoring-network-connectivity-for-isolated-nodes.html[Restoring network connectivity for isolated nodes]

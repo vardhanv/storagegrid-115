@@ -1,0 +1,19 @@
+---
+permalink: harden/index.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= System hardening
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn the system settings, best practices, and recommendations for protecting a StorageGRID system from security threats.
+
+* link:hardening-storagegrid-system.html[Hardening a StorageGRID system]
+* link:hardening-guidelines-for-software-upgrades.html[Hardening guidelines for software upgrades]
+* link:hardening-guidelines-for-storagegrid-networks.html[Hardening guidelines for StorageGRID networks]
+* link:hardening-guidelines-for-storagegrid-nodes.html[Hardening guidelines for StorageGRID nodes]
+* link:hardening-guideline-for-server-certificates.html[Hardening guidelines for server certificates]
+* link:other-hardening-guidelines.html[Other hardening guidelines]]

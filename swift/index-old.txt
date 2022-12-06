@@ -1,0 +1,32 @@
+---
+permalink: swift/index-old.txt
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Swift Implementation Guide
+:icons: font
+:imagesdir: ../media/
+
+* link:openstack_swift_api_support_in_storagegrid.html[OpenStack Swift API support in StorageGRID]
+ ** link:history_of_swift_api_support_in_storagegrid.html[History of Swift API support in StorageGRID]
+ ** link:how_storagegrid_implements_swift_rest_api.html[How StorageGRID implements the Swift REST API]
+ ** link:recommendations_for_implementing_swift_rest_api.html[Recommendations for implementing the Swift REST API]
+* link:configuring_tenant_accounts_and_connections.htmlconfiguring_tenant_accounts_and_connections[Configuring tenant accounts and connections]
+ ** link:configuring_tenant_accounts_and_connections.htmlhow_client_connections_can_be_configured_for_swift[How client connections can be configured]
+* link:swift_rest_api_supported_operations.html[Swift REST API supported operations]
+ ** link:supported_swift_api_endpoints.html[Supported Swift API endpoints]
+ ** link:account_operations.html[Account operations]
+ ** link:container_operations.html[Container operations]
+ ** link:object_operations.html[Object operations]
+ ** link:options_request.html[OPTIONS request]
+ ** link:error_responses_to_swift_api_operations.html[Error responses to Swift API operations]
+* link:storagegrid_swift_rest_api_operations.html[StorageGRID Swift REST API operations]
+ ** link:get_container_consistency_request.html[GET container consistency request]
+ ** link:put_container_consistency_request.html[PUT container consistency request]
+* link:configuring_security_for_rest_api.htmlconfiguring_security_for_rest_api[Configuring security for the REST API]
+* link:monitoring_and_auditing_operations.htmlmonitoring_and_auditing_operations[Monitoring and auditing operations]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

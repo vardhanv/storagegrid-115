@@ -1,0 +1,24 @@
+---
+permalink: admin/managing-storagegrid-networks-and-connections.html
+sidebar: sidebar
+keywords:
+summary: 'You can use the Grid Manager to configure and manage StorageGRID networks and connections.'
+---
+= Managing StorageGRID networks and connections
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can use the Grid Manager to configure and manage StorageGRID networks and connections.
+
+See link:configuring-client-connections.html[Configuring S3 and Swift client connections] to learn how to connect S3 or Swift clients.
+
+* link:guidelines-for-storagegrid-networks.html[Guidelines for StorageGRID networks]
+* link:viewing-ip-addresses.html[Viewing IP addresses]
+* link:supported-ciphers-for-outgoing-tls-connections.html[Supported ciphers for outgoing TLS connections]
+* link:changing-network-transfer-encryption.html[Changing network transfer encryption]
+* link:configuring-server-certificates.html[Configuring server certificates]
+* link:configuring-storage-proxy-settings.html[Configuring Storage proxy settings]
+* link:configuring-admin-proxy-settings.html[Configuring Admin proxy settings]
+* link:managing-traffic-classification-policies.html[Managing traffic classification policies]
+* link:what-link-costs-are.html[What link costs are]

@@ -1,0 +1,30 @@
+---
+permalink: maintain/index.html
+sidebar: sidebar
+keywords:
+summary: 'Learn how to apply a hotfix; recover a failed grid node; decommission grid nodes and sites; and recover objects in the case of a system failure.'
+---
+= Maintain & recover
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn how to apply a hotfix; recover a failed grid node; decommission grid nodes and sites; and recover objects in the case of a system failure.
+
+* link:introduction-to-storagegrid-recovery-and-maintenance.html[Introduction to StorageGRID recovery and maintenance]
+
+* link:storagegrid-hotfix-procedure.html[StorageGRID hotfix procedure]
+
+* link:grid-node-recovery-procedures.html[Grid node recovery procedures]
+
+* link:how-site-recovery-is-performed-by-technical-support.html[How site recovery is performed by technical support]
+
+* link:decommission-procedure.html[Decommission procedure]
+
+* link:network-maintenance-procedures.html[Network maintenance procedures]
+
+* link:host-level-and-middleware-procedures.html[Host-level and middleware procedures]
+
+* link:grid-node-procedures.html[Grid node procedures]
+
+* link:appliance-node-cloning.html[Appliance node cloning]

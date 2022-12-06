@@ -1,0 +1,37 @@
+---
+permalink: sg6000/maintaining-sg6000-appliance.html
+sidebar: sidebar
+keywords: storagegrid, sg6000, storage node, storage appliance, maintain, maintaining, hardware, procedures, tasks
+summary: 'You might need to perform maintenance procedures on the SG6000 appliance. The procedures in this section assume that the appliance has already been deployed as a Storage Node in a StorageGRID system.'
+---
+= Maintaining the SG6000 appliance
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You might need to perform maintenance procedures on the SG6000 appliance. The procedures in this section assume that the appliance has already been deployed as a Storage Node in a StorageGRID system.
+
+.Steps
+
+* link:placing-appliance-into-maintenance-mode.html[Placing an appliance into maintenance mode]
+* link:upgrading-santricity-os-on-storage-controllers.html[Upgrading SANtricity OS on the storage controllers]
+* link:upgrading-drive-firmware-using-santricity-system-manager.html[Upgrading drive firmware using SANtricity System Manager]
+* link:adding-expansion-shelf-to-deployed-sg6060.html[Adding an expansion shelf to a deployed SG6060]
+* link:turning-controller-identify-led-on-and-off.html[Turning the controller identify LED on and off]
+* link:locating-controller-in-data-center.html[Locating the controller in a data center]
+* link:replacing-storage-controller-sg6000.html[Replacing a storage controller]
+* link:replacing-hardware-components-in-storage-controller-shelf.html[Replacing hardware components in the storage controller shelf]
+* link:replacing-hardware-components-in-optional-60-drive-expansion-shelf.html[Replacing hardware components in the optional 60-drive expansion shelf]
+* link:shutting-down-sg6000-cn-controller.html[Shutting down the SG6000-CN controller]
+* link:powering-on-sg6000-cn-controller-and-verifying-operation.html[Powering on the SG6000-CN controller and verifying operation]
+* link:replacing-sg6000-cn-controller.html[Replacing the SG6000-CN controller]
+* link:replacing-power-supply-in-sg6000-cn-controller.html[Replacing a power supply in the SG6000-CN controller]
+* link:removing-sg6000-cn-controller-from-cabinet-or-rack.html[Removing the SG6000-CN controller from a cabinet or rack]
+* link:reinstalling-sg6000-cn-controller-into-cabinet-or-rack.html[Reinstalling the SG6000-CN controller into a cabinet or rack]
+* link:removing-sg6000-cn-controller-cover.html[Removing the SG6000-CN controller cover]
+* link:reinstalling-sg6000-cn-controller-cover.html[Reinstalling the SG6000-CN controller cover]
+* link:replacing-fibre-channel-hba-in-sg6000-cn-controller.html[Replacing the Fibre Channel HBA in the SG6000-CN controller]
+* link:changing-link-configuration-of-sg6000-cn-controller.html[Changing the link configuration of the SG6000-CN controller]
+* link:changing-mtu-setting.html[Changing the MTU setting]
+* link:checking-dns-server-configuration.html[Checking the DNS server configuration]
+* link:monitoring-node-encryption-in-maintenance-mode.html[Monitoring node encryption in maintenance mode]

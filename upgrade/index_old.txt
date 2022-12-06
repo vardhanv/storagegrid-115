@@ -1,0 +1,37 @@
+---
+permalink: upgrade/index_old.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Upgrade Guide
+:icons: font
+:imagesdir: ../media/
+
+* link:about_this_release.html[About StorageGRID 11.5]
+ ** link:whats_new.html[What's new in StorageGRID 11.5]
+ ** link:removed_or_deprecated_features.html[Removed or deprecated features]
+ ** link:changes_to_grid_management_api.html[Changes to the Grid Management API]
+ ** link:changes_to_tenant_management_api.html[Changes to the Tenant Management API]
+* link:upgrade_planning_and_preparation.html[Upgrade planning and preparation]
+ ** link:estimating_time_to_complete_upgrade.html[Estimating the time to complete an upgrade]
+ ** link:how_your_system_is_affected_during_upgrade.html[How your system is affected during the upgrade]
+ ** link:impact_of_upgrade_on_groups_and_user_accounts.html[Impact of an upgrade on groups and user accounts]
+ ** link:verifying_installed_version_of_storagegrid.html[Verifying the installed version of StorageGRID]
+ ** link:obtaining_required_materials_for_software_upgrade.html[Obtaining the required materials for a software upgrade]
+  *** link:web_browser_requirements.html[Web browser requirements]
+ ** link:downloading_storagegrid_upgrade_files.html[Downloading the StorageGRID upgrade files]
+ ** link:downloading_recovery_package.html[Downloading the Recovery Package]
+ ** link:checking_systems_condition_before_upgrading_software.html[Checking the system's condition before upgrading software]
+* link:performing_upgrade.html[Performing the upgrade]
+ ** link:linux_installing_rpm_or_deb_package_on_all_hosts.html[Linux: Installing the RPM or DEB package on all hosts]
+ ** link:starting_upgrade.html[Starting the upgrade]
+ ** link:upgrading_grid_nodes_and_completing_upgrade.html[Upgrading grid nodes and completing the upgrade]
+ ** link:increasing_metadata_reserved_space_setting.html[Increasing the Metadata Reserved Space setting]
+* link:troubleshooting_upgrade_issues.html[Troubleshooting upgrade issues]
+ ** link:troubleshooting_user_interface_issues.html[Troubleshooting user interface issues]
+ ** link:docker_image_availability_check_error_messages.html["`Docker image availability check`" error messages]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

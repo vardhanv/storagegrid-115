@@ -1,0 +1,17 @@
+---
+permalink: upgrade/index.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Upgrade software
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn how to upgrade a StorageGRID system to a new release.
+
+* link:about-this-release.html[About StorageGRID 11.5]
+* link:upgrade-planning-and-preparation.html[Upgrade planning and preparation]
+* link:performing-upgrade.html[Performing the upgrade]
+* link:troubleshooting-upgrade-issues.html[Troubleshooting upgrade issues]

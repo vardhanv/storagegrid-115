@@ -1,0 +1,17 @@
+---
+permalink: admin/managing-platform-services-for-s3-tenant-accounts.html
+sidebar: sidebar
+keywords:
+summary: 'If you enable platform services for S3 tenant accounts, you must configure your grid so that tenants can access the external resources necessary to use these services.'
+---
+= Managing platform services for S3 tenant accounts
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+If you enable platform services for S3 tenant accounts, you must configure your grid so that tenants can access the external resources necessary to use these services.
+
+* link:what-platform-services-are.html[What platform services are]
+* link:networking-and-ports-for-platform-services.html[Networking and ports for platform services]
+* link:per-site-delivery-of-platform-services-messages.html[Per-site delivery of platform services messages]
+* link:troubleshooting-platform-services.html[Troubleshooting platform services]

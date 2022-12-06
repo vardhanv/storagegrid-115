@@ -1,0 +1,15 @@
+---
+permalink: s3/monitoring-and-auditing-operations.html
+sidebar: sidebar
+keywords:
+summary: 'You can monitor workloads and efficiencies for client operations by viewing transaction trends for the entire grid, or for specific nodes. You can use audit messages to monitor client operations and transactions.'
+---
+= Monitoring and auditing operations
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can monitor workloads and efficiencies for client operations by viewing transaction trends for the entire grid, or for specific nodes. You can use audit messages to monitor client operations and transactions.
+
+* link:monitoring-object-ingest-and-retrieval-rates.html[Monitoring object ingest and retrieval rates]
+* link:accessing-and-reviewing-audit-logs.html[Accessing and reviewing audit logs]

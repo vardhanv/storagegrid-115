@@ -1,0 +1,19 @@
+---
+permalink: admin/changing-ip-address-of-nfs-audit-client.html
+sidebar: sidebar
+keywords: 
+summary: ''
+---
+= Changing the IP address of an NFS audit client
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+. Add a new IP address to an existing NFS audit share.
+. Remove the original IP address.
+
+.Related information
+
+link:adding-nfs-audit-client-to-audit-share.html[Adding an NFS audit client to an audit share]
+
+link:removing-nfs-audit-client-from-audit-share.html[Removing an NFS audit client from the audit share]

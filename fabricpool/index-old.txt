@@ -1,0 +1,27 @@
+---
+permalink: fabricpool/index_old.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Configuring StorageGRID for FabricPool
+:icons: font
+:imagesdir: ../media/
+
+* link:configuring_storagegrid_for_fabricpool.html[Configuring StorageGRID for FabricPool]
+* link:information_needed_to_attach_storagegrid_as_cloud_tier.html[Information needed to attach StorageGRID as a cloud tier]
+ ** link:best_practices_for_load_balancing.html[Best practices for load balancing]
+ ** link:best_practices_for_high_availability_groups.html[Best practices for high availability groups]
+ ** link:configuring_dns_for_storagegrid_ip_addresses.html[Configuring the DNS server for StorageGRID IP addresses]
+ ** link:creating_ha_group_for_fabricpool.html[Creating a high availability (HA) group for FabricPool]
+ ** link:creating_load_balancer_endpoint_for_fabricpool.html[Creating a load balancer endpoint for FabricPool]
+ ** link:creating_tenant_account_for_fabricpool.html[Creating a tenant account for FabricPool]
+ ** link:creating_s3_bucket_and_access_key.html[Creating an S3 bucket and obtaining an access key]
+* link:using_storagegrid_ilm_with_fabricpool_data.html[Using StorageGRID information lifecycle management with FabricPool data]
+ ** link:example_ilm_policy_for_fabricpool_data.html[Example ILM policy for FabricPool data]
+* link:creating_traffic_classification_policy_for_fabricpool.html[Creating a traffic classification policy for FabricPool]
+* link:other_best_practices_for_storagegrid_and_fabricpool.html[Other best practices for StorageGRID and FabricPool]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

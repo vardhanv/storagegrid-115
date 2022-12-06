@@ -1,0 +1,38 @@
+---
+permalink: network/index-old.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Networking Guidelines
+:icons: font
+:imagesdir: ../media/
+
+* link:storagegrid_networking_overview.html[StorageGRID networking overview]
+ ** link:storagegrid_network_types.html[StorageGRID network types]
+ ** link:network_topology_examples.html[Network topology examples]
+  *** link:grid_network_topology.html[Grid Network topology]
+  *** link:admin_network_topology.html[Admin Network topology]
+  *** link:client_network_topology.html[Client Network topology]
+  *** link:topology_for_all_three_networks.html[Topology for all three networks]
+* link:networking_requirements_and_guidelines.html[Networking requirements and guidelines]
+ ** link:general_networking_requirements.html[General networking requirements]
+ ** link:network_gateway_requirements.html[Network gateway requirements]
+ ** link:subnet_requirements.html[Subnet requirements]
+ ** link:grid_network_requirements.html[Grid Network requirements]
+ ** link:admin_network_requirements.html[Admin Network requirements]
+ ** link:client_network_requirements.html[Client Network requirements]
+* link:deployment_specific_networking_requirements.html[Deployment-specific networking considerations]
+ ** link:linux_deployments.html[Linux deployments]
+ ** link:host_network_configuration_for_docker_deployments.html[Host network configuration for Docker deployments]
+ ** link:networking_and_ports_for_platform_services_and_cloud_storage_pools.html[Networking and ports for platform services and Cloud Storage Pools]
+ ** link:appliance_nodes.html[Appliance nodes]
+* link:network_installation_and_provisioning.html[Network installation and provisioning]
+* link:post_installation_guidelines.html[Post-installation guidelines]
+* link:network_port_reference.html[Network port reference]
+ ** link:internal_grid_node_communications.html[Internal grid node communications]
+ ** link:external_communications.html[External communications]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

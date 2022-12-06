@@ -1,0 +1,20 @@
+---
+permalink: ilm/example-ilm-rules-and-policies.html
+sidebar: sidebar
+keywords:
+summary: 'You can use the examples in this section as a starting point for your own ILM rules and policy.'
+---
+= Example ILM rules and policies
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You can use the examples in this section as a starting point for your own ILM rules and policy.
+
+* link:example-1-ilm-rules-and-policy-for-object-storage.html[Example 1: ILM rules and policy for object storage]
+* link:example-2-ilm-rules-and-policy-for-ec-object-size-filtering.html[Example 2: ILM rules and policy for EC object size filtering]
+* link:example-3-ilm-rules-and-policy-for-better-protection-for-image-files.html[Example 3: ILM rules and policy for better protection for image files]
+* link:example-4-ilm-rules-and-policy-for-s3-versioned-objects.html[Example 4: ILM rules and policy for S3 versioned objects]
+* link:example-5-ilm-rules-and-policy-for-strict-ingest-behavior.html[Example 5: ILM rules and policy for Strict ingest behavior]
+* link:example-6-changing-ilm-policy.html[Example 6: Changing an ILM policy]
+* link:example-7-compliant-ilm-policy-for-s3-object-lock.html[Example 7: Compliant ILM policy for S3 Object Lock]

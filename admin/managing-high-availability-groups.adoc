@@ -1,0 +1,19 @@
+---
+permalink: admin/managing-high-availability-groups.html
+sidebar: sidebar
+keywords:
+summary: 'High availability \(HA\) groups can be used to provide highly available data connections for S3 and Swift clients. HA groups can also be used to provide highly available connections to the Grid Manager and the Tenant Manager.'
+---
+= Managing high availability groups
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+High availability (HA) groups can be used to provide highly available data connections for S3 and Swift clients. HA groups can also be used to provide highly available connections to the Grid Manager and the Tenant Manager.
+
+* link:what-ha-group-is.html[What an HA group is]
+* link:how-ha-groups-are-used.html[How HA groups are used]
+* link:configuration-options-for-ha-groups.html[Configuration options for HA groups]
+* link:creating-high-availability-group.html[Creating a high availability group]
+* link:editing-high-availability-group.html[Editing a high availability group]
+* link:removing-high-availability-group.html[Removing a high availability group]
