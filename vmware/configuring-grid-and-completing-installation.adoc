@@ -1,0 +1,23 @@
+---
+permalink: vmware/configuring-grid-and-completing-installation.html
+sidebar: sidebar
+keywords: storagegrid, vmware, configuring grid, completing installation
+summary: 'You complete installation by configuring the StorageGRID system from the Grid Manager on the primary Admin Node.'
+---
+= Configuring the grid and completing installation
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You complete installation by configuring the StorageGRID system from the Grid Manager on the primary Admin Node.
+
+* link:navigating-to-grid-manager.html[Navigating to the Grid Manager]
+* link:specifying-storagegrid-license-information.html[Specifying the StorageGRID license information]
+* link:adding-sites.html[Adding sites]
+* link:specifying-grid-network-subnets.html[Specifying Grid Network subnets]
+* link:approving-pending-grid-nodes.html[Approving pending grid nodes]
+* link:specifying-network-time-protocol-server-information.html[Specifying Network Time Protocol server information]
+* link:specifying-domain-name-system-server-information.html[Specifying Domain Name System server information]
+* link:specifying-storagegrid-system-passwords.html[Specifying the StorageGRID system passwords]
+* link:reviewing-your-configuration-and-completing-installation.html[Reviewing your configuration and completing installation]
+* link:post-installation-guidelines.html[Post-installation guidelines]

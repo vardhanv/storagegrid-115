@@ -1,0 +1,18 @@
+---
+permalink: tenant/using-identity-federation.html
+sidebar: sidebar
+keywords:
+summary: 'Using identity federation makes setting up tenant groups and users faster, and it allows tenant users to sign in to the tenant account using familiar credentials.'
+---
+= Using identity federation
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Using identity federation makes setting up tenant groups and users faster, and it allows tenant users to sign in to the tenant account using familiar credentials.
+
+* link:configuring-federated-identity-source.html[Configuring a federated identity source]
+
+* link:forcing-synchronization-with-identity-source.html[Forcing synchronization with the identity source]
+
+* link:disabling-identity-federation.html[Disabling identity federation]

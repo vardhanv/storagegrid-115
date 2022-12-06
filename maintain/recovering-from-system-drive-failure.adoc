@@ -1,0 +1,31 @@
+---
+permalink: maintain/recovering-from-system-drive-failure.html
+sidebar: sidebar
+keywords: storagegrid, recover, system drive failure
+summary: 'If the system drive on a software-based Storage Node has failed, the Storage Node is not available to the StorageGRID system. You must complete a specific set of tasks to recover from a system drive failure.'
+---
+= Recovering from system drive failure
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+If the system drive on a software-based Storage Node has failed, the Storage Node is not available to the StorageGRID system. You must complete a specific set of tasks to recover from a system drive failure.
+
+.About this task
+
+Use this procedure to recover from a system drive failure on a software-based Storage Node. This procedure includes the steps to follow if any storage volumes also failed or cannot be remounted.
+
+NOTE: This procedure applies to software-based Storage Nodes only. You must follow a different procedure to recover an appliance Storage Node.
+
+link:recovering-storagegrid-appliance-storage-node.html[Recovering a StorageGRID appliance Storage Node]
+
+image::../media/storage_node_recovery_system_drive.gif[Recovery steps for failed system drive on software-based Storage Node]
+
+.Steps
+
+* link:reviewing-warnings-for-system-drive-recovery.html[Reviewing warnings for Storage Node system drive recovery]
+* link:replacing-storage-node.html[Replacing the Storage Node]
+* link:selecting-start-recovery-to-configure-storage-node.html[Selecting Start Recovery to configure a Storage Node]
+* link:remounting-and-reformatting-storage-volumes-manual-steps.html[Remounting and reformatting storage volumes ("`Manual Steps`")]
+* link:restoring-object-data-to-storage-volume-if-required.html[Restoring object data to a storage volume, if required]
+* link:checking-storage-state-after-recovering-storage-node-system-drive.html[Checking the storage state after recovering a Storage Node system drive]

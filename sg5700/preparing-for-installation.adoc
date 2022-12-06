@@ -1,0 +1,21 @@
+---
+permalink: sg5700/preparing-for-installation.html
+sidebar: sidebar
+keywords: storagegrid, sg5700, storage node, storage appliance, install, installation, preparation, get ready, prepare
+summary: 'Preparing to install a StorageGRID appliance entails preparing the site and obtaining all required hardware, cables, and tools. You should also gather IP addresses and network information.'
+---
+= Preparing for installation
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Preparing to install a StorageGRID appliance entails preparing the site and obtaining all required hardware, cables, and tools. You should also gather IP addresses and network information.
+
+.Steps
+
+* link:preparing-site-sg5700.html[Preparing the site (SG5700)]
+* link:unpacking-boxes-sg5700.html[Unpacking the boxes (SG5700)]
+* link:obtaining-additional-equipment-and-tools-sg5700.html[Obtaining additional equipment and tools (SG5700)]
+* link:web-browser-requirements.html[Web browser requirements]
+* link:reviewing-appliance-network-connections-sg5700.html[Reviewing appliance network connections]
+* link:gathering-installation-information-sg5700.html[Gathering installation information (SG5700)]

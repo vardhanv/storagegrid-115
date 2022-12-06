@@ -1,0 +1,25 @@
+---
+permalink: sg6000/installing-hardware.html
+sidebar: sidebar
+keywords: storagegrid, sg6000, storage node, storage appliance, hardware, install, installing
+summary: 'Hardware installation entails installing the SG6000-CN controller and the storage controller shelf into a cabinet or rack, connecting the cables, and applying power.'
+---
+= Installing the hardware
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Hardware installation entails installing the SG6000-CN controller and the storage controller shelf into a cabinet or rack, connecting the cables, and applying power.
+
+.Steps
+
+* link:registering-hardware.html[Registering the hardware]
+* link:sg6060-installing-60-drive-shelves-into-cabinet-or-rack.html[SG6060: Installing 60-drive shelves into a cabinet or rack]
+* link:sg6060-installing-drives.html[SG6060: Installing the drives]
+* link:sgf6024-installing-24-drive-shelves-into-cabinet-or-rack.html[SGF6024: Installing 24-drive shelves into a cabinet or rack]
+* link:sg6000-cn-installing-into-cabinet-or-rack.html[SG6000-CN: Installing into a cabinet or rack]
+* link:cabling-appliance-sg6000.html[Cabling the appliance (SG6000)]
+* link:sg6060-cabling-optional-expansion-shelves.html[SG6060: Cabling the optional expansion shelves]
+* link:connecting-power-cords-and-applying-power-sg6000.html[Connecting power cords and applying power (SG6000)]
+* link:viewing-status-indicators-and-buttons-on-sg6000-cn-controller.html[Viewing status indicators and buttons on the SG6000-CN controller]
+* link:viewing-boot-up-status-codes-for-sg6000-storage-controllers.html[Viewing boot-up status codes for the SG6000 storage controllers]

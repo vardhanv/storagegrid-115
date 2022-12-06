@@ -1,0 +1,17 @@
+---
+permalink: primer/monitoring-storagegrid-operations.html
+sidebar: sidebar
+keywords:
+summary: 'The Grid Manager provides information for monitoring the daily activities of your StorageGRID system, including its health.'
+---
+= Monitoring StorageGRID operations
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+The Grid Manager provides information for monitoring the daily activities of your StorageGRID system, including its health.
+
+* link:viewing-nodes-page.html[Viewing the Nodes page]
+* link:monitoring-and-managing-alerts.html[Monitoring and managing alerts]
+* link:using-snmp-monitoring.html[Using SNMP monitoring]
+* link:reviewing-audit-messages.html[Reviewing audit messages]

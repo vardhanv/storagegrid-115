@@ -1,0 +1,59 @@
+section: expand
+title: Expand your grid
+url: "/expand/index.html"
+entries:
+  - title: Planning a StorageGRID expansion
+    url: "/expand/planning-expansion.html"
+    entries:
+    - title: Adding storage capacity
+      url: "/expand/adding-storage-capacity.html"
+      entries:
+      - title: Guidelines for adding object capacity
+        url: "/expand/guidelines-for-adding-object-capacity.html"
+      - title: Adding storage capacity for replicated objects
+        url: "/expand/adding-storage-capacity-for-replicated-objects.html"
+      - title: Adding storage capacity for erasure-coded objects
+        url: "/expand/adding-storage-capacity-for-erasure-coded-objects.html"
+      - title: Considerations for rebalancing erasure-coded data
+        url: "/expand/considerations-for-rebalancing-erasure-coded-data.html"
+    - title: Adding metadata capacity
+      url: "/expand/adding-metadata-capacity.html"
+    - title: Adding grid nodes to add capabilities to your system
+      url: "/expand/adding-grid-nodes-to-add-capabilities.html"
+    - title: Adding a new site
+      url: "/expand/adding-new-site.html"
+  - title: Preparing for an expansion
+    url: "/expand/preparing-for-expansion.html"
+  - title: Overview of expansion procedure
+    url: "/expand/overview-of-expansion-procedure.html"
+  - title: Adding storage volumes to Storage Nodes
+    url: "/expand/adding-storage-volumes-to-storage-nodes.html"
+    entries:
+    - title: 'VMware: Adding storage volumes to a Storage Node'
+      url: "/expand/vmware-adding-storage-volumes-to-storage-node.html"
+    - title: 'Linux: Adding direct-attached or SAN volumes to a Storage Node'
+      url: "/expand/linux-adding-direct-attached-or-san-volumes-to-storage-node.html"
+  - title: Adding grid nodes to an existing site or adding a new site
+    url: "/expand/adding-grid-nodes-to-existing-site-or-adding-new-site.html"
+    entries:
+    - title: Updating subnets for the Grid Network
+      url: "/expand/updating-subnets-for-grid-network.html"
+    - title: Deploying new grid nodes
+      url: "/expand/deploying-new-grid-nodes.html"
+    - title: Performing the expansion
+      url: "/expand/performing-expansion.html"
+  - title: Configuring your expanded StorageGRID system
+    url: "/expand/configuring-expanded-storagegrid-system.html"
+    entries:
+    - title: Verifying that the Storage Node is active
+      url: "/expand/verifying-storage-node-is-active.html"
+    - title: Copying the Admin Node database
+      url: "/expand/copying-admin-node-database.html"
+    - title: Copying Prometheus metrics
+      url: "/expand/copying-prometheus-metrics.html"
+    - title: Copying audit logs
+      url: "/expand/copying-audit-logs.html"
+    - title: Rebalancing erasure-coded data after adding Storage Nodes
+      url: "/expand/rebalancing-erasure-coded-data-after-adding-storage-nodes.html"
+  - title: Contacting technical support
+    url: "/expand/contacting-technical-support.html"

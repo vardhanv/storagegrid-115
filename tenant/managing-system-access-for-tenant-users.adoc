@@ -1,0 +1,16 @@
+---
+permalink: tenant/managing-system-access-for-tenant-users.html
+sidebar: sidebar
+keywords:
+summary: 'You grant users access to a tenant account by importing groups from a federated identity source and assigning management permissions. You can also create local tenant groups and users, unless single sign-on \(SSO\) is in effect for the entire StorageGRID system.'
+---
+= Managing system access for tenant users
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+You grant users access to a tenant account by importing groups from a federated identity source and assigning management permissions. You can also create local tenant groups and users, unless single sign-on (SSO) is in effect for the entire StorageGRID system.
+
+* link:using-identity-federation.html[Using identity federation]
+* link:managing-groups.html[Managing groups]
+* link:managing-local-users.html[Managing local users]

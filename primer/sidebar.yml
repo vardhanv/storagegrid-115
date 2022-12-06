@@ -1,0 +1,71 @@
+section: primer
+title: Grid primer
+url: "/primer/index.html"
+entries:
+  - title: About StorageGRID
+    url: "/primer/about-storagegrid.html"
+    entries:
+    - title: Hybrid clouds with StorageGRID
+      url: "/primer/hybrid-clouds-with-storagegrid.html"
+  - title: StorageGRID architecture and network topology
+    url: "/primer/storagegrid-architecture-and-network-topology.html"
+  - title: How StorageGRID manages data
+    url: "/primer/how-storagegrid-manages-data.html"
+    entries:
+    - title: What an object is
+      url: "/primer/what-object-is.html"
+    - title: How object data is protected
+      url: "/primer/how-object-data-is-protected.html"
+    - title: The life of an object
+      url: "/primer/life-of-object.html"
+      entries:
+      - title: Ingest data flow
+        url: "/primer/ingest-data-flow.html"
+      - title: Copy management
+        url: "/primer/copy-management.html"
+      - title: Retrieve data flow
+        url: "/primer/retrieve-data-flow.html"
+      - title: Delete data flow
+        url: "/primer/delete-data-flow.html"
+  - title: Exploring the Grid Manager
+    url: "/primer/exploring-grid-manager.html"
+  - title: Exploring the Tenant Manager
+    url: "/primer/exploring-tenant-manager.html"
+  - title: Using StorageGRID
+    url: "/primer/using-storagegrid.html"
+    entries:
+    - title: Controlling StorageGRID access
+      url: "/primer/controlling-storagegrid-access.html"
+    - title: Managing tenants and client connections
+      url: "/primer/managing-tenants-and-client-connections.html"
+    - title: Configuring network settings
+      url: "/primer/configuring-network-settings.html"
+    - title: Configuring system settings
+      url: "/primer/configuring-system-settings.html"
+    - title: Using information lifecycle management
+      url: "/primer/using-information-lifecycle-management.html"
+    - title: Monitoring StorageGRID operations
+      url: "/primer/monitoring-storagegrid-operations.html"
+      entries:
+      - title: Viewing the Nodes page
+        url: "/primer/viewing-nodes-page.html"
+        entries:
+        - title: Tabs for the Nodes page
+          url: "/primer/tabs-for-nodes-page.html"
+        - title: Prometheus metrics
+          url: "/primer/prometheus-metrics.html"
+        - title: StorageGRID attributes
+          url: "/primer/storagegrid-attributes.html"
+      - title: Monitoring and managing alerts
+        url: "/primer/monitoring-and-managing-alerts.html"
+      - title: Using SNMP monitoring
+        url: "/primer/using-snmp-monitoring.html"
+      - title: Reviewing audit messages
+        url: "/primer/reviewing-audit-messages.html"
+    - title: Performing maintenance procedures
+      url: "/primer/performing-maintenance-procedures.html"
+      entries:
+      - title: Downloading the Recovery Package
+        url: "/primer/downloading-recovery-package.html"
+    - title: Using StorageGRID support options
+      url: "/primer/using-storagegrid-support-options.html"

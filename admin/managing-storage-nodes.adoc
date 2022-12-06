@@ -1,0 +1,19 @@
+---
+permalink: admin/managing-storage-nodes.html
+sidebar: sidebar
+keywords:
+summary: 'Storage Nodes provide disk storage capacity and services. Managing Storage Nodes entails monitoring the amount of usable space on each node, using watermark settings, and applying Storage Node configuration settings.'
+---
+= Managing Storage Nodes
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Storage Nodes provide disk storage capacity and services. Managing Storage Nodes entails monitoring the amount of usable space on each node, using watermark settings, and applying Storage Node configuration settings.
+
+* link:what-storage-node-is.html[What a Storage Node is]
+* link:managing-storage-options.html[Managing Storage Options]
+* link:managing-object-metadata-storage.html[Managing object metadata storage]
+* link:configuring-global-settings-for-stored-objects.html[Configuring global settings for stored objects]
+* link:storage-node-configuration-settings.html[Storage Node configuration settings]
+* link:managing-full-storage-nodes.html[Managing full Storage Nodes]

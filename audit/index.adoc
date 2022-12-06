@@ -1,0 +1,20 @@
+---
+permalink: audit/index.html
+sidebar: sidebar
+keywords: storagegrid, audit, logs, messages, log, message
+summary: 'Learn the StorageGRID system audit logs and see a list of all audit messages.'
+---
+= Review audit logs
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn the StorageGRID system audit logs and see a list of all audit messages.
+
+* link:audit-message-overview.html[Audit message overview]
+
+* link:audit-file-and-message-formats.html[Audit log file and message formats]
+
+* link:audit-messages-and-object-lifecycle.html[Audit messages and the object lifecycle]
+
+* link:audit-messages-main.html[Audit messages]

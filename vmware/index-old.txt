@@ -1,0 +1,47 @@
+---
+permalink: vmware/index-old.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Installation Guide
+:icons: font
+:imagesdir: ../media/
+
+* link:installation_overview.html[Installation overview]
+* link:planning_and_preparation.html[Planning and preparation]
+ ** link:required_materials.html[Required materials]
+ ** link:downloading_and_extracting_storagegrid_installation_files.html[Downloading and extracting the StorageGRID installation files]
+ ** link:software_requirements.html[Software requirements]
+ ** link:cpu_and_ram_requirements.html[CPU and RAM requirements]
+ ** link:storage_and_performance_requirements.html[Storage and performance requirements]
+ ** link:web_browser_requirements.html[Web browser requirements]
+* link:deploying_virtual_machine_grid_nodes_in_vmware_vsphere_web_client.html[Deploying virtual machine grid nodes in VMware vSphere Web Client]
+ ** link:collecting_information_about_your_deployment_environment.html[Collecting information about your deployment environment]
+ ** link:how_grid_nodes_discover_primary_admin_node.html[How grid nodes discover the primary Admin Node]
+ ** link:deploying_storagegrid_node_as_virtual_machine.html[Deploying a StorageGRID node as a virtual machine]
+* link:configuring_grid_and_completing_installation.html[Configuring the grid and completing installation]
+ ** link:navigating_to_grid_manager.html[Navigating to the Grid Manager]
+ ** link:specifying_storagegrid_license_information.html[Specifying the StorageGRID license information]
+ ** link:adding_sites.html[Adding sites]
+ ** link:specifying_grid_network_subnets.html[Specifying Grid Network subnets]
+ ** link:approving_pending_grid_nodes.html[Approving pending grid nodes]
+ ** link:specifying_network_time_protocol_server_information.html[Specifying Network Time Protocol server information]
+ ** link:specifying_domain_name_system_server_information.html[Specifying Domain Name System server information]
+ ** link:specifying_storagegrid_system_passwords.html[Specifying the StorageGRID system passwords]
+ ** link:reviewing_your_configuration_and_completing_installation.html[Reviewing your configuration and completing installation]
+ ** link:post_installation_guidelines.html[Post-installation guidelines]
+* link:automating_installation.html[Automating the installation]
+ ** link:automating_grid_node_deployment_in_vmware_vsphere.html[Automating grid node deployment in VMware vSphere]
+  *** link:defining_configuration_file_for_your_deployment.html[Defining the configuration file for your deployment]
+   **** link:configuration_file_settings.html[Configuration file settings]
+  *** link:running_bash_script.html[Running the Bash script]
+ ** link:automating_configuration_of_storagegrid.html[Automating the configuration of StorageGRID]
+* link:overview_of_installation_rest_api.html[Overview of the installation REST API]
+* link:where_to_go_next.html[Where to go next]
+* link:troubleshooting_installation_issues.html[Troubleshooting installation issues]
+ ** link:virtual_machine_resource_reservation_requires_adjustment.html[Virtual machine resource reservation requires adjustment]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

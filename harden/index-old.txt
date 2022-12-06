@@ -1,0 +1,21 @@
+---
+permalink: harden/index-old.txt
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= System Hardening Guide
+:icons: font
+:imagesdir: ../media/
+
+* link:hardening_storagegrid_system.html[Hardening a StorageGRID system]
+* link:system_hardening_guidelines.html[System hardening guidelines]
+ ** link:hardening_guidelines_for_software_upgrades.html[Hardening guidelines for software upgrades]
+ ** link:hardening_guidelines_for_storagegrid_networks.html[Hardening guidelines for StorageGRID networks]
+ ** link:hardening_guidelines_for_storagegrid_nodes.html[Hardening guidelines for StorageGRID nodes]
+ ** link:hardening_guideline_for_server_certificates.html[Hardening guidelines for server certificates]
+ ** link:other_hardening_guidelines.html[Other hardening guidelines]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

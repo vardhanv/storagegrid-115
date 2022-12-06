@@ -1,0 +1,21 @@
+---
+permalink: ilm/configuring-storage-pools.html
+sidebar: sidebar
+keywords:
+summary: 'When defining an ILM rule, you use storage pools to specify where objects are stored . Before creating a storage pool, you must review the storage pool guidelines.'
+---
+= Configuring storage pools
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+When defining an ILM rule, you use storage pools to specify where objects are stored . Before creating a storage pool, you must review the storage pool guidelines.
+
+* link:what-storage-pool-is.html[What a storage pool is]
+* link:guidelines-for-creating-storage-pools.html[Guidelines for creating storage pools]
+* link:using-multiple-storage-pools-for-cross-site-replication.html[Using multiple storage pools for cross-site replication]
+* link:using-storage-pool-as-temporary-location-deprecated.html[Using a storage pool as a temporary location (deprecated)]
+* link:creating-storage-pool.html[Creating a storage pool]
+* link:viewing-storage-pool-details.html[Viewing storage pool details]
+* link:editing-storage-pool.html[Editing a storage pool]
+* link:removing-storage-pool.html[Removing a storage pool]

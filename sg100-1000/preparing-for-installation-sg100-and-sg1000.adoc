@@ -1,0 +1,21 @@
+---
+permalink: sg100-1000/preparing-for-installation-sg100-and-sg1000.html
+sidebar: sidebar
+keywords: storagegrid, sg100, sg1000, service appliance, services appliance, gateway Node, admin node, install, installation, preparation, get ready, prepare
+summary: 'Preparing to install a StorageGRID appliance entails preparing the site and obtaining all required hardware, cables, and tools. You should also gather IP addresses and network information.'
+---
+= Preparing for installation
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Preparing to install a StorageGRID appliance entails preparing the site and obtaining all required hardware, cables, and tools. You should also gather IP addresses and network information.
+
+.Steps
+
+* link:preparing-site-sg100-and-sg1000.html[Preparing the site (SG100 and SG1000)]
+* link:unpacking-boxes-sg100-and-sg1000.html[Unpacking the boxes (SG100 and SG1000)]
+* link:obtaining-additional-equipment-and-tools-sg100-and-sg1000.html[Obtaining additional equipment and tools (SG100 and SG1000)]
+* link:web-browser-requirements.html[Web browser requirements]
+* link:reviewing-appliance-network-connections-sg100-and-sg1000.html[Reviewing appliance network connections]
+* link:gathering-installation-information-sg100-and-sg1000.html[Gathering installation information (SG100 and SG1000)]

@@ -1,0 +1,20 @@
+---
+permalink: tenant/index.html
+sidebar: sidebar
+keywords:
+summary: 'Learn how to use a StorageGRID tenant account.'
+---
+= Use a tenant account
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn how to use a StorageGRID tenant account.
+
+* link:using-tenant-manager.html[Using the Tenant Manager]
+
+* link:managing-system-access-for-tenant-users.html[Managing system access for tenant users]
+
+* link:managing-s3-tenant-accounts.html[Managing S3 tenant accounts]
+
+* link:managing-s3-platform-services.html[Managing S3 platform services]

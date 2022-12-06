@@ -1,0 +1,44 @@
+---
+permalink: primer/index_old.html
+sidebar: sidebar
+keywords:
+summary: ''
+---
+= Grid Primer
+:icons: font
+:imagesdir: ../media/
+
+* link:about_storagegrid.html[About StorageGRID]
+ ** link:hybrid_clouds_with_storagegrid.html[Hybrid clouds with StorageGRID]
+* link:storagegrid_architecture_and_network_topology.html[StorageGRID architecture and network topology]
+* link:how_storagegrid_manages_data.html[How StorageGRID manages data]
+ ** link:what_object_is.html[What an object is]
+ ** link:how_object_data_is_protected.html[How object data is protected]
+ ** link:life_of_object.html[The life of an object]
+  *** link:ingest_data_flow.html[Ingest data flow]
+  *** link:copy_management.html[Copy management]
+  *** link:retrieve_data_flow.html[Retrieve data flow]
+  *** link:delete_data_flow.html[Delete data flow]
+* link:exploring_grid_manager.html[Exploring the Grid Manager]
+* link:exploring_tenant_manager.html[Exploring the Tenant Manager]
+* link:using_storagegrid.html[Using StorageGRID]
+ ** link:controlling_storagegrid_access.html[Controlling StorageGRID access]
+ ** link:managing_tenants_and_client_connections.html[Managing tenants and client connections]
+ ** link:configuring_network_settings.html[Configuring network settings]
+ ** link:configuring_system_settings.html[Configuring system settings]
+ ** link:using_information_lifecycle_management.html[Using information lifecycle management]
+ ** link:monitoring_storagegrid_operations.html[Monitoring StorageGRID operations]
+  *** link:viewing_nodes_page.html[Viewing the Nodes page]
+   **** link:tabs_for_nodes_page.html[Tabs for the Nodes page]
+   **** link:prometheus_metrics.html[Prometheus metrics]
+   **** link:storagegrid_attributes.html[StorageGRID attributes]
+  *** link:monitoring_and_managing_alerts.html[Monitoring and managing alerts]
+  *** link:using_snmp_monitoring.html[Using SNMP monitoring]
+  *** link:reviewing_audit_messages.html[Reviewing audit messages]
+ ** link:performing_maintenance_procedures.html[Performing maintenance procedures]
+  *** link:downloading_recovery_package.html[Downloading the Recovery Package]
+ ** link:using_storagegrid_support_options.html[Using StorageGRID support options]
+* link:copyright_and_trademark.html[Copyright, trademark, and machine translation]
+ ** link:copyright.html[Copyright]
+ ** link:trademark.html[Trademark]
+ ** link:machine_translation_disclaimer.html[Machine translation]

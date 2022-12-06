@@ -1,0 +1,24 @@
+---
+permalink: sg5600/index.html
+sidebar: sidebar
+keywords: storagegrid, sg5600, storage node, storage appliance
+summary: 'Learn how to install and maintain StorageGRID SG5612 and SG5660 appliances.'
+---
+= SG5600 storage appliances
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn how to install and maintain StorageGRID SG5612 and SG5660 appliances.
+
+* link:storagegrid-appliance-overview.html[StorageGRID appliance overview]
+* link:installation-and-deployment-overview.html[Installation and deployment overview]
+* link:preparing-for-installation.html[Preparing for installation]
+* link:installing-hardware.html[Installing the hardware]
+* link:configuring-hardware.html[Configuring the hardware]
+* link:deploying-appliance-storage-node.html[Deploying an appliance Storage Node]
+* link:monitoring-storage-appliance-installation.html[Monitoring the storage appliance installation]
+* link:automating-appliance-installation-and-configuration.html[Automating appliance installation and configuration]
+* link:overview-of-installation-rest-apis.html[Overview of installation REST APIs]
+* link:troubleshooting-hardware-installation.html[Troubleshooting the hardware installation]
+* link:maintaining-sg5600-appliance.html[Maintaining the SG5600 appliance]
