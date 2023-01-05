@@ -20,6 +20,10 @@ settings:
     - name: StorageGRID
       url: https://mysupport.netapp.com/documentation/docweb/index.html?productID=63374&language=en-US
       version-number: "11.4"
+    # Release not in GitHub
+    - name: StorageGRID
+      url: https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023&archive=true
+      version-number: "11.3"
 sidebar:
   entries:
     - title: StorageGRID 11.5 Docs
