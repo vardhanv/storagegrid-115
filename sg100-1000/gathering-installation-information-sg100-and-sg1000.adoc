@@ -17,7 +17,7 @@ The Admin Network for StorageGRID is an optional network, used for system admini
 
 *SG100 RJ-45 ports*
 
-image::../media/sg100_rj_45_ports_circled.png[]
+image::../media/sg100_rj_45_ports_circled.png[SG100 RJ-45 ports]
 
 *SG1000 RJ-45 ports*
 

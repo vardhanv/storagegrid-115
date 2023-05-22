@@ -35,7 +35,7 @@ CAUTION: Store the new provisioning passphrase in a secure location. It is requi
 +
 The system displays a green success banner when the provisioning passphrase change is complete. The change should take less than a minute.
 +
-image::../media/change_provisioning_passphrase_success.png[]
+image::../media/change_provisioning_passphrase_success.png[Change provisioning passphrase - success message]
 
 . Select the *Recovery Package page* link inside the success banner.
 . Download the new Recovery Package from the Grid Manager. Select *Maintenance* > *Recovery Package* and enter the new provisioning passphrase.
