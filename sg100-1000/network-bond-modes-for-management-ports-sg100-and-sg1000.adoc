@@ -13,7 +13,7 @@ For the two 1-GbE management ports on the services appliance, you can choose Ind
 
 *SG100 network management ports*
 
-image::../media/sg100_bonded_management_ports.png[]
+image::../media/sg100_bonded_management_ports.png[SG100 bonded management ports]
 
 *SG1000 network management ports*
 

@@ -18,7 +18,7 @@ You can access the BMC interface on the services appliance using the DHCP or sta
 +
 *SG100 BMC management port*
 +
-image::../media/sg100_bmc_management_port.png[]
+image::../media/sg100_bmc_management_port.png[SG100 management port]
 +
 *SG1000 BMC management port*
 +

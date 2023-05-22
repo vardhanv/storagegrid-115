@@ -38,7 +38,7 @@ You can enable the AutoSupport feature and the individual AutoSupport options wh
 
 image::../media/autosupport_disabled_message.png[AutoSupport Disabled Message]
 
-You can select the "`x`" symbol image:../media/autosupport_close_message.png[] to close the message. The message will not appear again until your browser cache is cleared, even if AutoSupport remains disabled.
+You can select the "`x`" symbol image:../media/autosupport_close_message.png[x-symbol] to close the message. The message will not appear again until your browser cache is cleared, even if AutoSupport remains disabled.
 
 === Using Active IQ
 
