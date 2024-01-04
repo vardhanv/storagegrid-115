@@ -1,6 +1,5 @@
 settings:
   name: "StorageGRID 11.5"
-  downlevel: true
   internal:
     pdf_enabled: false
   prod:
